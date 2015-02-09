@@ -1,0 +1,14 @@
+body{
+  font-family: sans-serif
+}
+svg{
+  background: lightgrey
+}
+circle:not(.special){
+  fill: crimson;
+  opacity: .3;
+}
+circle.special{
+	fill:brown;
+  opacity: .6;
+}

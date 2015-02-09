@@ -78,3 +78,10 @@ $(document).ready(function(){
 });
 
 
+
+function load() {
+	var bdd = JSON.parse(bddlatlng);
+	alert(bdd[0].lat);
+	alert(bdd[0].lng);
+}
+

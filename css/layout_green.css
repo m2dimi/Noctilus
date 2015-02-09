@@ -467,10 +467,11 @@ color:#030;
 }
 
 .ripples {
-	display: block;
-    
-	padding-left:656px;
+	position:relative;
+	margin-left:auto;
+    margin-right:auto;
 	padding-top:300px;
+	width:50px;
 	transition: 0.3s;
 }
 
