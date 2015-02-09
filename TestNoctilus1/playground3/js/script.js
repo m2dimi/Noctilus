@@ -58,23 +58,8 @@ $(document).ready(function(){
  });
  
  
+ 
 
 
-
-$(document).ready(function(){
-	
-	$('#button').click(function() {
-    	var recup_adress = $('#adresse').val();
-    	$.ajax({
-      		url:'http://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=' + encodeURI(recup_adress)
-    	}).done(function(res){
-			 document.getElementById("resultat1").innerHTML = "La latitude est : "+res.results[0].geometry.location.lat;
-			 document.getElementById("resultat2").innerHTML = "La longitude est : "+ res.results[0].geometry.location.lng;
-        			/*document.write("La lattitude est : "+ res.results[0].geometry.location.lat+"<br/>");
-        			document.write("La longitude est : "+res.results[0].geometry.location.lng);*/
-        	})
-    })
-
-});
 
 
