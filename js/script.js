@@ -62,18 +62,37 @@ $(document).ready(function(){
 
 
 $(document).ready(function(){
+
+	
 	
 	$('#button').click(function() {
+			
+		
     	var recup_adress = $('#adresse').val();
     	$.ajax({
       		url:'http://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=' + encodeURI(recup_adress)
     	}).done(function(res){
-			 document.getElementById("resultat1").innerHTML = "La latitude est : "+res.results[0].geometry.location.lat;
-			 document.getElementById("resultat2").innerHTML = "La longitude est : "+ res.results[0].geometry.location.lng;
-        			/*document.write("La lattitude est : "+ res.results[0].geometry.location.lat+"<br/>");
-        			document.write("La longitude est : "+res.results[0].geometry.location.lng);*/
-        	})
-    })
+			
+			var maLat = res.results[0].geometry.location.lat;
+			var maLong = res.results[0].geometry.location.lng;
+			
+			$('#resultat1').text('La latitude est : ' + maLat);
+			$('#resultat2').text('La longitude est : ' + maLong);
+			
+			var monJSON = 'bddlatlng.json';
+			$.getJSON(monJSON, function(donnee){
+				$.each(donnee, function(i, bar){
+					if((bar.lat > 48.8530) && (bar.lat < 48.8531)){
+						//$('#resultat3').text('hello');
+						var mesBars = '<span class="lat">';
+						mesBars += bar.Nom + '</span>';
+						$('#resultat3').append(mesBars);
+					}									
+				});
+			});
+			
+        	});
+    	});
 
 });
 
