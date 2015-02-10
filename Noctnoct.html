@@ -9,163 +9,91 @@
     </head>
 	
 	<body>
-		
-	<a class="cd-nav-trigger cd-img-replace">Open navigation<span></span></a>
+			
+	
 
+	<!-- Section 1 -->
 	<section id="section1" class="cd-section">
-		<h1>Noctilus</h1>
-		<video autoplay  poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/polina.jpg" id="bgvid">
+		
+		<h1 style="z-index:100;" id="logo" >		
+		<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 595.3" enable-background="new 0 0 841.9 595.3" xml:space="preserve" >
+	<g>
+	<polygon fill="#FFFFFF" points="251.9,267.8 189.8,93.3 181.3,93.3 181.3,291.8 189.8,291.8 189.8,117.2 251.9,291.8 260.4,291.8 
+		260.4,93.3 251.9,93.3 	"/>
+	<circle fill="#FFFFFF" cx="373.5" cy="192.4" r="99.1"/>
+	<path fill="#FFFFFF" d="M512.5,113.7c-16.8,17.6-25.3,44.4-25.3,78.8s8.5,60.7,25.3,78.4c16.3,17.1,37.3,19.3,53.8,19.3v-8
+		c-22.1,0-36.9-5.2-48-16.9c-15.3-16.1-23.1-40.6-23.1-72.8s7.8-57.2,23.1-73.2c11.1-11.7,25.9-16.9,48-16.9v-8
+		C549.8,94.3,528.9,96.5,512.5,113.7z"/>
+	<polygon fill="#FFFFFF" points="582.1,93.3 582.1,101.8 618.3,101.8 618.3,291.8 626.8,291.8 626.8,101.8 661.3,101.8 661.3,93.3 	
+		"/>
+	<polygon fill="#FFFFFF" points="251.9,476.8 189.8,302.3 181.3,302.3 181.3,500.8 189.8,500.8 189.8,326.2 251.9,500.8 
+		260.4,500.8 260.4,302.3 251.9,302.3 	"/>
+	<path fill="#FFFFFF" d="M373.5,301.7c-55.6,0-100.9,45.3-100.9,100.9s45.3,100.9,100.9,100.9s100.9-45.3,100.9-100.9
+		S429.1,301.7,373.5,301.7z M373.5,495.4c-51.2,0-92.9-41.7-92.9-92.9s41.7-92.9,92.9-92.9s92.9,41.7,92.9,92.9
+		S424.7,495.4,373.5,495.4z"/>
+	<polygon fill="#FFFFFF" points="582.1,310.8 618.3,310.8 618.3,500.8 626.8,500.8 626.8,310.8 661.3,310.8 661.3,302.3 
+		582.1,302.3 	"/>
+	<path fill="#FFFFFF" d="M244.4,296.5c0-12.6-10.3-22.9-22.9-22.9s-22.9,10.3-22.9,22.9s10.3,22.9,22.9,22.9
+		S244.4,309.2,244.4,296.5z M206.6,296.5c0-8.2,6.7-14.9,14.9-14.9s14.9,6.7,14.9,14.9s-6.7,14.9-14.9,14.9S206.6,304.7,206.6,296.5
+		z"/>
+	<path fill="#FFFFFF" d="M512.5,321.7c-16.8,17.6-25.3,44.4-25.3,78.8s8.5,60.7,25.3,78.4c16.3,17.1,37.3,19.3,53.8,19.3v-8
+		c-22.1,0-36.9-5.2-48-16.9c-15.3-16.1-23.1-40.6-23.1-72.8s7.8-57.2,23.1-73.2c11.1-11.7,25.9-16.9,48-16.9v-8
+		C549.8,302.3,528.9,304.5,512.5,321.7z"/>
+	</g>
+	</svg>
+	</h1>
+
+
+		<video autoplay  poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/polina.jpg" id="bgvid" >
 			<source src="http://demosthenes.info/assets/videos/polina.webm" type="video/webm">
 			<source src="http://demosthenes.info/assets/videos/polina.mp4" type="video/mp4">
 		</video>
-		<a href="#section2" class="cd-scroll-down cd-img-replace">scroll down</a>
 
+		<script>
+    	var video = document.getElementsByTagName('video')[0];
+
+    	video.onended = function(e) {
+    	   window.location = "#section2";
+    	};
+		</script>
+
+		
 	</section><!-- cd-section -->
 
 
+	<!-- Section 2 -->
 	<section id="section2" class="cd-section">
-		<p>&ldquo;Le projet noctilus est une application qui permettrait de regrouper les vices nocturnes présent à Paris, autour de l'utilisateur. En effet, lors d'une sortie entre amus, il n'est pas rare de rechercher un bar, une épicerie, un bureua de tabac, ou encore de se ravaitailler dans un fast-food à une heure tardive&rdquo;</p>
-		<a href="#section3" class="cd-scroll-down cd-img-replace">scroll down</a>
+		<div id="Food" class="choix">
+			<img src="C:\wamp\www\Noctilus\img\food-gris.png"/>
+		</div>
 
+		<div id="Tabac" class="choix">
+			<img src="C:\wamp\www\Noctilus\img\tabac-gris.png"/>
+		</div>
+
+		<div id="Bar" class="choix">
+			<img src="C:\wamp\www\Noctilus\img\bar-gris.png"/>
+		</div>
+
+		<div id="Epicerie" class="choix">
+			<img src="C:\wamp\www\Noctilus\img\epicerie-gris.png"/>
+		</div>	
 	</section><!-- cd-section -->
 
+
+	<!-- Section 3 -->
 	<section id="section3" class="cd-section radar">
-		<p>&ldquo;L’utilisateur se trouve au centre de l'application. des ondes apparaissent pour indiquer que le gps est actif.&rdquo;</p>
-			<div class="ripples">  
-    
-  
-   									<div class="ripple ripple-0"></div>
-  									<div class="ripple ripple-1"></div>
-	  								<div class="ripple ripple-2"></div>
- 									<div class="ripple ripple-3"></div>
-                                   
-  								</div>
-  								 <span class="you">VOUS ÊTES ICI</span>
-  								<a href="#section4" class="cd-scroll-down cd-img-replace">scroll down</a>
-
-
+		<a href="#section4" class="cd-scroll-down cd-img-replace">scroll down</a>
 	</section><!-- cd-section -->
 
 	
-
+	<!-- Section 4 -->
 	<section id="section4" class="cd-section radar">
-		<p>L'utilisateur pourra s'orienter via un gyroscope </p>
-<a href="#section5" class="cd-scroll-down cd-img-replace">scroll down</a>
-
-  <div class="buttongyro">
-    <div class="compass"></div>
-    <div class="msg">Par ici !</div>
-</div>
-
-
-
-	</section><!-- cd-section -->
-
-	<section id="section5" style="padding:1em;" class="cd-section">
-		<p style="width: 410px;position: absolute;left: 250px;">Les cercles concentriques représentent la proximité du "vice" sélectionné et l'horaire de fermeture. De plus, la proximité du "vice" est assoié à celle du cercle avec le centre. </p>
-		<div id="content">
-			<div id="diagram"></div>
-		</div>
-
-		<div class="get">
-			<div class="arc">
-				<span class="text">A deux pas</span>
-				<span class="description">500</span>
-				<input type="hidden" class="percent" value="15" id="arcMysqlVal"/>
-				<input type="hidden" class="color" value="#add4d3" />
-			</div>
-			<div class="arc">
-				<span class="text">A 100m</span>
-				<input type="hidden" class="percent" value="90" id="arcMysqlVal2" />
-				<input type="hidden" class="color" value="#8aacb2" />
-			</div>
-			<div class="arc">
-				<span class="text">A 150m</span>
-				<input type="hidden" class="percent" value="80" id="arcMysqlVal3" />
-				<input type="hidden" class="color" value="#688591" />
-			</div>
-			<div class="arc">
-				<span class="text">A 300m</span>
-				<input type="hidden" class="percent" value="53" id="arcMysqlVal4"  />
-				<input type="hidden" class="color" value="#455d70" />
-			</div>
-			<div class="arc">
-				<span class="text">T'es courageux !</span>
-				<input type="hidden" class="percent" value="45" id="arcMysqlVal5" />
-				<input type="hidden" class="color" value="#23364f" />
-			</div>
-		</div>
-		<a href="#section6" class="cd-scroll-down cd-img-replace">scroll down</a>
-		<section>
-  <div id="slider">
-  </div>
-</section>
-	</section><!-- cd-section -->
-    
-    
-    
-    
-    
-    <section id="section6" class="cd-section">
 		
-
-<p>Tapez une adresse pour connaître vos coordonnées GPS</p>
-
-
-
-
-
-<div class="center">
-
-<FORM> 
-<input type="text" id="adresse" value="TAPEZ ICI..." /> 
-
-<input type="button" id="button" value="GO !" /> 
-</FORM> 
-
-<br/>
-<br/>
-<div id="resultat1"></div>
-<div id="resultat2"></div>
-<br />
-<div id="resultat3"></div>
-
-<div></div>
-<script src="js/script.js"></script>
-
-</div>
-
-		<a href="#section7" class="cd-scroll-down cd-img-replace">scroll down</a>
-
-
 	</section><!-- cd-section -->
+
+
 	
-    
-    
-    
-    
-    <section id="section7" class="cd-section">
-		
-
-
-
-
-
-
-<div class="center">
-
-
-
-</div>
-
-
-
-	</section><!-- cd-section -->
-	
-
-	<script src="js/index2.js"></script>	
-	
-<script src="js/main.js"></script> <!-- Resource jQuery -->
-
 	</body>
 </html>
