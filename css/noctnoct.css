@@ -482,57 +482,34 @@ p.texteaccroche{
 /*------------------Adresse-------------------*/
 
 #photorue{
-  width: 100%;
-  min-height: auto;
-  margin:0;
-  padding: 0;  
+ 
 }
 
-body{
-  font-family: 'Montserrat';
-  background: #d54040;
+#section3{
+  background-image:url(C:/wamp/www/Noctilus/img/photorue.png);
+  background-size: 100% auto; 
 }
 
-.container{
-  text-align: center;
-  width: 400px;
-  height: 320px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
 
 .fade-container{
-  background: #fe9494;
-  width: 400px;
+  background:;
+  width: 800px;
   height: 300px;
   position: relative;
   transition: background 0.15s ease-in-out;
 }
 
-.fade-container:hover{
-  cursor: pointer;
-}
 
 .fade{
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);  
+  top: 20%;
+  left: 10%;
+  /*transform: translate(-50%,-50%); */
   position: absolute;
-  text-transform: uppercase;
-  font-size: 2.5em;
-  color: #d54040;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 1.8em;
+  color: rgb(255, 255, 255);
   text-align: left;
-  width: 260px;
-}
-
-.bounceInDown{
-  opacity: 0;
-  -webkit-animation: bounceInDown 1s;
-  animation: bounceInDown 1s;
-  -webkit-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
+  z-index: 100;
 }
 
 .fadeInDown{
@@ -606,28 +583,4 @@ body{
     -webkit-transform: none;
             transform: none;
   }
-}
-
-.button{
-  opacity: 0.3;
-  display: inline-block;
-  margin: 12px 5px;
-  border: solid 1px #f26767;
-  border-radius: 10px;
-  padding: 7px 10px;
-  font-size: 0.8em;
-  font-family: 'Lato', sans-serif;
-  font-weight: 100;
-  color: #fff;
-  text-decoration: none;
-}
-
-
-.button, select{
-  opacity: 0.3;  
-  transition: opacity 0.15s ease-in-out;
-}
-
-.button:hover, select:hover{
-  opacity: 1;  
 }

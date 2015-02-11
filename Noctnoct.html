@@ -9,7 +9,7 @@
   		<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two' rel='stylesheet' type='text/css'>
   		<script type="text/javascript" src="js/jquery-2.1.1.js"></script>
   		<script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
-  		<script src="js/indexfade.js"></script>
+
     </head>
 	
 	<body>
@@ -69,7 +69,7 @@
 	<section id="section2" class="cd-section">
 		
 		<div id="Food" class="choix" style="text-align: center;">
-			<a href="#section3">
+			<a href="#section3" onclick="stepAnimateText('.fade','fadeInDown', 0.1);">
 			<img class="choiximg" src='C:\wamp\www\Noctilus\img\food-gris.png'
 			onmouseover="this.src='C:/wamp/www/Noctilus/img/food-color.png'"
 			onmouseout="this.src='C:/wamp/www/Noctilus/img/food-gris.png'"/>
@@ -78,7 +78,7 @@
 		</div>
 
 		<div id="Tabac" class="choix">
-			<a href="#section3">
+			<a href="#section3" onclick="stepAnimateText('.fade','fadeInDown', 0.1);">
 			<img class="choiximg" src="C:\wamp\www\Noctilus\img\tabac-gris.png"
 			onmouseover="this.src='C:/wamp/www/Noctilus/img/tabac-color.png'"
 			onmouseout="this.src='C:/wamp/www/Noctilus/img/tabac-gris.png'"/>
@@ -87,7 +87,7 @@
 		</div>
 
 		<div id="Bar" class="choix">
-			<a href="#section3">
+			<a href="#section3" onclick="stepAnimateText('.fade','fadeInDown', 0.1);">
 			<img class="choiximg" src="C:\wamp\www\Noctilus\img\bar-gris.png"
 			onmouseover="this.src='C:/wamp/www/Noctilus/img/bar-color.png'"
 			onmouseout="this.src='C:/wamp/www/Noctilus/img/bar-gris.png'"/>
@@ -96,7 +96,7 @@
 		</div>
 
 		<div id="Epicerie" class="choix">
-			<a href="#section3">
+			<a href="#section3" onclick="stepAnimateText('.fade','fadeInDown', 0.1);">
 			<img class="choiximg" src="C:\wamp\www\Noctilus\img\epicerie-gris.png"
 			onmouseover="this.src='C:/wamp/www/Noctilus/img/epicerie-color.png'"
 			onmouseout="this.src='C:/wamp/www/Noctilus/img/epicerie-gris.png'"/>
@@ -109,10 +109,11 @@
 	<!-- Section 3 -->
 	<section id="section3" class="cd-section radar">
 		<a href="#section4" class="cd-scroll-down cd-img-replace">scroll down</a>
-		<!--<img id="photorue" src="C:/wamp/www/Noctilus/img/photorue.png"/>-->
 		<div class="fade-container">
-        <span class="fade"> the effect of a great new thing</span>
+        <span class="fade">Mhff, j'suis ou déjà ?</span>
       	</div>
+
+      	<script src="js/indexfade.js"></script>
 	</section><!-- cd-section -->
 
 	
