@@ -58,8 +58,14 @@ $(document).ready(function(){
  });
  
  
+ function start(data){
+  console.log('voila vos data', data);
+}
+d3.json('bddlatlng.json',start);
+	
 
 
+ 
 
 $(document).ready(function(){
 
@@ -79,21 +85,77 @@ $(document).ready(function(){
 			$('#resultat1').text('La latitude est : ' + maLat);
 			$('#resultat2').text('La longitude est : ' + maLong);
 			
+			
+var points=(data=('bddlatlng.json'));
+
+
+	
+			
+
+
+
+
+var radial_distance = d3.geo.distance([maLat,maLong], [points[1].lat, points[1].lon]);
+
+// multiply radians to the mean radius
+// Cfr. http://en.wikipedia.org/wiki/Earth_radius#Mean_radius
+d3.select("#info").text( radial_distance * 6371009 + 'm');
+
+
+/*
+// draw svg
+var svg = d3.select("#playground").append('svg').attr({
+  width: 400,
+  height: 400
+});
+
+
+svg.append('circle').attr({
+  r: 20,
+  cy: 200,
+  cx: 200
+})
+
+// place the first point
+svg.selectAll('circle.point').data(points).enter()
+  .append('circle')
+    .attr({
+      class: 'point',
+      r: 20,
+      cy: 200,
+      cx: 200
+    })
+
+		
+			
 			var monJSON = 'bddlatlng.json';
 			$.getJSON(monJSON, function(donnee){
 				$.each(donnee, function(i, bar){
-					if((bar.lat > 48.8530) && (bar.lat < 48.8531)){
-						//$('#resultat3').text('hello');
+					
+						
 						var mesBars = '<span class="lat">';
 						mesBars += bar.Nom + '</span>';
 						$('#resultat3').append(mesBars);
-					}									
+														
 				});
 			});
-			
+			*/
         	});
     	});
 
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

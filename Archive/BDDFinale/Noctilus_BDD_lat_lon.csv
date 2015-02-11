@@ -1,0 +1,2397 @@
+Nom;Adresse;lat;lon;Heure d'ouverture;heure fermeture;Categorie;Food;Tabac;Epicerie;Bar
+Urfa Dürüm;56 rue du Faubourg Saint-Denis 75010 Paris;48.8722541;2.3544749;12:00;23:00;Fast Food;1;0;0;0
+Au P’tit Grec;68 rue Mouffetard 75005 Paris;48.8427596;2.3494768;11:00;23:30;Crêperie;1;0;0;0
+Maison du Gyros;26 rue de la Huchette 75005 Paris;48.8532674;2.3452153;11:00;02:00;Restaurant Grec;1;0;0;0
+L’As du Fallafel;34 rue des Rosiers 75004 Paris;48.8574054;2.3590672;12:00;00:00;Restaurant Kasher;1;0;0;0
+Istambul;132 rue du faubourg Saint Martin 75010 Paris;48.8745359;2.359038;11:00;00:00;Kebab;1;0;0;0
+Nabab Kebab;17 boulevard Montmatre 75002 Paris;48.8718484;2.3408953;11:30;00:00;Kebab;1;0;0;0
+Miznon;22 rue des Ecouffes 75004 Paris;48.8570941;2.3590088;12:00;23:30;Restaurant Kasher;1;0;0;0
+Mina;17 rue Guy de la Brosse 75005 Paris;48.8447908;2.3549418;10:30;22:00;Kebab;1;0;0;0
+Restaurant Sarya;13 rue Eugene Varlin 75010 Paris;48.8783497;2.3641109;11:00;23:00;Kebab;1;0;0;0
+Meat And Bread;324 rue Saint-Martin 75003 Paris;48.8682374;2.3554765;11:00;20:00;Burger;1;0;0;0
+De Clercq les Rois de la Frite;169 rue Montmartre 75002 Paris;48.8712868;2.3427785;11:00;00:00;Restaurant Belge;1;0;0;0
+Quick;122 ave Champs Elysées 75008 Paris;48.8728426;2.3003321;05:30;02:00;Fast Food;1;0;0;0
+Restaurant Sancak;39 Rue du Faubourg Saint-Denis 75010 Paris;48.8712736;2.3531048;05:00;22:00;Restaurant Turc;1;0;0;0
+B&M;82 ave Parmentier 75011 Paris;48.8646636;2.3753742;12:00;23:00;Burger;1;0;0;0
+Ya Hala;173 rue Vaugirard 75015 Paris;48.8431527;2.3140801;10:00;23:00;Fast Food;1;0;0;0
+Patati Patata;51 rue Lappe 75011 Paris;48.8530005;2.3743342;11:30;23:30;Fast Food;1;0;0;0
+Anatolie;79 boulevard Vincent Auriol 75013 Paris;48.8346089;2.3676448;11:00;23:00;Fast Food;1;0;0;0
+KFC;21 place de la République 75003 Paris;48.8676452;2.3622243;11:00;00:00;Fast Food;1;0;0;0
+Factory & Co;23 cour St-EmilionBercy Village 75012 Paris;48.8327432;2.3860483;11:30;23:30;Restaurant Américain (traditionnel);1;0;0;0
+Deli-cieux;Printemps Maison Étage 964 boulevard Haussman 75009 Paris;48.8790183;2.3379063;09:30;20:00;Fast Food;1;0;0;0
+King Falafel Palace;26 rue des Rosiers 75004 Paris;48.8572124;2.3594613;11:30;23:30;Restaurant Moyen-Orient;1;0;0;0
+Chipotle;1 rue LinoisCentre Commercial Beaugrenelle 75015 Paris;48.8421616;2.2927665;10:00;00:00;Restaurant Mexicain;1;0;0;0
+Le Comptoir de Brice;31-33 rue du Château d'Eau 75010 Paris;48.870767;2.3581559;;;Restaurant Français;1;0;0;0
+Man’ouché;62 rue Rambuteau 75003 Paris;48.861838;2.3511674;12:00;23:00;Fast Food;1;0;0;0
+Tata Burger;54 rue Sainte Croix de la Bretonnerie 75004 Paris;48.8590395;2.3539893;11:00;02:00;Burger;1;0;0;0
+Starbucks St-Michel Cluny;13 boulevard St Michel 75006 Paris;48.8534027;2.3436423;07:30;23:00;Café et thé;1;0;0;0
+Subway;7 boulevard de Denain 75010 Paris;48.879501;2.354105;08:00;23:00;Fast Food;1;0;0;0
+Quartino;19/21 rue Rambuteau 75004 Paris;48.8607221;2.3547694;12:00;22:00;Restaurant Italien;1;0;0;0
+Le Paradis du Fruit;23 boulevard des Italiens 75002 Paris;48.871268;2.3359718;12:00;02:00;Bar à jus de fruits & smoothies;1;0;0;0
+Mcdonald’s;140 ave Champs Elysées 75008 Paris;48.8730614;2.2991514;07:00;02:00;Fast Food;1;0;0;0
+Cactus;48 rue Laffitte 75009 Paris;48.8749346;2.3386053;11:00;22:00;Restaurant Mexicain;1;0;0;0
+Burger King;Centre Commercial Gare Saint-Lazare13 rue d'Amsterdam 75008 Paris;48.8794698;2.3267588;09:30;00:00;Burger;1;0;0;0
+Starbucks;4 rue de Sèze 75009 Paris;48.87039;2.3274959;07:30;20:30;Café;1;0;0;0
+Boulangerie Au petit Versailles du Marais;1 rue Tiron 75004 Paris;48.8555325;2.3577241;07:00;20:00;Fast Food;1;0;0;0
+M.O.B Paris;34 quai d'Austerlitz 75013 Paris;48.8408473;2.3696501;12:00;00:00;Restaurant Végétalien;1;0;0;0
+Pret A Manger;16 bis boulevard Montmartre 75009 Paris;48.8721388;2.3411542;07:30;22:00;Salade;1;0;0;0
+Starbucks St-Michel Cluny;24 boulevard Saint Michel 75006 Paris;48.8506435;2.3428257;07:30;21:00;Café et thé;1;0;0;0
+Gabe;83 rue de Turbigo 75003 Paris;48.8666948;2.3608022;11:30;21:00;Fast Food;1;0;0;0
+Joy;8 rue Gomboust 75001 Paris;48.8674235;2.3328693;11:00;20:00;Fast Food;1;0;0;0
+McDonald’s;140 avenue des Champs-Elysées 75008 Paris;48.8730614;2.2991514;07:00;02:00;Fast Food;1;0;0;0
+iyo;19 rue Mogador 75009 Paris;48.8747275;2.3313377;11:00;22:00;Restaurant Asiatique;1;0;0;0
+Iyo;Rue Lafayette 75009 Paris;48.8751209;2.340996;11:00;22:00;Restaurant Japonais;1;0;0;0
+Quick;4 avenue du Trône 75012 Paris;48.8479562;2.3976025;09:00;02:00;Fast Food;1;0;0;0
+Quick;2 rue d'Amsterdam 75009 Paris;48.8758864;2.3269479;07:00;02:00;Fast Food;1;0;0;0
+Starbucks Coffee;4 place de Clichy 75009 Paris;48.8833326;2.3279056;07:30;21:00;Café et thé;1;0;0;0
+Pret A Manger;Centre Commercial Les Quatre Temps 75008 Paris;48.8718722;2.3176432;08:00;23:00;Fast Food;1;0;0;0
+Ptitgibis Café;3-5 rue du Pot de FerQuartier Mouffetard 75005 Paris;48.8421113;2.3498974;;;Fast Food;1;0;0;0
+Le Petit Augustin;7 Place Saint Augustin 75008 Paris;48.8751952;2.3191698;09:00;20:00;Fast Food;1;0;0;0
+De Clercq;103 rue de Tolbiac 75013 Paris;48.8266312;2.3650022;11:00;22:00;Friterie;1;0;0;0
+Mcdonald’s;234 ave de Versailles 75016 Paris;48.8385355;2.2579517;07:00;00:00;Burger;1;0;0;0
+Pastapapa;30 rue Mogador 75009 Paris;48.8756647;2.3313368;11:00;00:00;Restaurant Italien;1;0;0;0
+McDonald’s;184 rue de Rivoli 75001 Paris;48.8634801;2.3336078;07:00;23:00;Fast Food;1;0;0;0
+Starbucks;77 rue Rambuteau 75001 Paris;48.8620254;2.3496854;07:30;21:00;Fast Food;1;0;0;0
+McDonald’s;12 rue Berger 75001 Paris;48.8608911;2.3481973;09:00;00:00;Fast Food;1;0;0;0
+Leslie Road;8 rue du Cambodge 75020 Paris;48.866136;2.3984202;;;Salon de thé;1;0;0;0
+Starbucks Gare Montparnasse;17 boulevard de Vaugirard 75015 Paris;48.8413675;2.3203319;08:00;21:00;Café et thé;1;0;0;0
+Quick;2 Le Parvis de la DéfenseCentre Commercial les 4 temps 92800 Paris;48.856614;2.3522219;10:30;22:30;Fast Food;1;0;0;0
+Yaal Indian Cafe;186 rue du Faubourg Saint-Denis 75010 Paris;48.8807094;2.3587223;09:00;22:00;Restaurant Indien;1;0;0;0
+ZenZoo PRUNIER;41 rue Coquillère 75001 Paris;48.8644775;2.3406382;11:30;20:00;Fast Food;1;0;0;0
+Prêt à Manger;Galeries Lafayette Gourmet35 boulevard Haussmann 75009 Paris;48.87364;2.328628;08:30;21:30;Fast Food;1;0;0;0
+Monte-Carlo;9 ave Wagram 75017 Paris;48.8754511;2.2957786;11:00;23:00;Fast Food;1;0;0;0
+Quick;11 boulevard Vaugirard 75015 Paris;48.8418106;2.3197904;08:00;23:00;Fast Food;1;0;0;0
+La Maison du Croque Monsieur;37 boulevard du Montparnasse 75006 Paris;48.8448749;2.3213926;10:00;20:00;Fast Food;1;0;0;0
+Quick;63 boulevard Saint Michel 75006 Paris;48.8478139;2.3411933;09:00;23:30;Fast Food;1;0;0;0
+Croissant Doré;2 boulevard St Michel 75006 Paris;48.8531167;2.3437852;09:30;22:00;Fast Food;1;0;0;0
+Chaak;Forum des Halles3 Zone Place Carréé 75001 Paris;48.8640493;2.3310526;11:30;21:00;Restaurant Mexicain;1;0;0;0
+Yamadaya;84 rue Maubeuge 75009 Paris;48.8795208;2.3491749;11:00;23:00;Restaurant Japonais;1;0;0;0
+Mcdonald’s;29 rue du Faubourg du Temple 75011 Paris;48.868913;2.3678732;08:30;02:00;Burger;1;0;0;0
+Smak;23 rue Fabre d'Eglantine 75012 Paris;48.8472037;2.3954057;08:00;20:30;Restaurant Français;1;0;0;0
+McDonald’s;80 rue Traversière 75012 Paris;48.8512179;2.3761815;09:30;02:00;Burger;1;0;0;0
+Francesca;61 rue de Vaugirard 75006 Paris;48.8470728;2.3275379;11:00;21:30;Fast Food;1;0;0;0
+La Cuisinette;91 rue Beaubourg 75003 Paris;48.8644114;2.355047;08:15;21:00;Salade;1;0;0;0
+Brian Is In The Kitchen;75 rue Sainte-Anne 75002 Paris;48.8687512;2.3364099;08:00;21:00;Fast Food;1;0;0;0
+KFC;31-35 boulevard de Sébastopol 75001 Paris;48.8607713;2.3491354;10:00;00:00;Fast Food;1;0;0;0
+Oh! Ma Mie!;17 rue Desaix 75015 Paris;48.8537822;2.294176;11:00;23:00;Restaurant Italien;1;0;0;0
+Starbucks Saint-Michel Seine;13 boulevard Saint-Michel 75005 Paris;48.85196;2.3437026;07:30;21:00;Café et thé;1;0;0;0
+Le Chalet du Parc;28 Boulevard JourdanAu coin du Parc Montsouris 75014 Paris;48.8223469;2.3405911;07:30;02:00;Fast Food;1;0;0;0
+Pomme de Pain - Soufflot;18 rue soufflot 75005 Paris;48.8472501;2.3424794;10:00;20:00;Fast Food;1;0;0;0
+Subway Tour Eiffel;5 boulevard de Grenelle 75015 Paris;48.8542857;2.2893694;09:00;23:00;Fast Food;1;0;0;0
+Roule Galette;8 Rue Elsa Morante 75013 Paris;48.8287438;2.382116;07:30;22:00;Fast Food;1;0;0;0
+McDonald’s Gambetta;7 place Gambetta 75020 Paris;48.8648036;2.397882;08:00;02:00;Fast Food;1;0;0;0
+KFC;1 Boulevard de Strasbourg 75010 Paris;48.8696307;2.3541016;10:00;23:30;Fast Food;1;0;0;0
+L’Epée de Blé;12 rue Bellechasse 75007 Paris;48.859494;2.3238075;11:00;00:30;Fast Food;1;0;0;0
+En cas d’encas;43 rue Laugier 75017 Paris;48.8821007;2.2943848;15:00;03:00;Burger;1;0;0;0
+Chez Jonathan;24 rue du faubourg Montmartre 75009 Paris;48.8733889;2.3429571;10:00;22:00;Restaurant Kasher;1;0;0;0
+Topping;258 boulevard Voltaire 75011 Paris;48.8505718;2.3916802;11:30;20:00;Fast Food;1;0;0;0
+Da Stuzzi;6 rue César Franck 75015 Paris;48.8475203;2.3098915;10:00;22:00;Traiteur;1;0;0;0
+Tilal;74 rue Rambuteau 75001 Paris;48.8621548;2.3496862;11:30;23:30;Fast Food;1;0;0;0
+Allo Pizza;60 av Simon Bolivar 75019 Paris;48.8765703;2.3774016;12:00;23:00;Livraison à domicile;1;0;0;0
+McDonald’s;111 Cours Vincennes 75020 Paris;48.8475332;2.4107784;09:00;05:30;Fast Food;1;0;0;0
+Mezzo di Pasta;57 avenue de la Grande Armée 75116 Paris;48.8756306;2.2876514;11:00;22:00;Fast Food;1;0;0;0
+Mc Donald’s Champs Élysées;138 ave des Champs Élysées 75008 Paris;48.8729817;2.2993823;06:00;02:00;Fast Food;1;0;0;0
+KFC;150 boulevard Ménilmontant 75020 Paris;48.8669428;2.3834048;08:00;23:00;Fast Food;1;0;0;0
+DZ;26 rue cler 75007 Paris;48.8573596;2.3058507;10:30;22:00;Traiteur;1;0;0;0
+La Kaz;20 ave de la Republique 75011 Paris;48.8662763;2.3685996;12:00;22:00;Restaurant Caribéen;1;0;0;0
+Nooï;50 boulevard Saint Michel 75006 Paris;48.8484719;2.3410764;11:00;20:00;Fast Food;1;0;0;0
+Roule Galette;9 rue aux Ours 75003 Paris;48.8629006;2.351774;09:30;22:00;Fast Food;1;0;0;0
+Oregano;21 rue du Faubourg Montmartre 75009 Paris;48.8731084;2.3427652;09:00;22:00;Restaurant Italien;1;0;0;0
+Subway;407 rue de Vaugirard 75015 Paris;48.832798;2.2888792;10:30;22:00;Fast Food;1;0;0;0
+Subway;19 quai de Montebello 75005 Paris;48.8521132;2.3486491;09:00;23:00;Fast Food;1;0;0;0
+Mcdonald’s;213 boulevard Vincent Auriol 75013 Paris;48.8307688;2.3569168;07:30;01:00;Fast Food;1;0;0;0
+Fresh;1 rue Mesnil 75116 Paris;48.8691017;2.2850453;10:30;21:00;Salade;1;0;0;0
+Au Forum;23-25 rue de Chabrol 75010 Paris;48.8766576;2.3540312;08:00;22:30;Restaurant Européen moderne;1;0;0;0
+Pomme de Pain;76 rue Rivoli 75001 Paris;48.8622783;2.3366268;07:00;22:00;Fast Food;1;0;0;0
+Sain Bio’z;34-36 ave Ledru Rollin 75012 Paris;48.8473045;2.3706471;11:00;21:00;Burger;1;0;0;0
+Mc Donald’s;208 ave Jean Jaurès 75019 Paris;48.8881997;2.3928074;09:00;00:00;Fast Food;1;0;0;0
+Blend;3 rue Yves Toudic 75010 Paris;48.869339;2.3642119;12:00;23:00;Burger;1;0;0;0
+Subway;3 rue de Castellane 75008 Paris;48.8720837;2.3253013;08:00;21:30;Burger;1;0;0;0
+Un Moment Gourmand;104 rue boileau 75016 Paris;48.8395431;2.2612225;07:30;22:00;Café et thé;1;0;0;0
+Subway;19 rue Soufflot 75005 Paris;48.8469842;2.341389;08:00;22:00;Fast Food;1;0;0;0
+McDonalds;208 ave Jean Jaurès 75019 Paris;48.8881997;2.3928074;08:00;02:00;Fast Food;1;0;0;0
+La Terra Vita;163 boulevard Lefebvre 75015 Paris;48.829053;2.3008647;11:00;23:00;Fast Food;1;0;0;0
+McDonald’s;96 rue de Provence 75009 Paris;48.8742183;2.3296315;08:00;21:00;Fast Food;1;0;0;0
+Pépé Santana;171 boulevard Lefebvre 75015 Paris;48.8287066;2.3019543;11:00;00:00;Fast Food;1;0;0;0
+Brioche Dorée;Centre Commercial Maine Montparnasse11 rue de l'Arrivée 75015 Paris;48.8436537;2.3227475;08:00;20:00;Fast Food;1;0;0;0
+Cheaper Food;5 boulevard Saint Marcel 75013 Paris;48.8391924;2.3591087;11:00;23:00;Fast Food;1;0;0;0
+Flamingo-Resto.fr;2 Rue de la PaixBanlieue 75002 Paris;48.8675641;2.34399;00:00;23:59;Livraison à domicile;1;0;0;0
+Restaurent Çamoluk;28 Rue de la py 75020 Paris;48.8650593;2.4053538;11:00;21:00;Fast Food;1;0;0;0
+Saint-honoré;80 boulevard Ornano 75018 Paris;48.8971616;2.3453914;05:30;20:30;Fast Food;1;0;0;0
+Sugar & Spice;160 rue Saint Maur 75011 Paris;48.8696611;2.3741401;11:00;23:00;Fast Food;1;0;0;0
+McDonald’s Pyrénées;1 ave Simon Bolivar 75019 Paris;48.8739647;2.3845879;10:00;00:00;Fast Food;1;0;0;0
+McDonald’s;46-48 Galerie de la Villette 75019 Paris;48.8959785;2.3844053;08:30;22:30;Fast Food;1;0;0;0
+After Apero;64 rue des pyrénées 75020 Paris;48.8531805;2.4061823;23:00;03:00;Livraison à domicile;1;0;0;0
+Mcdonald’s;62 boulevard Ornano 75018 Paris;48.8960295;2.3460605;09:00;00:00;Burger;1;0;0;0
+chtoura 66;66 av des champs élysées 75008 Paris;48.8708978;2.3053629;12:00;22:00;Fast Food;1;0;0;0
+le nilu’s;192 fbg Saint Antoinepas loin du café la liberté 75012 Paris;48.8293647;2.4265406;12:00;02:00;Fast Food;1;0;0;0
+L’oasis;11 Rue Des Boulangers 75005 Paris;48.8456972;2.3539994;11:00;22:30;Fast Food;1;0;0;0
+Cuizines Jeu de Paume;1 Place de la ConcordeMusée du Jeu de Paume 75008 Paris;48.8657992;2.3240664;12:00;23:30;Fast Food;1;0;0;0
+Peniche Six-Huit;50 Quai d'AusterlitzÀ côté du musée de la mode Face a la Gare d'Austerlitz 75013 Paris;48.842635;2.364969;13:00;00:30;Fast Food;1;0;0;0
+Le 106;106 rue Saint-Honoré 75001 Paris;48.8615435;2.3419693;14:00;01:30;Restaurant Français;1;0;0;0
+Le Paname Sandwicherie;23 rue de la Chapelle 75018 Paris;48.8919979;2.3597626;11:30;02:00;Sandwich;1;0;0;0
+Figues et Châtaignes;44 rue de la Folie Méricourt 75011 Paris;48.8636929;2.3725331;12:30;03:00;Salon de thé;1;0;0;0
+Daily Fresh;39 rue de Clignancourt 75018 Paris;48.8862204;2.3471875;08:30;20:00;Salade;1;0;0;0
+Arak;22 Rue des Ecouffes 75004 Paris;48.8570941;2.3590088;11:00;23:00;Restaurant Libanais;1;0;0;0
+Wallace Délices;10 rue des Gardes 75018 Paris;48.8855818;2.3529649;11:00;23:00;Fast Food;1;0;0;0
+231 East St. Paris;2 rue de la Pepiniere75008 75008 Paris;48.8751976;2.32379;11:00;22:00;Burger;1;0;0;0
+Subway;5 boulevard Gouvion St Cyr 75017 Paris;48.8850363;2.2915111;10:00;00:00;Restaurant Américain (traditionnel);1;0;0;0
+Macdonald;Place de Passy 75016 Paris;48.8577123;2.2775324;07:30;01:00;Burger;1;0;0;0
+Pasta City;3 bis ave de la Porte de Sèvres 75015 Paris;48.8355454;2.2782043;08:00;20:00;Fast Food;1;0;0;0
+Chloé.s Mini Food and Beverage;47 ave Trudaine 75009 Paris;48.8806864;2.3413162;09:00;21:00;Assiettes et planches;1;0;0;0
+La Turquoise;30 rue Pernety 75014 Paris;48.8335233;2.3191194;11:00;23:00;Kebab;1;0;0;0
+Doner Burger;52 rue Ménilmontant 75020 Paris;48.8682889;2.3881333;10:00;23:00;Fast Food;1;0;0;0
+Le Rapide Montmartre;8 rue fbg Montmartre 75009 Paris;48.8721396;2.3434954;11:30;01:00;Restaurant Grec;1;0;0;0
+Chez Cléopatre;46 rue Condorcet 75009 Paris;48.8802587;2.3434792;11:00;23:00;Restaurant Grec;1;0;0;0
+Le Nabab Kebab;72 rue Rambuteau 75001 Paris;48.862131;2.3498454;11:30;00:00;Kebab;1;0;0;0
+Grillé;14 rue du Temple 75004 Paris;48.8582634;2.3534309;16:00;20:00;Kebab;1;0;0;0
+Maoz;8 rue Xavier Privas 75005 Paris;48.8529186;2.3455951;11:00;23:00;Restaurant Moyen-Orient;1;0;0;0
+Croq Etoile;3 rue des acacias 75017 Paris;48.8763562;2.2899764;11:00;23:30;Fast Food;1;0;0;0
+231 East Street;2 rue de la Pepiniere 75008 Paris;48.8751976;2.32379;11:00;22:00;Restaurant Américain (traditionnel);1;0;0;0
+Burger & Fils;9 rue Commandant Rivière 75008 Paris;48.8726067;2.3086019;12:00;22:00;Restaurant Américain (traditionnel);1;0;0;0
+McDonald’s;131 avenue Victor Hugo 75016 Paris;48.8677942;2.2815253;07:30;00:00;Fast Food;1;0;0;0
+McDonald’s;167 rue de Rennes 75006 Paris;48.8444036;2.3248972;07:30;00:00;Fast Food;1;0;0;0
+La Cuisine de Bar;8 rue du Cherche Midi 75006 Paris;48.8510444;2.3287622;08:30;01:00;Fast Food;1;0;0;0
+McDonald’s;192 rue Convention 75015 Paris;48.8375378;2.2957383;07:30;00:00;Fast Food;1;0;0;0
+Buffalo Grill;3 place Blanche 75009 Paris;48.8837438;2.3322587;11:30;00:00;Restaurant Grill;1;0;0;0
+La Kaz;20 rue des Halles 75001 Paris;48.860037;2.346623;12:00;22:00;Restaurant Créole;1;0;0;0
+Baan Boran;103 rue St Honoré 75001 Paris;48.8612938;2.3428927;10:00;20:00;Fast Food;1;0;0;0
+Mamy Crêpe;18 rue Surcouf 75007 Paris;48.8607463;2.3092317;08:00;20:00;Crêperie;1;0;0;0
+McDonald’s;1 rue du Commerce 75015 Paris;48.8469217;2.2957814;07:30;02:00;Fast Food;1;0;0;0
+Tartines en Seine;Square de l'Hôtel de Ville 75004 Paris;48.8549341;2.3535179;09:00;20:00;Vendeur de rue;1;0;0;0
+Tima;139 bis avenue de Versailles 75016 Paris;48.8422514;2.2684939;10:30;22:00;Restaurant Libanais;1;0;0;0
+Starbucks Coffee;Forum des Halles1 place de la Rotonde 75001 Paris;48.8640493;2.3310526;07:45;22:30;Fast Food;1;0;0;0
+Quick;20 rue de la Roquette 75011 Paris;48.8538164;2.3711913;11:00;00:00;Burger;1;0;0;0
+The Hot Dog Corner;61 rue Vaugirard 75006 Paris;48.8470728;2.3275379;10:30;22:30;Fast Food;1;0;0;0
+Pomme de Pain;32 rue Louis le Grand 75002 Paris;48.8707745;2.3344495;07:00;22:00;Fast Food;1;0;0;0
+Quick;187 ave Clichy 75017 Paris;48.8940635;2.3136848;11:00;23:30;Fast Food;1;0;0;0
+Subway;85 rue d'Alésia 75014 Paris;48.8275637;2.3274813;10:00;00:00;Fast Food;1;0;0;0
+KFC;349 rue Vaugirard 75015 Paris;48.8369387;2.2964742;11:00;00:00;Fast Food;1;0;0;0
+McDonald’s;20 boulevard Montmartre 75009 Paris;48.8722295;2.3405049;07:00;02:00;Fast Food;1;0;0;0
+Chicken Corner;1 rue Forest 75018 Paris;48.8848804;2.3293088;10:00;08:00;Fast Food;1;0;0;0
+El Arzé;96 rue de chemin Vertsandwich plats à emporter 75011 Paris;48.857993;2.381153;12:00;23:00;Fast Food;1;0;0;0
+Macdonald;Zi Les ArbletiersRue de Jalésie 75001 Paris;48.8640493;2.3310526;10:30;00:00;Burger;1;0;0;0
+Le Sanctuaire de Baal;14 rue Sauval 75001 Paris;48.8620428;2.3425856;19:00;00:00;Restaurant Moyen-Orient;1;0;0;0
+Chipotle;20 boulevard Montmartre 75009 Paris;48.8722295;2.3405049;11:00;22:00;Restaurant Mexicain;1;0;0;0
+Sapporo;2 bis rue Daunou 75002 Paris;48.8690581;2.3327526;11:30;23:00;Restaurant Japonais;1;0;0;0
+Sneakers Café;66 rue de la Fontaine Au Roi 75011 Paris;48.8680698;2.3747706;11:00;22:00;Fast Food;1;0;0;0
+YummY Up;1 rue Hautefeuille 75006 Paris;48.8528478;2.3432464;10:00;02:00;Nourriture;1;0;0;0
+McDonald’s;5 Rue du Renard  75004 Paris;48.8580047;2.3513538;07:30;01:00;Fast food;1;0;0;0
+McDonald’s;116 rue de Rivolie 75001 Paris;48.8594168;2.3461992;07:00;01:00;Fast food;1;0;0;0
+McDonald’s;98 Boulevard Saint Germain 75005 Paris;48.8514281;2.3438037;07:30;23:30;Fast food;1;0;0;0
+McDonald’s;4 boulevard Richard Lenoir 75011 Paris;48.8539055;2.3698024;07:30;01:00;Fast food;1;0;0;0
+McDonald’s;2 Boulevard Poissonnière 75009 Paris;48.8709628;2.3476811;07:00;02:00;Fast food;1;0;0;0
+McDonald’s;34 Boulevard des Italiens 75009 Paris;48.8714174;2.3350539;07:30;00:00;Fast food;1;0;0;0
+McDonald’s;Place Léon Blum  75011 Paris;48.8580945;2.37991;09:00;02:00;Fast food;1;0;0;0
+Ly Christian;3 rue Lagrange 75005 Paris;48.8521316;2.3481409;09:00;22:00;Tabac;0;2;0;0
+NING ZHOU;129 rue Charenton 75012 Paris;48.8456271;2.3807849;08:00;22:00;Tabac;0;2;0;0
+Paristar;88 Bis avenue Parmentier 75011 Paris;48.8649499;2.3750153;07:00;22:00;Tabac;0;2;0;0
+Royal VI Nation (SNC);7 pl Nation 75011 Paris;48.8495562;2.3954715;05:30;01:00;Tabac;0;2;0;0
+Sebastos;54 bd Sébastopol 75003 Paris;48.8629376;2.3509784;08:00;22:00;Tabac;0;2;0;0
+SNCBM LE FONTANIA;25 rue Pierre Fontaine 75009 Paris;48.8819662;2.3336665;07:00;02:00;Tabac;0;2;0;0
+Tabac De La Reynie;26 rue La Reynie 75001 Paris;48.8601822;2.3485834;10:00;22:00;Tabac;0;2;0;0
+Tabac du Châtelet;8 rue St Denis 75001 Paris;48.8584758;2.3475348;07:30;02:00;Tabac;0;2;0;0
+Tabac Du Dôme;108 bd Montparnasse 75014 Paris;48.8424271;2.3282247;08:30;22:00;Tabac;0;2;0;0
+Tabac Lyon;27 rue Lyon 75012 Paris;48.8483299;2.3714838;08:30;22:00;Tabac;0;2;0;0
+TBBA;21 rue Daval 75011;48.8546443;2.371115;07:00;03:00;Tabac;0;2;0;0
+Tilly Et Cie;21 bd St Michel 75005;48.8513844;2.3432219;09:00;22:00;Tabac;0;2;0;0
+AJ et Cie;6 rue Renard 75004 Paris;48.8581976;2.3520289;07:00;22:00;Tabac;0;2;0;0
+Aux Ministères;53 avenue Ségur 75007 Paris;48.8497585;2.3084959;06:00;22:00;Tabac;0;2;0;0
+Bastorous Raafat;110 avenue Denfert Rochereau 75014 Paris;48.835178;2.3331284;07:00;22:00;Tabac;0;2;0;0
+Caurant Denise;Cafe A Jean Bart 2 rue Jouffroy d'Abbans 75017 Paris;48.8873565;2.3133417;06:00;22:00;Tabac;0;2;0;0
+Chic;4 pl Clichy 75009 Paris;48.8833326;2.3279056;05:00;03:00;Tabac;0;2;0;0
+La Caravelle;14 rue Amsterdam 75009 Paris;48.876401;2.3270901;05:30;22:00;Tabac;0;2;0;0
+Le Cépage Montmartrois;65 rue Caulaincourt 75018 Paris;48.8897742;2.3359192;07:00;23:00;Tabac;0;2;0;0
+Le Diplomate;252 rue Convention 75015 Paris;48.83549;2.3019793;07:30;23:00;Tabac;0;2;0;0
+Le Maillot;78 avenue Grande Armée 75017 Paris;48.8775323;2.2848195;06:15;01:30;Tabac;0;2;0;0
+Beaumarchais;48 rue St Sébastien 75011 Paris;48.8616203;2.3716672;08:30;22:00;Epicerie;0;0;3;0
+Belmouden Driss;75 Bis bd Clichy 75009 Paris;48.8838112;2.3308654;17:00;06:00;Epicerie;0;0;3;0
+Ben Moussa;93 rue Roquette 75011 Paris;48.8573899;2.3789995;08:00;23:00;Epicerie;0;0;3;0
+Ben Ammar Kamel;22 rue Pont aux Choux 75003 Paris;48.8613888;2.3648242;08:00;22:00;Epicerie;0;0;3;0
+Ben Maamar Abderrazak;12 bd Morland 75004 Paris;48.8491224;2.3646475;08:00;23:00;Epicerie;0;0;3;0
+Ben-Mahmoud Romdhane;55 rue Assas 75006 Paris;48.8453826;2.3320885;08:00;22:00;Epicerie;0;0;3;0
+BESMA (SARL);98 rue Ourcq 75019 Paris;48.8938496;2.3736732;07:00;22:00;Epicerie;0;0;3;0
+Blanqui Alimentation;81 bd Auguste Blanqui 75013 Paris;48.8293004;2.3474393;08:00;23:00;Epicerie;0;0;3;0
+Byzance 1;90 rue Rocher 75008 Paris;48.8806426;2.3172903;08:00;23:00;Epicerie;0;0;3;0
+Carrefour Express;54 rue Babylone 75007 Paris;48.8518494;2.3180581;08:00;22:00;Epicerie;0;0;3;0
+Carrefour Express;205 rue St Honoré 75001 Paris;48.8649782;2.3314501;08:00;22:00;Epicerie;0;0;3;0
+Carrefour Express;23 rue Linné 75005 Paris;48.8451771;2.3543549;08:00;22:00;Epicerie;0;0;3;0
+Carrefour Express;243 rue Charenton 75012 Paris;48.8371631;2.3917446;08:00;22:00;Epicerie;0;0;3;0
+Carrefour Express;135 bd Voltaire 75011 Paris;48.8562471;2.3831971;08:00;22:00;Epicerie;0;0;3;0
+Carthage;20 rue St Ambroise 75011 Paris;48.8624442;2.3782931;09:30;22:30;Epicerie;0;0;3;0
+Caves d'Argent (Les);29 rue Rambuteau 75004 Paris;48.8609042;2.3541651;10:00;22:00;Epicerie;0;0;3;0
+Cheikh Boudaker;24 rue Seine 75006 Paris;48.8557878;2.3363529;08:00;22:00;Epicerie;0;0;3;0
+CKO;49 avenue St Ouen 75017 Paris;48.890989;2.3263513;10:00;23:30;Epicerie;0;0;3;0
+Cocci Express;30 bd Hôpital 75005 Paris;48.8410154;2.3620667;08:00;22:00;Epicerie;0;0;3;0
+Cocci Market Disker;49 rue Lamarck 75018 Paris;48.8894812;2.3402999;08:30;22:00;Epicerie;0;0;3;0
+Cocci Market Loulizi Yahia Franchisé;368 rue Vaugirard 75015 Paris;48.8345226;2.2902742;09:00;22:00;Epicerie;0;0;3;0
+Coccimarket;5 rue Senlis 75017 Paris;48.8877198;2.2975744;08:00;22:00;Epicerie;0;0;3;0
+Cope Marche;13 rue Copernic 75116 Paris;48.8690507;2.2898949;07:30;22:00;Epicerie;0;0;3;0
+Couche-Tard;93 avenue Denfert Rochereau 75014 Paris;48.8349;2.3334514;08:00;23:00;Epicerie;0;0;3;0
+Da Zavola;24 rue Bernardins 75005 Paris;48.8501369;2.3503387;10:30;22:00;Epicerie;0;0;3;0
+D'Accord;37 rue Fbg Poissonnière 75009 Paris;48.8736201;2.3475657;10:00;03:00;Epicerie;0;0;3;0
+East Bengal Trading;147 rue La Fayette 75010 Paris;48.8792878;2.356226;11:00;22:00;Epicerie;0;0;3;0
+El Akhawayne;104 bd Berthier 75017 Paris;48.8896848;2.3028446;08:00;22:00;Epicerie;0;0;3;0
+El Atmani El Madani;39 bd Ornano 75018 Paris;48.8949274;2.3466729;17:00;03:00;Epicerie;0;0;3;0
+El Ghoul Boslam;59 rue Brancion 75015 Paris;48.83286;2.3038524;08:00;23:00;Epicerie;0;0;3;0
+El Ghoul Mahmoud;101 bd Malesherbes 75008 Paris;48.8790951;2.3140843;07:30;22:00;Epicerie;0;0;3;0
+El Mouatassim Boubaker;19 rue Deux Ponts 75004 Paris;48.8517292;2.3564257;09:00;22:00;Epicerie;0;0;3;0
+El Yazidi Abdellah;39 rue Serg Bauchat 75012 Paris;48.8463476;2.3930127;07:30;22:00;Epicerie;0;0;3;0
+Epicerie Du Faubourg;22 rue Fbg St Denis 75010 Paris;48.8707403;2.3533771;08:00;22:00;Epicerie;0;0;3;0
+Euro Market;18 rue Mesnil 75116 Paris;48.8677624;2.283758;10:00;22:00;Epicerie;0;0;3;0
+Franprix;103 bd Beaumarchais 75003 Paris;48.8602231;2.3674109;08:00;22:00;Epicerie;0;0;3;0
+Franprix;9 rue Quatre Septembre 75002 Paris;48.8692282;2.3379862;08:00;22:00;Epicerie;0;0;3;0
+Franprix;14 rue Lagrange 75005 Paris;48.8506715;2.3480928;08:30;22:00;Epicerie;0;0;3;0
+Franprix;2 rue Châteaudun 75009 Paris;48.8756936;2.3429943;08:30;22:00;Epicerie;0;0;3;0
+Franprix;93 rue Monge 75005 Paris;48.8416411;2.3521471;08:00;22:00;Epicerie;0;0;3;0
+Friant Market;29 rue Friant 75014 Paris;48.8242865;2.3236775;08:30;02:00;Epicerie;0;0;3;0
+Ghazi Mohamed;15 rue Vasco de Gama 75015 Paris;48.8376121;2.2826295;11:00;02:00;Epicerie;0;0;3;0
+Ghoul Jemaa;197 rue Grenelle 75007 Paris;48.8564318;2.3033284;09:00;01:00;Epicerie;0;0;3;0
+Ghoul Nourrédine;5 rue Courcelles 75008 Paris;48.8733242;2.3110443;09:00;22:00;Epicerie;0;0;3;0
+Grocer's Shop chez Sami;22 rue Ecoles 75005 Paris;48.8487627;2.3482959;09:00;02:00;Epicerie;0;0;3;0
+G20;6 bd St Denis 75010 Paris;48.869147;2.355012;09:00;23:00;Epicerie;0;0;3;0
+H . B .;17 avenue Tourville 75007 Paris;48.8537075;2.3085921;11:00;22:00;Epicerie;0;0;3;0
+Haj Boubaker-Rais;30 avenue Bugeaud 75016 Paris;48.8706688;2.2814004;08:00;22:00;Epicerie;0;0;3;0
+Haj Abouda Jamel;5 rue N-D des Champs 75006 Paris;48.8467785;2.3274075;07:30;22:00;Epicerie;0;0;3;0
+Halademe (SARL);49 rue Grange aux Belles 75010 Paris;48.8764942;2.3685557;08:00;22:00;Epicerie;0;0;3;0
+Happy Home;102 rue Ouest 75014 Paris;48.834301;2.3157393;10:00;22:00;Epicerie;0;0;3;0
+Ikerchalene Lahcen;103 rue Manin 75019 Paris;48.8833401;2.3872875;09:00;23:00;Epicerie;0;0;3;0
+Irimak;Sanab 15 rue Damrémont 75018 Paris;48.8881006;2.3327052;07:00;23:00;Epicerie;0;0;3;0
+Jabboune;5 rue David d'Angers 75019 Paris;48.8831121;2.3888427;08:00;01:00;Epicerie;0;0;3;0
+Jerba Alimentation;260 rue St Jacques 75005 Paris;48.8426268;2.3410971;07:30;02:00;Epicerie;0;0;3;0
+Jerboh Brahim;33 bd Clichy 75009 Paris;48.8825854;2.3354166;14:00;04:00;Epicerie;0;0;3;0
+Karami Omar;3 rue Fabre d'Eglantine 75012 Paris;48.8460418;2.3951479;11:00;23:00;Epicerie;0;0;3;0
+Karouia Hamed;9 rue Dantzig 75015 Paris;48.8350776;2.3003796;09:00;23:00;Epicerie;0;0;3;0
+Kathiravelu Logapragsh;28 rue Davy 75017 Paris;48.8913966;2.3243955;16:00;02:00;Epicerie;0;0;3;0
+Kechta Mohamed;112 avenue Italie 75013 Paris;48.8242439;2.3574017;15:30;03:30;Epicerie;0;0;3;0
+Kermouche Abd;49 rue Lamarck 75018 Paris;48.8894812;2.3402999;07:00;22:30;Epicerie;0;0;3;0
+Khazraoui Sadock;27 rue Tournelles 75004 Paris;48.8558247;2.3671177;10:30;23:30;Epicerie;0;0;3;0
+Krouna Hichame;22 rue Boulainvilliers 75016 Paris;48.8537889;2.2758242;09:00;23:00;Epicerie;0;0;3;0
+Krouna Jalel;110 rue Olivier de Serres 75015 Paris;48.8315459;2.2928293;08:00;22:00;Epicerie;0;0;3;0
+Krouna Soufiane;179 rue Crimée 75019 Paris;48.8901047;2.3771336;09:00;23:45;Epicerie;0;0;3;0
+La Bonne Nouvelle (SARL);33 rue George Sand 75016 Paris;48.8504687;2.2674005;08:00;02:00;Epicerie;0;0;3;0
+Labassi Walid;17 rue Alphonse Karr 75019 Paris;48.8949629;2.3805159;08:00;22:00;Epicerie;0;0;3;0
+L'Avenir Du Faubourg B Y G (SARL);10 rue Fbg St Denis 75010 Paris;48.8701494;2.3532694;09:00;22:00;Epicerie;0;0;3;0
+Lazrak Mohamed;2 rue Fernand Labori 75018 Paris;48.8986244;2.3424823;08:00;01:00;Epicerie;0;0;3;0
+Le Marché de la Butte;56 rue Trois Frères 75018 Paris;48.891305;2.3529867;09:00;23:00;Epicerie;0;0;3;0
+Le Marché des Champs Elysées;53 rue Galilée 75016 Paris;48.870764;2.2971888;08:00;01:00;Epicerie;0;0;3;0
+Le Panier Du Prince;41 rue Gén Delestraint 75016 Paris;48.8408479;2.257416;10:30;23:30;Epicerie;0;0;3;0
+Le Panier Genereux;63 bd Kellermann 75013 Paris;48.8205563;2.350354;09:00;22:00;Epicerie;0;0;3;0
+Le Saloon;129 avenue Parmentier 75011 Paris;48.8693391;2.3712615;14:00;22:00;Epicerie;0;0;3;0
+Les Quatre Saisons;35 rue Maire 75003 Paris;48.8645138;2.3557005;08:30;22:30;Epicerie;0;0;3;0
+Les Vergers De Lancry;53 rue Lancry 75010 Paris;48.8717573;2.362046;08:00;23:00;Epicerie;0;0;3;0
+L'Escale;29 avenue La Bourdonnais 75007 Paris;48.8590382;2.2984835;08:00;22:00;Epicerie;0;0;3;0
+Libre Service Longchamp Cali;150 rue Longchamp 75116 Paris;48.8681399;2.2759364;08:00;22:00;Epicerie;0;0;3;0
+Mavili;5 rue Planchat 75020 Paris;48.8520157;2.399195;08:00;22:00;Epicerie;0;0;3;0
+M.D.A (Sté);21 bd Ornano 75018 Paris;48.8930866;2.3479976;09:00;22:00;Epicerie;0;0;3;0
+Moujahed Elyis;2 rue Chine 75020 Paris;48.8644337;2.4015925;11:00;04:00;Epicerie;0;0;3;0
+N Barki Lahcen;104 bd Ney 75018 Paris;48.8980395;2.3438063;09:00;22:00;Epicerie;0;0;3;0
+Najari Larbi;3 rue Acacias 75017 Paris;48.8763562;2.2899764;08:00;01:00;Epicerie;0;0;3;0
+Nilaas;64 rue Louis Blanc 75010 Paris;48.8838206;2.3605095;09:30;22:00;Epicerie;0;0;3;0
+Ouachani Lania;59 rue Morillons 75015 Paris;48.8326432;2.3021855;08:00;22:00;Epicerie;0;0;3;0
+Oueghlani Salem;12 rue Carmes 75005 Paris;48.8494108;2.3474789;10:00;03:00;Epicerie;0;0;3;0
+Ouidir Tahar;125 bd Ménilmontant 75011 Paris;48.8659621;2.3834877;09:00;02:00;Epicerie;0;0;3;0
+Ouighlani Faouzi;56 bd Exelmans 75016 Paris;48.842329;2.262281;08:30;22:00;Epicerie;0;0;3;0
+Oukstou Lahoucine;6 rue Alexandre Dumas 75011 Paris;48.8528127;2.3894696;10:00;23:30;Epicerie;0;0;3;0
+Ouzaouit Lahoucine;2 Ter rue Malar 75007 Paris;48.8609446;2.3055385;08:30;23:00;Epicerie;0;0;3;0
+Pastavino;18 rue Buci 75006 Paris;48.8539417;2.336753;09:30;23:00;Epicerie;0;0;3;0
+Payal Das;71 rue Belleville 75019 Paris;48.8734896;2.3831239;07:00;02:00;Epicerie;0;0;3;0
+Petit Casino;186 bd Voltaire 75011 Paris;48.8544577;2.3853796;09:00;22:00;Epicerie;0;0;3;0
+Petit Casino;129 avenue Philippe Auguste 75011 Paris;48.8580295;2.3894901;09:00;22:00;Epicerie;0;0;3;0
+Petit Casino;34 rue Joseph Kessel 75012 Paris;48.8350632;2.3850256;09:00;22:00;Epicerie;0;0;3;0
+Planet Exotic;5 rue Fidélité 75010 Paris;48.8742195;2.3562296;09:00;22:00;Epicerie;0;0;3;0
+Promarkets Parisiens;12 rue Berthollet 75005 Paris;48.8394432;2.3456366;08:00;23:00;Epicerie;0;0;3;0
+R Et V Market;10 bd Davout 75020 Paris;48.8488759;2.4115968;12:00;02:00;Epicerie;0;0;3;0
+Rojbi Hayet;100 bd Brune 75014 Paris;48.8248021;2.3176362;08:00;23:00;Epicerie;0;0;3;0
+Saafi Mokhtar;83 rue Tocqueville 75017 Paris;48.8869741;2.3078892;08:30;23:00;Epicerie;0;0;3;0
+Sakal Adel Ben Salah;340 rue St Jacques 75005 Paris;48.839629;2.3398562;08:00;22:00;Epicerie;0;0;3;0
+7 Supermarché;99 rue Orteaux 75020 Paris;48.8559428;2.4081175;08:00;23:00;Epicerie;0;0;3;0
+Societe Christina;47 rue Nantes 75019 Paris;48.892731;2.3802164;10:00;23:00;Epicerie;0;0;3;0
+Soussi Bachir;151 bd Charonne 75011 Paris;48.8582157;2.3893524;08:00;22:30;Epicerie;0;0;3;0
+SUPERETTE CHAMPERRET;5 avenue Porte de Champerret 75017 Paris;48.8862443;2.2871142;15:00;05:00;Epicerie;0;0;3;0
+Supérette De La Place;2 pl Maroc 75019 Paris;48.8858155;2.3706365;07:00;02:00;Epicerie;0;0;3;0
+Superette Jeanne D'Arc;56 rue Jeanne d'Arc 75013 Paris;48.8312736;2.3666544;09:00;02:00;Epicerie;0;0;3;0
+Sutha;100 rue Bagnolet 75020 Paris;48.8590602;2.4029025;07:30;23:00;Epicerie;0;0;3;0
+Tadermet Omar;54 rue Ordener 75018 Paris;48.8920182;2.3481638;09:00;23:30;Epicerie;0;0;3;0
+Taroudant;164 rue Fbg St Martin 75010 Paris;48.8769025;2.3612699;07:00;23:00;Epicerie;0;0;3;0
+Thanu;Bât Rue 40 bd Ornano 75018 Paris;48.8942015;2.3478199;10:00;23:00;Epicerie;0;0;3;0
+Valarmathi;72 rue Moines 75017 Paris;48.8908724;2.32148;10:00;22:00;Epicerie;0;0;3;0
+Wang Shenshen;123 rue Falguière 75015 Paris;48.8374062;2.3110398;09:00;22:00;Epicerie;0;0;3;0
+Zen Market;55 avenue Bugeaud 75116 Paris;48.8709781;2.2779983;09:00;23:00;Epicerie;0;0;3;0
+Ziri Mohamed;50 rue Rébeval 75019 Paris;48.8746374;2.3797475;10:30;23:00;Epicerie;0;0;3;0
+Abalhaoune Lahoussine;79 rue Rochechouart 75009 Paris;48.8822005;2.3464164;14:00;03:00;Epicerie;0;0;3;0
+Abm Alimentation;44 rue Montparnasse 75014 Paris;48.8427347;2.3259012;11:00;02:00;Epicerie;0;0;3;0
+Afriad Tahr;11 rue Odessa 75014 Paris;48.8424213;2.324751;12:00;01:00;Epicerie;0;0;3;0
+Afro Exo;53 bd Ney 75018 Paris;48.8978627;2.3408431;11:00;22:00;Epicerie;0;0;3;0
+Aguourram Mohamed;2 rue Danton 75006 Paris;48.8529315;2.3424286;08:30;23:00;Epicerie;0;0;3;0
+Ait Taleb Lahoucine;10 rue Burq 75018 Paris;48.8860784;2.3362886;10:00;23:30;Epicerie;0;0;3;0
+AKSHA;16 rue Gauthey 75017 Paris;48.8917237;2.32055;10:00;22:00;Epicerie;0;0;3;0
+Ali Abaddah;115 rue Montreuil 75011 Paris;48.8509994;2.3957379;08:00;23:00;Epicerie;0;0;3;0
+Alimentation Cavallotti;14 rue Cavallotti 75018 Paris;48.8866143;2.3279646;07:30;22:00;Epicerie;0;0;3;0
+AMG Primeur;82 rue Blanche 75009 Paris;48.8822862;2.3319616;14:30;02:00;Epicerie;0;0;3;0
+Amhiyen Mohamed;70 rue Jean Pierre Timbaud 75011 Paris;48.8663239;2.3755038;09:00;22:00;Epicerie;0;0;3;0
+Anushka;77 rue Belleville 75019 Paris;48.8737035;2.383716;16:00;02:00;Epicerie;0;0;3;0
+Au Pain Plein;239 avenue Gambetta 75020 Paris;48.8750949;2.4052378;08:00;22:00;Epicerie;0;0;3;0
+Aux Halles De La Viande;129 rue Oberkampf 75011 Paris;48.8663964;2.3796391;08:00;01:00;Epicerie;0;0;3;0
+Barbouch Farhat;60 bd Port Royal 75005 Paris;48.8378358;2.3458818;08:00;22:00;Epicerie;0;0;3;0
+L’Avant Comptoir;9 carrefour de l'Odeon 75006 Paris;48.8519222;2.3388769;12:00;23:00;Bar à tapas;0;0;0;4
+Little Red Door;60 rue Charlot 75003 Paris;48.8635525;2.3636987;18:00;02:00;Bar à Cocktails;0;0;0;4
+Le Barav;6 rue Charles François Dupuis 75003 Paris;48.8652695;2.3633397;12:30;15:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Calbar;82 rue Charenton 75012 Paris;48.8486848;2.3752892;15:00;02:00;Bar à Cocktails;0;0;0;4
+Le Calbar;82 rue Charenton 0 Paris;48.8486848;2.3752892;15:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Super Coin;3 rue Baudelique 0 Paris;48.8921886;2.3470164;17:00;02:00;Bar;0;0;0;4
+Le Super Coin;3 rue Baudelique 75018 Paris;48.8921886;2.3470164;17:00;02:00;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+La Maroquinerie;23 rue Boyer 0 Paris;48.8685118;2.3919113;18:00;02:00;Bar;0;0;0;4
+La Maroquinerie;23 rue Boyer 75020 Paris;48.8685118;2.3919113;18:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Le Verre Bouteille;85 ave des Ternes 75017 Paris;48.8798455;2.2884641;08:00;11:00;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Experimental Cocktail Club;37 rue Saint Sauveur 75002 Paris;48.8660725;2.3482312;19:00;02:00;Bar Lounge;0;0;0;4
+Experimental Cocktail Club;37 rue Saint Sauveur 75002 Paris;48.8660725;2.3482312;19:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Dirty Dick;10 rue Frochot 75009 Paris;48.881546;2.3375954;18:00;02:00;Restaurant Hawaïen;0;0;0;4
+Dirty Dick;10 rue Frochot 75009 Paris;48.881546;2.3375954;18:00;02:00;Restaurant Hawaïen;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Le Black Dog;26 rue des Lombards 75004 Paris;48.8594245;2.3491133;12:00;02:00;Restaurant Français;0;0;0;4
+Le Black Dog;26 rue des Lombards 75004 Paris;48.8594245;2.3491133;12:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Pain Vin Fromages;3 rue Geoffroy l'Angevin 75004 Paris;48.8605193;2.3543837;19:00;23:30;Restaurant Français;0;0;0;4
+Pain Vin Fromages;3 rue Geoffroy l'Angevin 75004 Paris;48.8605193;2.3543837;19:00;23:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+O Chateau;68 rue Jean-Jacques Rousseau 75001 Paris;48.8642083;2.3442974;16:00;00:00;Bar à vins;0;0;0;4
+O Chateau;68 rue Jean-Jacques Rousseau 75001 Paris;48.8642083;2.3442974;16:00;00:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+5e Cru;7 rue du Cardinal Lemoine 75005 Paris;48.8489917;2.3542302;12:00;23:30;Restaurant Français;0;0;0;4
+5e Cru;7 rue du Cardinal Lemoine 75005 Paris;48.8489917;2.3542302;12:00;23:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+;;;;;;Fromagerie;0;0;0;4
+;;;;;;Fromagerie;0;0;0;4
+Rosebud;11bis rue Delambre 75014 Paris;48.8414381;2.3283212;19:00;02:00;Bar Lounge;0;0;0;4
+Rosebud;11bis rue Delambre 75014 Paris;48.8414381;2.3283212;19:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+Udo;4 rue Neuve Popincourt 75011 Paris;48.8644981;2.373976;18:30;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Bar Hemingway;Hotel Ritz Paris15 place Vendôme 75001 Paris;48.867778;2.328611;18:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Frenchie Bar à Vins;6 rue du Nil 75002 Paris;48.8677984;2.3479044;19:00;23:00;Bar à vins;0;0;0;4
+Frenchie Bar à Vins;6 rue du Nil 75002 Paris;48.8677984;2.3479044;19:00;23:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+La Fine Mousse;6 ave Jean Aicard 75011 Paris;48.8647906;2.381767;17:00;02:00;Brasserie;0;0;0;4
+La Fine Mousse;6 ave Jean Aicard 75011 Paris;48.8647906;2.381767;17:00;02:00;Brasserie;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+Flaq;36 rue Quincampoix 75004 Paris;48.8606;2.3504408;14:00;02:00;Bar;0;0;0;4
+Flaq;36 rue Quincampoix 75004 Paris;48.8606;2.3504408;14:00;02:00;Bar;0;0;0;4
+;;;;;;Galerie d’art;0;0;0;4
+;;;;;;Galerie d’art;0;0;0;4
+;;;;;;Salles et espaces événementiels;0;0;0;4
+;;;;;;Salles et espaces événementiels;0;0;0;4
+Le Siffleur de Ballons;34 rue de Citeaux 75012 Paris;48.8496286;2.3812319;10:30;15:00;Bar à vins;0;0;0;4
+Le Siffleur de Ballons;34 rue de Citeaux 75012 Paris;48.8496286;2.3812319;10:30;15:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Prescription Cocktail Club;23 rue Mazarine 75006 Paris;48.8549968;2.3381224;19:00;02:30;Bar à Cocktails;0;0;0;4
+Prescription Cocktail Club;23 rue Mazarine 75006 Paris;48.8549968;2.3381224;19:00;02:30;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Candelaria;52 rue de Saintonge 75003 Paris;48.8629395;2.3640889;12:00;23:00;Restaurant Mexicain;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+UC-61;4 rue de l'Arc-de-Triomphe 75017 Paris;48.8766347;2.2939472;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Au Bon Coin;49 rue Cloys 75018 Paris;48.8929533;2.3377168;12:00;16:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;;0;0;0;4
+Les Pères Populaires;46 rue de Buzenval 75020 Paris;48.8511716;2.4018202;08:00;02:00;Bar tabac presse et PMU;0;0;0;4
+Les Pères Populaires;46 rue de Buzenval 75020 Paris;48.8511716;2.4018202;08:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Folie en Tête;33 rue de la Butte aux Cailles 75013 Paris;48.8274392;2.3480062;17:00;02:00;Bar;0;0;0;4
+La Folie en Tête;33 rue de la Butte aux Cailles 75013 Paris;48.8274392;2.3480062;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Bar Ourcq;68 quai de la Loire 75019 Paris;48.8864907;2.3770689;;;Bar;0;0;0;4
+;;;;;;Sandwich;0;0;0;4
+La Chope du Château Rouge;40 rue de Clignancourt 75018 Paris;48.8869548;2.3478061;07:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;;0;0;0;4
+Les Enfants Perdus;9 rue des Recollets 75010 Paris;48.8743868;2.3620456;12:00;15:00;Restaurant Français;0;0;0;4
+Les Enfants Perdus;9 rue des Recollets 75010 Paris;48.8743868;2.3620456;12:00;15:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Pavillon des Canaux;39 quai de Loire 75019 Paris;48.8874256;2.3787047;10:00;22:00;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+Mama Shelter;109 rue de Bagnolet 75020 Paris;48.8597079;2.4028325;11:00;00:00;Hôtel;0;0;0;4
+Mama Shelter;109 rue de Bagnolet 75020 Paris;48.8597079;2.4028325;11:00;00:00;Hôtel;0;0;0;4
+;;;;;;Pizza;0;0;0;4
+;;;;;;Pizza;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Lockwood;73 rue d'Aboukir 75002 Paris;48.867819;2.3469297;08:00;02:00;Café;0;0;0;4
+;;;;;;Assiettes et planches;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+La Conserverie;37 bis rue du Sentier 75002 Paris;48.870033;2.3462368;12:30;15:00;Restaurant Japonais;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;;0;0;0;4
+Le China;50 rue de Charenton 75012 Paris;48.8498572;2.3736697;12:00;02:00;Salle de concert;0;0;0;4
+Le China;50 rue de Charenton 75012 Paris;48.8498572;2.3736697;12:00;02:00;Salle de concert;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Asiatique;0;0;0;4
+;;;;;;Restaurant Asiatique;0;0;0;4
+Le Drapeau de la Fidelité;21 rue Copreaux 75015 Paris;48.8417076;2.3070463;12:00;20:30;Bar;0;0;0;4
+Le Drapeau de la Fidelité;21 rue Copreaux 75015 Paris;48.8417076;2.3070463;12:00;20:30;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Restaurant Vietnamien;0;0;0;4
+;;;;;;Restaurant Vietnamien;0;0;0;4
+La Rue Montorgueil;rue Montorgueil75002 75002 Paris;48.8653221;2.3469537;07:00;00:00;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Petit Fer à Cheval;30 rue Vieille du Temple 75004 Paris;48.8573082;2.35809;09:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Sherry Butt;20 rue Beautreillis 75004 Paris;48.8532466;2.3641478;18:00;02:00;Bar à Cocktails;0;0;0;4
+Sherry Butt;20 rue Beautreillis 75004 Paris;48.8532466;2.3641478;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Motel;8 passage Josset 75011 Paris;48.8527333;2.3764142;18:00;02:00;Bar;0;0;0;4
+Le Motel;8 passage Josset 75011 Paris;48.8527333;2.3764142;18:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Les Philosophes;28 rue Vieille du Temple 75004 Paris;48.8572554;2.3576431;09:00;02:00;Restaurant Français;0;0;0;4
+Les Philosophes;28 rue Vieille du Temple 75004 Paris;48.8572554;2.3576431;09:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Piano Vache;8 rue Laplace 75005 Paris;48.8473476;2.3477475;12:00;02:00;Bar tabac presse et PMU;0;0;0;4
+Le Piano Vache;8 rue Laplace 75005 Paris;48.8473476;2.3477475;12:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Le Smoke;29 rue Delambre 75014 Paris;48.8412399;2.3266695;11:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Au Loup;25 rue Bergère 75009 Paris;48.8721942;2.3445396;18:00;01:00;Bar à vins;0;0;0;4
+Au Loup;25 rue Bergère 75009 Paris;48.8721942;2.3445396;18:00;01:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Cavern Club;21 rue Dauphine 75006 Paris;48.8551662;2.339853;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Baron Rouge;1 rue Théophile Roussel 75012 Paris;48.849416;2.3774463;10:00;14:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Aux Petits Oignons;11 rue Dupont de l'eure 75020 Paris;48.8680883;2.4001463;08:00;02:00;Restaurant Français;0;0;0;4
+Aux Petits Oignons;11 rue Dupont de l'eure 75020 Paris;48.8680883;2.4001463;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Au Père Louis;38 rue Monsieur le Prince 75006 Paris;48.8490649;2.3402391;11:00;15:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Les Marcheurs de Planète;73 rue Roquette 75011 Paris;48.8566151;2.3771154;;;Restaurant Français;0;0;0;4
+Les Marcheurs de Planète;73 rue Roquette 75011 Paris;48.8566151;2.3771154;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Péniche Antipode;55 quai de la Seine 75019 Paris;48.887175;2.3749483;12:00;02:00;Bar;0;0;0;4
+;;;;;;Spectacle;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Curio Parlor;16 rue des Bernardins 75005 Paris;48.8504505;2.3506555;;;Bar à Cocktails;0;0;0;4
+Curio Parlor;16 rue des Bernardins 75005 Paris;48.8504505;2.3506555;;;Bar à Cocktails;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+La Tireuse;18 rue Laplace 75005 Paris;48.847518;2.3471903;18:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+L’International;5/7 rue Moret 75011 Paris;48.8667384;2.3797497;17:00;02:00;Salle de concert;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Pop In;105 rue Amelot 75011 Paris;48.8613959;2.3674772;18:30;02:00;Bar;0;0;0;4
+Pop In;105 rue Amelot 75011 Paris;48.8613959;2.3674772;18:30;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+djoon;22 bd Vincent Auriol 75013 Paris;48.8366809;2.3718387;10:00;15:30;Boîte de nuit. club;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+The Quiet Man;5 rue Haudriettes 75003 Paris;48.8614288;2.3574078;17:00;02:00;Pubs;0;0;0;4
+The Quiet Man;5 rue Haudriettes 75003 Paris;48.8614288;2.3574078;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Bizart;30 bis rue des Boulets 75011 Paris;48.851242;2.389891;18:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+Mister Lounge;11 rue des Halles 75001 Paris;48.859773;2.3465683;10:00;02:00;Nourriture;0;0;0;4
+Mister Lounge;11 rue des Halles 75001 Paris;48.859773;2.3465683;10:00;02:00;Nourriture;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Académie de la Bière;88 bis bd Port Royal 75005 Paris;48.8392082;2.3391601;10:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Face Bar;82 rue des Archives 75003 Paris;48.8629628;2.3605064;17:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Patache;60 rue Lancry 75010 Paris;48.8725991;2.3636089;16:30;02:00;Bar;0;0;0;4
+La Patache;60 rue Lancry 75010 Paris;48.8725991;2.3636089;16:30;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+L’Éclair;32 rue Cler 75007 Paris;48.8570142;2.3059184;07:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+La Veraison;64 rue Croix Nivert 75015 Paris;48.8450201;2.2972328;12:30;14:00;Restaurant Français;0;0;0;4
+La Veraison;64 rue Croix Nivert 75015 Paris;48.8450201;2.2972328;12:30;14:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Dude;214 rue Saint Maur 75010 Paris;48.8733411;2.3707246;18:00;02:00;Bar à Cocktails;0;0;0;4
+Le Dude;214 rue Saint Maur 75010 Paris;48.8733411;2.3707246;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Pantalon;7 rue Royer-Collard 75005 Paris;48.8453508;2.3418946;17:30;02:00;Pubs;0;0;0;4
+Le Pantalon;7 rue Royer-Collard 75005 Paris;48.8453508;2.3418946;17:30;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+O’Neil;20 rue des Canettes 75006 Paris;48.8518389;2.3336686;12:00;02:00;Brasserie;0;0;0;4
+O’Neil;20 rue des Canettes 75006 Paris;48.8518389;2.3336686;12:00;02:00;Brasserie;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+La Féline;6 rue Victor Letalle 75020 Paris;48.8671419;2.385277;19:00;02:00;Bar;0;0;0;4
+La Féline;6 rue Victor Letalle 75020 Paris;48.8671419;2.385277;19:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Prohibido;32 rue Durantin 75018 Paris;48.8865576;2.3358496;09:30;02:00;Bar;0;0;0;4
+Prohibido;32 rue Durantin 75018 Paris;48.8865576;2.3358496;09:30;02:00;Bar;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+Chez Georges;11 rue des Cannettes 75006 Paris;48.8521834;2.3339463;15:00;02:00;Bar à vins;0;0;0;4
+Chez Georges;11 rue des Cannettes 75006 Paris;48.8521834;2.3339463;15:00;02:00;Bar à vins;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Les Crocs de l’Ogre;81 ave Bosquet 75007 Paris;48.855254;2.3055992;12:00;14:30;Viandes et Barbecue;0;0;0;4
+Les Crocs de l’Ogre;81 ave Bosquet 75007 Paris;48.855254;2.3055992;12:00;14:30;Viandes et Barbecue;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Why Paris;60 rue Jean-Jacques Rousseau 75001 Paris;48.8640001;2.3436599;11:00;00:00;Bar;0;0;0;4
+Why Paris;60 rue Jean-Jacques Rousseau 75001 Paris;48.8640001;2.3436599;11:00;00:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+The Wall;51 rue Lacépède 75005 Paris;48.844187;2.3498093;14:00;01:30;Pubs;0;0;0;4
+The Wall;51 rue Lacépède 75005 Paris;48.844187;2.3498093;14:00;01:30;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Gentleman;3 rue Hautefeuilles 75006 Paris;48.8525113;2.3431431;00:00;14:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Carmen;34 rue Duperré 75009 Paris;48.8820941;2.3342124;12:00;05:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Cinquante;50 rue Lancry 75010 Paris;48.8718713;2.3627842;17:30;02:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Bob Cool;15 rue Grands Augustins 75006 Paris;48.8542933;2.3406295;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Le Pub St Hilaire;2 rue Valette 75005 Paris;48.8480914;2.3468264;15:00;02:00;Pubs;0;0;0;4
+;;;;;;Burger;0;0;0;4
+;;;;;;Salle de billard;0;0;0;4
+Jefrey’s;14 rue Saint Sauveur 75002 Paris;48.8660302;2.3487594;19:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+La Petite Taverne;3 rue de la Huchette 75005 Paris;48.852815;2.3464142;18:00;02:00;Bar à vins;0;0;0;4
+La Petite Taverne;3 rue de la Huchette 75005 Paris;48.852815;2.3464142;18:00;02:00;Bar à vins;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Hôtel Raphaël;17 ave Kléber 75116 Paris;48.8713566;2.293711;12:30;14:00;Hôtel;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Divan du Monde;75 rue des Martyrs 75018 Paris;48.8824834;2.3393934;;;Bar;0;0;0;4
+Le Divan du Monde;75 rue des Martyrs 75018 Paris;48.8824834;2.3393934;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Le Kitch;10 rue Oberkampf 75011 Paris;48.8628454;2.3686458;17:30;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+WINE by ONE;9 rue des Capucines 75001 Paris;48.8686539;2.329434;12:00;23:00;Bar à vins;0;0;0;4
+WINE by ONE;9 rue des Capucines 75001 Paris;48.8686539;2.329434;12:00;23:00;Bar à vins;0;0;0;4
+;;;;;;Bar à Champagne;0;0;0;4
+;;;;;;Bar à Champagne;0;0;0;4
+Le Crocodile;6 rue Royer Collard 75005 Paris;48.8457998;2.3421666;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Aux Folies Belleville;8 rue de Belleville 75020 Paris;48.8722401;2.3779013;09:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;;0;0;0;4
+Le Mary Céleste;1 rue Commines 75003 Paris;48.8617169;2.3650486;17:00;02:00;Bar;0;0;0;4
+Le Mary Céleste;1 rue Commines 75003 Paris;48.8617169;2.3650486;17:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant de fruits de mer;0;0;0;4
+;;;;;;Restaurant de fruits de mer;0;0;0;4
+;;;;;;Assiettes et planches;0;0;0;4
+;;;;;;Assiettes et planches;0;0;0;4
+Les Cariatides;3 rue de Palestro 75002 Paris;48.8645151;2.3509724;18:00;04:00;Bar;0;0;0;4
+Les Cariatides;3 rue de Palestro 75002 Paris;48.8645151;2.3509724;18:00;04:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Les Papilles;30 rue Gay Lussac 75005 Paris;48.844553;2.3414253;09:00;01:00;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Le Trucmush;5 passage Thiéré 75011 Paris;48.8534251;2.3743223;18:00;02:00;Bar;0;0;0;4
+Le Trucmush;5 passage Thiéré 75011 Paris;48.8534251;2.3743223;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Réservoir;16 rue de la Forge Royale 75011 Paris;48.8514015;2.3806698;20:00;01:00;Bar;0;0;0;4
+Le Réservoir;16 rue de la Forge Royale 75011 Paris;48.8514015;2.3806698;20:00;01:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+La Trinquette;67 rue des Gravilliers 75003 Paris;48.8643407;2.3543246;19:00;00:00;Bar à vins;0;0;0;4
+La Trinquette;67 rue des Gravilliers 75003 Paris;48.8643407;2.3543246;19:00;00:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+La Rhumerie;166 bd Saint Germain 75006 Paris;48.8534786;2.3355615;09:00;02:00;Bar;0;0;0;4
+La Rhumerie;166 bd Saint Germain 75006 Paris;48.8534786;2.3355615;09:00;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Komptoir;27 rue Quincampoix 75004 Paris;48.8601753;2.3500149;10:00;02:00;Bar à tapas;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+W.O.S. Bar;184 rue Saint-Jacques 75005 Paris;48.8463338;2.3427964;12:00;02:00;Pubs;0;0;0;4
+W.O.S. Bar;184 rue Saint-Jacques 75005 Paris;48.8463338;2.3427964;12:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+La Bellevilloise;19 - 21 rue Boyer 75020 Paris;48.8683252;2.3919799;;;Boîte de nuit. club;0;0;0;4
+La Bellevilloise;19 - 21 rue Boyer 75020 Paris;48.8683252;2.3919799;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Verre à Pied;118 bis rue Mouffetard 75005 Paris;48.8403032;2.3495832;09:00;21:00;Bar tabac presse et PMU;0;0;0;4
+Le Verre à Pied;118 bis rue Mouffetard 75005 Paris;48.8403032;2.3495832;09:00;21:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Botzaris;58 ave Parmentier 75011 Paris;48.8625274;2.3765782;;;Bar à Cocktails;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Falstaff;42 rue du Montparnasse 75014 Paris;48.8428597;2.3261023;11:00;04:30;Pubs;0;0;0;4
+Le Falstaff;42 rue du Montparnasse 75014 Paris;48.8428597;2.3261023;11:00;04:30;Pubs;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Burger;0;0;0;4
+;;;;;;Burger;0;0;0;4
+The Lizard Lounge;18 rue Bourg Tibourg 75004 Paris;48.8573329;2.3564459;12:00;02:00;Pubs;0;0;0;4
+The Lizard Lounge;18 rue Bourg Tibourg 75004 Paris;48.8573329;2.3564459;12:00;02:00;Pubs;0;0;0;4
+;;;;;;Burger;0;0;0;4
+;;;;;;Burger;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Guinness Tavern;31 rue des Lombards 75001 Paris;48.859499;2.3487335;19:00;06:00;Salle de concert;0;0;0;4
+Guinness Tavern;31 rue des Lombards 75001 Paris;48.859499;2.3487335;19:00;06:00;Salle de concert;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Bugsy’s;15 rue Montalivet 75008 Paris;48.8711309;2.3178648;09:00;02:00;Pubs;0;0;0;4
+Bugsy’s;15 rue Montalivet 75008 Paris;48.8711309;2.3178648;09:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Floyd’s;11 rue d'Enghien 75010 Paris;48.8716068;2.3522648;11:30;02:00;Viandes et Barbecue;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Restaurant Américain (traditionnel);0;0;0;4
+Chez Léa;5 rue Claude Bernard 75005 Paris;48.838595;2.349874;08:30;02:30;Restaurant Français;0;0;0;4
+Chez Léa;5 rue Claude Bernard 75005 Paris;48.838595;2.349874;08:30;02:30;Restaurant Français;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Juvéniles;47 rue Richelieu 75001 Paris;48.8664125;2.3368268;12:00;23:00;Bar à vins;0;0;0;4
+Juvéniles;47 rue Richelieu 75001 Paris;48.8664125;2.3368268;12:00;23:00;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Chez Nous;10 rue Dauphine 75006 Paris;48.8558485;2.3399189;18:00;00:00;Bar à vins;0;0;0;4
+Chez Nous;10 rue Dauphine 75006 Paris;48.8558485;2.3399189;18:00;00:00;Bar à vins;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+Red House;1 rue de la Forge Royale 75011 Paris;48.8506262;2.380144;17:00;02:00;Bar à Cocktails;0;0;0;4
+Red House;1 rue de la Forge Royale 75011 Paris;48.8506262;2.380144;17:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+La Closerie des Lilas;171 bd Montparnasse 75006 Paris;48.8401545;2.3359814;12:00;14:30;Brasserie;0;0;0;4
+La Closerie des Lilas;171 bd Montparnasse 75006 Paris;48.8401545;2.3359814;12:00;14:30;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Forum;4 bd Malesherbes 75008 Paris;48.8704389;2.3231158;12:00;01:00;Bar Lounge;0;0;0;4
+Le Forum;4 bd Malesherbes 75008 Paris;48.8704389;2.3231158;12:00;01:00;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Zéro de Conduite;14 rue Jacob 75006 Paris;48.8551259;2.3358624;17:00;00:00;Pubs;0;0;0;4
+Zéro de Conduite;14 rue Jacob 75006 Paris;48.8551259;2.3358624;17:00;00:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Aux Deux Amis;45 rue Oberkampf 75011 Paris;48.8645978;2.3718683;12:00;14:30;Bistrot;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Assiettes et planches;0;0;0;4
+;;;;;;;0;0;0;4
+La Taverne de Cluny;51 rue de la Harpe 75005 Paris;48.8514874;2.3441263;09:00;02:00;Bar des sports;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Lèche Vin;13 rue Daval 75011 Paris;48.8551013;2.370891;18:30;01:30;Bar à vins;0;0;0;4
+Lèche Vin;13 rue Daval 75011 Paris;48.8551013;2.370891;18:30;01:30;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Gorille Blanc;4 impasse Guéménée 75004 Paris;48.8539299;2.3657331;19:30;22:30;Bistrot;0;0;0;4
+Le Gorille Blanc;4 impasse Guéménée 75004 Paris;48.8539299;2.3657331;19:30;22:30;Bistrot;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Les Parigots;5 rue Château d'eau 75010 Paris;48.8691242;2.3616275;07:00;02:00;Bar;0;0;0;4
+Les Parigots;5 rue Château d'eau 75010 Paris;48.8691242;2.3616275;07:00;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Little Bastards;5 rue Blainville 75005 Paris;48.8444211;2.3488231;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Fumoir;6 rue de l'Amiral Coligny 75001 Paris;48.8604339;2.3407527;11:00;02:00;Bar Lounge;0;0;0;4
+Le Fumoir;6 rue de l'Amiral Coligny 75001 Paris;48.8604339;2.3407527;11:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+Café La Liberté;196 rue Fbg St Antoine 75012 Paris;48.8499341;2.3838615;09:00;02:00;Bar;0;0;0;4
+Café La Liberté;196 rue Fbg St Antoine 75012 Paris;48.8499341;2.3838615;09:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Les Souffleurs;7 rue de la Verrerie 75004 Paris;48.8570191;2.3550279;18:00;02:00;Bar gay;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Au Relais;48 rue Lamarck 75018 Paris;48.8893191;2.3423939;08:00;02:00;Restaurant Français;0;0;0;4
+Au Relais;48 rue Lamarck 75018 Paris;48.8893191;2.3423939;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café;0;0;0;4
+Le Rendez-Vous des Amis;23 rue Gabrielle18ème à Paris 75018 Paris;48.891305;2.3529867;08:30;02:00;Salle de concert;0;0;0;4
+Le Rendez-Vous des Amis;23 rue Gabrielle18ème à Paris 75018 Paris;48.891305;2.3529867;08:30;02:00;Salle de concert;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Express de Lyon;1 rue Lyon 75012 Paris;48.8459342;2.372185;06:30;02:00;Bar des sports;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Cave La Bourgogne;144 rue Mouffetard 75005 Paris;48.8391426;2.3496366;07:00;02:00;Brasserie;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Le Dragon;rue du Dragon 75006 Paris;48.8532698;2.3308671;08:00;22:00;Bar;0;0;0;4
+Le Dragon;rue du Dragon 75006 Paris;48.8532698;2.3308671;08:00;22:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Bouledogue;20 rue Rambuteau 75003 Paris;48.8610287;2.3546922;09:30;23:30;Restaurant Français;0;0;0;4
+Le Bouledogue;20 rue Rambuteau 75003 Paris;48.8610287;2.3546922;09:30;23:30;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Rosa Bonheur;Parc des Buttes Chaumont2 allée de la Cascade 75019 Paris;48.8906136;2.3867083;;;Bar à vins;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Harry’s New York Bar;5 rue Daunou 75002 Paris;48.869219;2.3322079;12:00;02:00;Bar;0;0;0;4
+Harry’s New York Bar;5 rue Daunou 75002 Paris;48.869219;2.3322079;12:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Tennessee;12 rue André Mazet 75006 Paris;48.8537516;2.3390726;18:00;02:00;Bar Lounge;0;0;0;4
+Le Tennessee;12 rue André Mazet 75006 Paris;48.8537516;2.3390726;18:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Jazz & Blues;0;0;0;4
+;;;;;;Jazz & Blues;0;0;0;4
+La Fourmi;74 rue Martyrs 75018 Paris;48.882548;2.339804;08:00;02:00;Bière. vins et liqueurs;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Corcoran’s;28 rue Saint-André des Arts 75006 Paris;48.8533641;2.3423847;10:00;02:00;Pubs;0;0;0;4
+Corcoran’s;28 rue Saint-André des Arts 75006 Paris;48.8533641;2.3423847;10:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Le Mathurin;43 rue Mathurins 75008 Paris;48.8732068;2.3239015;;;Hôtel;0;0;0;4
+Le Mathurin;43 rue Mathurins 75008 Paris;48.8732068;2.3239015;;;Hôtel;0;0;0;4
+;;;;;;Spa;0;0;0;4
+;;;;;;Spa;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Sunset Boulevard;26 boulevard Poissonnière 75009 Paris;48.8714515;2.3446613;08:30;01:30;Bar;0;0;0;4
+Sunset Boulevard;26 boulevard Poissonnière 75009 Paris;48.8714515;2.3446613;08:30;01:30;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Barber Shop;68 ave République 75011 Paris;48.8643802;2.3774722;09:00;02:00;Bar;0;0;0;4
+Barber Shop;68 ave République 75011 Paris;48.8643802;2.3774722;09:00;02:00;Bar;0;0;0;4
+;;;;;;Burger;0;0;0;4
+;;;;;;Burger;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+L’imprévu Café;7 rue Quincampoix 75004 Paris;48.85943;2.3495983;15:00;02:00;Bar gay;0;0;0;4
+L’imprévu Café;7 rue Quincampoix 75004 Paris;48.85943;2.3495983;15:00;02:00;Bar gay;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Taverne de la Butte;13 rue Butte aux Cailles 75013 Paris;48.8276344;2.3501143;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Troll Café;27 rue de Cotte 75012 Paris;48.8500534;2.3779879;17:00;02:00;Bar;0;0;0;4
+Troll Café;27 rue de Cotte 75012 Paris;48.8500534;2.3779879;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Inside Bar;14 rue Claude Tilier 75012 Paris;48.8480742;2.3880737;15:00;02:00;Bar à Cocktails;0;0;0;4
+Inside Bar;14 rue Claude Tilier 75012 Paris;48.8480742;2.3880737;15:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Ground Control;34 quai d'Austerlitz 75013 Paris;48.8408473;2.3696501;11:00;02:00;Pubs;0;0;0;4
+Ground Control;34 quai d'Austerlitz 75013 Paris;48.8408473;2.3696501;11:00;02:00;Pubs;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Wine Touch;61 rue Quincampoix 75004 Paris;48.8616959;2.3507989;11:00;21:00;Bar à vins;0;0;0;4
+Wine Touch;61 rue Quincampoix 75004 Paris;48.8616959;2.3507989;11:00;21:00;Bar à vins;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+Pi Hour;32 rue de la Rochefoucauld 75009 Paris;48.8791503;2.3349047;12:00;22:30;Pizza;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Salade;0;0;0;4
+Le Richer;2 rue Richer 75009 Paris;48.8740464;2.3478912;08:00;01:00;Bar;0;0;0;4
+Le Richer;2 rue Richer 75009 Paris;48.8740464;2.3478912;08:00;01:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Dernier Bar Avant La Fin du Monde;19 ave Victoria 75001 Paris;48.8578201;2.3462717;10:00;01:00;Bar;0;0;0;4
+Le Dernier Bar Avant La Fin du Monde;19 ave Victoria 75001 Paris;48.8578201;2.3462717;10:00;01:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Saint Regis;6 rue Jean du BellayL'Île Saint-Louis 75004 Paris;48.8518928;2.3563946;07:00;00:00;Bar;0;0;0;4
+Le Saint Regis;6 rue Jean du BellayL'Île Saint-Louis 75004 Paris;48.8518928;2.3563946;07:00;00:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Bloody Mary;41 Rue Amelot 75011 Paris;48.8572555;2.3688034;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+The Brooklyn;58 rue Quincampoix 75004 Paris;48.8613517;2.3508139;06:00;02:00;Bar à vins;0;0;0;4
+The Brooklyn;58 rue Quincampoix 75004 Paris;48.8613517;2.3508139;06:00;02:00;Bar à vins;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+The Moose;16 rue des Quatre Vents 75006 Paris;48.8517986;2.3377353;11:30;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Josephine;25 rue Moret 75011 Paris;48.8673925;2.3788639;18:00;02:00;Bar à vins;0;0;0;4
+Josephine;25 rue Moret 75011 Paris;48.8673925;2.3788639;18:00;02:00;Bar à vins;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+L’Embuscade;47 rue de la Rochefoucauld 75009 Paris;48.8800868;2.3350159;;;Bar;0;0;0;4
+L’Embuscade;47 rue de la Rochefoucauld 75009 Paris;48.8800868;2.3350159;;;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+43 Up On The Roof;4 rue Danton9e étage de l'hôtel Holiday Inn Paris Notre-Dame 75006 Paris;48.8529682;2.3499021;17:00;00:00;Bar Lounge;0;0;0;4
+43 Up On The Roof;4 rue Danton9e étage de l'hôtel Holiday Inn Paris Notre-Dame 75006 Paris;48.8529682;2.3499021;17:00;00:00;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Zinc des Cavistes;5 rue du Faubourg Montmartre 75009 Paris;48.8718709;2.3427504;;;Bar à vins;0;0;0;4
+Le Zinc des Cavistes;5 rue du Faubourg Montmartre 75009 Paris;48.8718709;2.3427504;;;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+The Highlander;8 rue de Nevers 75006 Paris;48.8560916;2.3396498;17:00;02:00;Pubs;0;0;0;4
+The Highlander;8 rue de Nevers 75006 Paris;48.8560916;2.3396498;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Auld Alliance Pub;80 rue François Miron 75004 Paris;48.8553539;2.3591543;15:00;02:00;Pubs;0;0;0;4
+Auld Alliance Pub;80 rue François Miron 75004 Paris;48.8553539;2.3591543;15:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Buddha-Bar;8 bis rue Boissy d'anglas 75008 Paris;48.8678954;2.3213146;12:00;02:00;Bar Lounge;0;0;0;4
+Buddha-Bar;8 bis rue Boissy d'anglas 75008 Paris;48.8678954;2.3213146;12:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+Bar 61;3 Rue de l'Oise 75019 Paris;48.8904738;2.3820503;11:00;02:00;Bar tabac presse et PMU;0;0;0;4
+Bar 61;3 Rue de l'Oise 75019 Paris;48.8904738;2.3820503;11:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Who’s;14 rue Saint-Merri 75004 Paris;48.859558;2.3529634;17:00;18:00;Restaurant Français;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Sans Gêne;112 rue Legendre 75017 Paris;48.8881021;2.3210658;09:00;02:00;Bar;0;0;0;4
+Sans Gêne;112 rue Legendre 75017 Paris;48.8881021;2.3210658;09:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Shannon Pub;23 rue Bréa 75006 Paris;48.842539;2.3299869;18:00;04:30;Pubs;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+The Pledge Bar;19 rue des Deux Ponts 75004 Paris;48.8517292;2.3564257;11:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Chambre d'hôte & Maison d'hôte;0;0;0;4
+;;;;;;Bed & Breakfast;0;0;0;4
+Kiez;24 rue Vauvenargues 75018 Paris;48.8936104;2.3333468;09:00;02:00;Restaurant Allemand;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+L’Ogre;1 ave de Versailles 75016 Paris;48.8504685;2.2773588;;;Bistrot;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Carr’s;1 rue du Mont-Thabor 75001 Paris;48.8653071;2.329738;12:00;02:00;Restaurant Irlandais;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Kitty O’Shea’s;10 rue des Capucines 75002 Paris;48.8688914;2.3296196;13:00;01:30;Bar des sports;0;0;0;4
+;;;;;;Restaurant Irlandais;0;0;0;4
+;;;;;;Pub Irlandais;0;0;0;4
+Les Furieux;74 rue Roquette 75011 Paris;48.8558916;2.3752489;16:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Clichy’s Tavern;128 bis bd Clichy 75018 Paris;48.8847871;2.329108;07:00;05:00;Pubs;0;0;0;4
+;;;;;;Brasseur;0;0;0;4
+;;;;;;Restaurant Belge;0;0;0;4
+Aux Caves d’Aligre;4 place d'AligreMarché d'Aligre 75012 Paris;48.8293647;2.4265406;16:00;22:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Jesus Paradis;22 cour des Petites Ecuries 75010 Paris;48.8724889;2.3515979;;;Bar à Cocktails;0;0;0;4
+;;;;;;Restaurant Brésilien;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+L’Ivress;5 rue Poissonniere 75002 Paris;48.86879;2.3477303;18:00;00:00;Lyonnais;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Chez Vous;15 rue Choron 75009 Paris;48.8777075;2.3398089;10:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+Les Caves Populaires;22 rue des Dames 75017 Paris;48.8847686;2.3246547;08:30;01:30;Bar à vins;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Zéro Zéro;89 rue Amelot 75011 Paris;48.8615945;2.3678718;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Dellys;5 rue des Deux Gares 75010 Paris;48.878353;2.3578705;10:00;00:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Restaurant Méditerranéen;0;0;0;4
+Corcoran’s;23 bd Poissonnière 75009 Paris;48.8712874;2.3441988;11:00;05:00;Pubs;0;0;0;4
+;;;;;;Pub Irlandais;0;0;0;4
+Le Batofar;11 quai François Mauriac 75013 Paris;48.8327009;2.3788474;12:00;00:00;Boîte de nuit. club;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Bar La Vue;Hyatt Regency Paris Étoile3 place du Général Koening 75017 Paris;48.856614;2.3522219;17:00;01:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Stolly’s;16 rue Cloche-Perce 75004 Paris;48.8564167;2.3572623;18:30;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Panic Room;101 rue Amelot 75011 Paris;48.8612144;2.3676228;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+L’Art Brut Bistrot;78 rue Quimcampoix 75003 Paris;48.862135;2.3512151;16:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+Café Titon;34 rue Titon 75011 Paris;48.8528479;2.3863345;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Allemand;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Albion;80 rue du Faubourg Poissonnière 75010 Paris;48.8765957;2.3488843;12:00;14:00;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+L’Attirail;9 rue au Maire 75003 Paris;48.8644951;2.3569637;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Café Martini;11 rue du Pas de la Mule 75004 Paris;48.8559692;2.3670637;12:00;00:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Bubar;3 rue des Tournelles 75004 Paris;48.8540111;2.3672671;;;Bar à vins;0;0;0;4
+Le Bucheron;14 rue de Rivoli 75004 Paris;48.8556475;2.3596397;07:30;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Italien;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Paname Art Café;14 rue de la Fontaine au Roi 75011 Paris;48.8683967;2.3699958;09:00;02:00;Restaurant Européen moderne;0;0;0;4
+;;;;;;Café-théâtre;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+L’Atelier Renault;53 ave des Champs Elysées 75008 Paris;48.8699401;2.3051771;10:30;23:30;Bar à Cocktails;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Musée;0;0;0;4
+Le Rubis;10 rue du Marché Saint-Honoré 75001 Paris;48.8661397;2.331249;07:00;22:00;Brasserie;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Le Marcounet;14 quai de l'Hotel de Ville 75004 Paris;48.8534061;2.3567317;09:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+;;;;;;Cucina francese;0;0;0;4
+Le Galway Irish Pub;13 quai des Grands Augustins 75006 Paris;48.8539133;2.3435253;12:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Au Caveau Montpensier;15 rue Montpensier 75001 Paris;48.8646474;2.3366953;;;Pubs;0;0;0;4
+The Green Linnet;8 Avenue Victoria 75004 Paris;48.8572248;2.3496625;;;Pubs;0;0;0;4
+Teddy’s Bar;3 rue Thouin 75005 Paris;48.8450062;2.349309;15:30;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Tribal Café;3 cour des Petites Ecuries 75010 Paris;48.8724424;2.3534773;11:00;13:00;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Restaurant Africain;0;0;0;4
+Boucherie Roulière;24 rue des Canettes 75006 Paris;48.851645;2.3335482;12:00;14:30;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+The Fifth Bar;62 rue Mouffetard 75005 Paris;48.8430131;2.3493978;17:00;02:00;Pubs;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Un Zèbre à Montmartre;38 rue Lepic 75018 Paris;48.8860421;2.3347855;09:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Légende;100 rue Legendre 75017 Paris;48.8877089;2.3203773;18:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Bar Demory Paris;62 rue de Quincampoix 75004 Paris;48.8615748;2.3507896;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Glass;7 rue Frochot 75009 Paris;48.8814898;2.3372386;18:00;03:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+La Fée Verte;108 rue de la Roquette 75011 Paris;48.8568497;2.377895;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Café;0;0;0;4
+Café Divan;60 rue de la Roquette 75011 Paris;48.8551897;2.374019;11:30;00:00;Restaurant Français;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Le Vingt Heures Vin;15-17 rue Joseph de Maistre 75018 Paris;48.8861496;2.3328889;19:00;01:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+West Bar;61 rue Legendre 75017 Paris;48.8862033;2.3177461;;;Bar;0;0;0;4
+Chat Bar ex Escale;3 rue Monsieur le Prince 75006 Paris;48.8516954;2.3390829;18:00;05:00;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+“La Marelle”;20 rue Bréguet 75011 Paris;48.8572356;2.373331;09:00;00:00;Bar;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+Le Queen;102 avenue des Champs Élysées 75008 Paris;48.8718588;2.3023378;23:30;06:00;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Le Percolateur;20 rue Turin 75008 Paris;48.8812155;2.3248578;12:00;00:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+The Long Hop;25/27 rue Frédéric Sauton 75005 Paris;48.8504627;2.3490452;16:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Tagada Bar;40 rue Trois Frères 75018 Paris;48.891305;2.3529867;18:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Le Baiser Salé;58 rue des Lombards 75001 Paris;48.8600234;2.3479314;17:00;06:00;Bar;0;0;0;4
+;;;;;;Spectacle;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+WINE by ONE;27 rue de Marignan 75008 Paris;48.869591;2.306496;12:00;23:00;Bar à vins;0;0;0;4
+;;;;;;Bar à Champagne;0;0;0;4
+Mojito Lab;28 rue Keller 75011 Paris;48.8551357;2.3758655;18:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Au Rêve;89 rue Caulaincourt 75018 Paris;48.8897526;2.3377651;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+La Lucha Libre;10 rue Montagne Sainte Geneviève 75005 Paris;48.8489962;2.3485968;17:00;02:00;Bar;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+The Frog at Bercy Village;25 Cour Saint-Emilion 75012 Paris;48.8327432;2.3860483;12:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+Café Chéri;44 bd de la Villette 75019 Paris;48.8741551;2.3753467;08:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Café;0;0;0;4
+Au Bleu Cerise;6 cour des Petites Ecuries 75010 Paris;48.8724485;2.3533762;18:00;02:00;Bar à vins;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Lakanal;2 avenue René Coty 75014 Paris;48.8332112;2.3325768;08:00;23:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Café;0;0;0;4
+La Karambole;10 rue Hégésippe-MoreauMétro la Fourche ou place de Clichy 75018 Paris;48.883609;2.327798;10:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Le Café Laurent;Hôtel d'Aubusson33 rue Dauphine 75006 Paris;48.8546893;2.3393078;07:00;11:00;Bar;0;0;0;4
+;;;;;;Jazz & Blues;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;;0;0;0;4
+La Petite Porte;20 boulevard Saint Martin 75010 Paris;48.8690875;2.3564149;09:00;02:00;Brasserie;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+La Villette Enchantée;Grande Halle de La Villette 75019 Paris;48.8883885;2.3724447;;;Bar Lounge;0;0;0;4
+Extra Old Cafe;307 rue Fbg St Antoine 75011 Paris;48.8490067;2.3926268;07:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Habemus Bar restaurant;13 rue MonsignyQuartier Opéra 75002 Paris;48.8675641;2.34399;12:00;15:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Connolly’s Corner;12 rue de Mirbel 75005 Paris;48.8410393;2.3508516;16:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Coltrane;38 rue Notre-Dame de Nazareth 75003 Paris;48.8675744;2.3587698;15:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Coq;12 rue du Chateau d'Eau 75010 Paris;48.8698628;2.3611553;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Kriza Bar;9 Rue Vandamme 75014 Paris;48.8394996;2.3227909;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+The Pure Malt;4 rue Caron 75004 Paris;48.8550345;2.3626493;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Au Trappiste;4 rue St Denis 75001 Paris;48.858305;2.3473134;11:00;02:00;Brasserie;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Sans Souci;65 rue Jean-Baptiste Pigalle 75009 Paris;48.8813556;2.3360582;12:00;23:00;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+The Bottle Shop;5 rue Trousseau 75011 Paris;48.8511991;2.3783958;12:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Buvette Gastrothèque;28 rue Henri Monnier 75009 Paris;48.8804591;2.337699;08:30;00:00;Restaurant Français;0;0;0;4
+;;;;;;Pub gastronomique;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Restaurant du Luxembourg;44 rue d'Assas 75006 Paris;48.8472313;2.3298474;12:00;14:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;;0;0;0;4
+Bakkus;97 rue du Cherche-Midi 75006 Paris;48.8465342;2.3213761;12:00;23:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Bespoke;3 rue Oberkampf 75011 Paris;48.8629101;2.3675675;12:00;15:00;Bar à Cocktails;0;0;0;4
+;;;;;;Restaurant Américain (traditionnel);0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+;;;;;;;0;0;0;4
+Yono’s Bar;37 rue Vieille du Temple 75004 Paris;48.8578234;2.357488;17:00;01:30;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Lézard café;32 rue Etienne Marcel 75002 Paris;48.8646012;2.3464315;09:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Le Reflet;6 rue Champollion 75005 Paris;48.8498595;2.3429076;;;Bar;0;0;0;4
+La Rotonde Bastille;17 rue de la Roquette 75011 Paris;48.8544769;2.3716387;08:00;06:00;Bar;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+L’Enoteca;25 rue Charles V 75004 Paris;48.8533138;2.3618052;12:00;14:30;Bar à vins;0;0;0;4
+;;;;;;Restaurant Italien;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+3 Pièces Cuisine;25 rue de Chéroy 75017 Paris;48.8828639;2.318189;08:00;01:30;Bar à vins;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Café La Laverie;70 rue de Ménilmontant 75020 Paris;48.8687107;2.3898733;09:00;02:00;Café;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Kong;1 rue Pont Neuf 75001 Paris;48.8592154;2.3431332;12:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Asiatique;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Le Violon Dingue;46 Rue de la Montagne Sainte-Geneviève 75005 Paris;48.8476036;2.3484703;20:00;05:00;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Le Sully;13 rue du faubourg Saint-Denis 75010 Paris;48.8703082;2.352767;07:00;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+L’Ecluse;15 quai Grands Augustins 75006 Paris;48.8539464;2.3434704;11:00;23:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+The Freedom Pub;8 rue de Berri 75008 Paris;48.8723192;2.3040674;11:30;02:00;Pubs;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Restaurant Britannique;0;0;0;4
+Rock’n Roll Circus;5 rue André Antoine 75018 Paris;48.8829352;2.3372825;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+La Caravane;35 rue de la Fontaine au Roi 75011 Paris;48.8684115;2.3712766;11:00;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Cube;63 rue de Dames 75017 Paris;48.8836365;2.3211713;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+L’Entrée des Artistes;8 rue de Crussol 75011 Paris;48.8639402;2.367495;19:30;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Moonshiner;5 rue Sedaine 75011 Paris;48.8557218;2.3711228;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;Restaurant Italien;0;0;0;4
+L’Arlequin;76 rue de Rennes 75006 Paris;48.8514222;2.3306866;;;Cinéma;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Laffitte;43 rue Laffitte 75009 Paris;48.8752758;2.3381927;07:00;22:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Café Bonnie;9 rue Récollets 75010 Paris;48.8743868;2.3620456;17:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Bar du Central;99 rue Saint-Dominique 75007 Paris;48.8593206;2.3068963;;;Restaurant Français;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+Café Blanc;10 rue Croix des Petits Champs1er 75001 Paris;48.8627723;2.3397331;12:00;14:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+L’Autobus;1 rue Oberkampf 75011 Paris;48.8627864;2.3675397;09:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Ton Air de Brest;9 rue Maison Dieu 75014 Paris;48.8357297;2.3227126;;;Bar;0;0;0;4
+Le Merle Moqueur;11 Rue De La Butte Aux Cailles 75013 Paris;48.8277461;2.3504141;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Bar à Champagne de la Tour Eiffel;Tour EiffelChamp de Mars 75007 Paris;48.8583701;2.2944813;12:30;18:00;Bar à Champagne;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Sputnik;14 rue Butte aux Cailles 75013 Paris;48.8279195;2.3512318;;;Restaurant Français;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;Cyber café & café internet;0;0;0;4
+25 Degré Est;10 place de la Bataille de Stalingrad 75019 Paris;48.8833328;2.3693008;11:00;02:00;Salle de concert;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+No Problemo;21 rue André Del Sarte 75018 Paris;48.8857124;2.3451701;12:00;15:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+La Terrasse du 7eme;2 place Ecole Militaire 75007 Paris;48.8530294;2.3098305;07:30;01:30;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Diner Américain;0;0;0;4
+Le Bar;27 rue de Condé 75006 Paris;48.8497245;2.3380621;21:00;03:00;Bar Lounge;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Café Oz;1 rue de Bruxelles 75009 Paris;48.8837263;2.3322572;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Au Chat Noir;76 rue Jean-Pierre Timbaud 75011 Paris;48.8673385;2.376126;16:00;02:00;Café et thé;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Kube Hotel;1-5 Passage Ruelle 75018 Paris;48.88657;2.3588332;07:00;02:00;Hôtel;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Piment Café;15 rue de Sévigné 75004 Paris;48.8564781;2.3622378;09:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Cristal;163 ave de Suffren 75015 Paris;48.8457591;2.3099337;15:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Nüba;34 quai d'Austerlitz 75013 Paris;48.8408473;2.3696501;12:00;23:00;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Doobie’s;2 rue Robert-Estienne 75008 Paris;48.8691315;2.304484;;;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Le Café Cacahuète;1 rue Pierre Semard 75009 Paris;48.8775907;2.346967;07:30;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Le Gast;5 rue Crespin du Gast 75011 Paris;48.8661628;2.3817269;;;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Le Vin au Vert;70 rue de Dunkerque 75009 Paris;48.8822765;2.3462527;10:30;15:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Grazie;91 bd Beaumarchais 75003 Paris;48.8593718;2.3672784;12:00;14:30;Pizza;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Les Chimères;133 rue St Antoinequartier du marais 75004 Paris;48.8550389;2.3597449;06:00;02:00;Nourriture;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Bercail;144 Rue Oberkampf 75011 Paris;48.8662819;2.3810804;18:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+El Tonel;5 rue des Pyramides 75001 Paris;48.864432;2.3323229;11:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Espagnol;0;0;0;4
+Willi’s Wine Bar;13 rue des Petits Champs 75001 Paris;48.8630074;2.3394709;12:00;22:45;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Coinstot Vino;26 bis passage des Panoramas 75002 Paris;48.8706319;2.3415709;12:00;14:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Chez Ginette;101 rue Caulaincourt 75018 Paris;48.8897895;2.3387442;08:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Pure Café;14 rue Jean Macé 75011 Paris;48.853282;2.3834659;07:00;01:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Bô Zinc;59 ave Mozart 75016 Paris;48.8544499;2.2696097;07:00;02:00;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+Le Salsero Bar;9 rue du Petit Pont 75005 Paris;48.8525049;2.3465762;17:00;02:00;Bar;0;0;0;4
+;;;;;;Ecole de danse;0;0;0;4
+Le Louvre Ripaille;1 rue Perrault 75001 Paris;48.8602501;2.3411296;12:00;23:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Andy Wahloo;69 rue des Gravilliers 75003 Paris;48.8644672;2.3542617;18:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+L’Armagnac;104 rue Charonne 75011 Paris;48.854443;2.3849041;07:30;01:30;Bar;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+Le Mini Palais;3 ave Winston Churchill 75008 Paris;48.865895;2.3138045;10:00;02:00;Restaurant Européen moderne;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Le 35 Tours;35 rue Saint Sauveur 75002 Paris;48.86609;2.3483443;18:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Assiettes et planches;0;0;0;4
+J’ose;147 Rue Saint-Denis 75002 Paris;48.8647519;2.3499914;08:00;02:00;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+La Terrasse des Ternes;68 ave des Ternes 75017 Paris;48.879843;2.2905635;09:00;01:30;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Chez Jeannette;47 rue du faubourg Saint-Denis 75010 Paris;48.8717018;2.3534041;08:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Rush Bar;32 rue Saint-Sébastien 75011 Paris;48.8612942;2.370205;11:00;02:00;Pubs;0;0;0;4
+;;;;;;Restaurant Britannique;0;0;0;4
+O Divin;35 rue des Annelets 75019 Paris;48.8788719;2.3895857;12:00;15:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Bogman ex Gobelet d’argent;2 rue de la Petite Truanderie 75001 Paris;48.8627968;2.3482185;16:30;01:30;Pubs;0;0;0;4
+;;;;;;Pub Irlandais;0;0;0;4
+Le Sëndell;13 rue Castex 75004 Paris;48.8530865;2.3662794;11:00;02:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Café de la Plage;59 rue Charonne 75011 Paris;48.8536359;2.3791897;18:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Restaurant Brésilien;0;0;0;4
+Le Bloc;21 rue Brochant 75017 Paris;48.8891174;2.3180661;08:30;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+O’Sullivans;1 boulevard Montmartre 75002 Paris;48.8693;2.353885;12:00;05:00;Pub Irlandais;0;0;0;4
+;;;;;;;0;0;0;4
+Tiki Lounge;26 bis rue de la Fontaine au Roi 75011 Paris;48.8681288;2.3712079;18:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+Celtic Corner;88 Rue de la Croix Nivert 75015 Paris;48.8439138;2.2956737;;;Pubs;0;0;0;4
+La Frange;6 rue Cochin 75005 Paris;48.8502164;2.3527249;18:00;02:00;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+La Foule;12 rue Frochot 75009 Paris;48.881714;2.337277;;;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Le Patio Opéra;5 rue Meyerbeer 75009 Paris;48.8716266;2.3332443;10:00;01:00;Restaurant Italien;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Le Puits de Montorgueil;17 rue Marie Stuart 75002 Paris;48.8650053;2.3472882;17:00;01:30;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Café Panis;21 quai Montebello 75005 Paris;48.8521417;2.3483344;07:00;00:00;Café et thé;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Café;62 rue Tiquetonne 75002 Paris;48.865302;2.3460011;10:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Café;0;0;0;4
+L’Envol Café Québécois;30 rue Lacépède 75005 Paris;48.844116;2.3516753;;;Pubs;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+Hideout St Germain;32 rue Dauphine 75006 Paris;48.8545759;2.339195;;;Bar des sports;0;0;0;4
+The Local;54 rue de la Clef 75005 Paris;48.8433617;2.3528949;09:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Café Oz;18 rue Saint-Denis 75001 Paris;48.8593477;2.3479494;17:00;03:00;Bar des sports;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Fouquet’s;99 avenue des Champs-Elysées 75008 Paris;48.8714487;2.3012262;07:30;09:30;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Petit déjeuner & brunch;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Perchoir;14 rue Crespin Dugast 75011 Paris;48.8654569;2.3820249;18:00;01:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+L’Antidote;45 rue Descartes 75005 Paris;48.8452562;2.3491873;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Sir Winston;5 rue de Presbourg 75116 Paris;48.8722646;2.2951172;09:00;03:00;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+Le Café Canon;151 Rue Tolbiac 75013 Paris;48.8261758;2.357187;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Comptoir Marguery;9 bd de Port-royal 75013 Paris;48.8366924;2.3497831;12:00;22:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Hôtel Chateaubriand;6 rue Châteaubriand 75008 Paris;48.8733027;2.3025363;;;Hôtel;0;0;0;4
+;;;;;;Bar;0;0;0;4
+La Bodega;12 rue Descartes 75005 Paris;48.8470029;2.3486099;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Maria Loca;31 bd Henrie IV 75004 Paris;48.852268;2.3653657;;;Bar;0;0;0;4
+Histoire de;11 rue Crespin du Gast 75011 Paris;48.8658364;2.3820237;11:00;02:00;Restaurant;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Chez Gudule;58 bd de Picpus 75012 Paris;48.8440731;2.402131;07:00;02:00;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Allegra;70 rue du faubourg Saint-Martin 75010 Paris;48.8714649;2.3574115;08:00;23:00;Pizza;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Zaza Bar;59 rue d'Orsel 75018 Paris;48.8835179;2.3400064;;;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+Le Truskel;12 rue Feydeau 75002 Paris;48.8701321;2.3413007;20:00;05:00;Pubs;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Culture Rapide;63 rue de Belleville 75019 Paris;48.8734072;2.3822142;;;Bar;0;0;0;4
+Le Lab;7 rue Saint-Sabin 75011 Paris;48.8548408;2.3716682;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Shake N’ Smash;87 rue de Turbigo 75003 Paris;48.866808;2.361149;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Voulez-Vous;18 rue du Temple 75004 Paris;48.8585013;2.3536008;11:00;01:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Aux Négociants;27 rue Lambert 75018 Paris;48.8891025;2.3452506;;;Brasserie;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+The Green Goose;19 rue des Boulets 75011 Paris;48.8503775;2.3905789;10:00;02:00;Pub Irlandais;0;0;0;4
+;;;;;;Pub gastronomique;0;0;0;4
+L’Abracadabar;123 ave Jean Jaurès 75019 Paris;48.8859989;2.3821636;11:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Brady’s Irish Pub;14 rue de Lisbonne 75008 Paris;48.8778446;2.3157779;12:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Petit Château d’Eau;34 rue Château d'Eau 75010 Paris;48.870777;2.3594132;08:00;00:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+Le Bistrot des Cinéastes;7 ave de Clichy 75017 Paris;48.8843547;2.3269237;18:00;00:00;Bar à vins;0;0;0;4
+;;;;;;Cinéma;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Raymond Bar;13 rue Dussoubs 75002 Paris;48.8655579;2.3486599;06:30;02:00;Bar;0;0;0;4
+;;;;;;Vêtements pour femmes;0;0;0;4
+;;;;;;Accessoires;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+;;;;;;Spécialités culinaires;0;0;0;4
+Le Prélude;3 rue Meyerbeer 75009 Paris;48.8716203;2.3334876;08:00;02:00;Brasserie;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Hôtel Costes;239 rue Saint-Honoré 75001 Paris;48.8667608;2.3280621;17:00;02:00;Hôtel;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Au P’tit Douai;92 rue Blanche 75009 Paris;48.8828079;2.3322411;09:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+The Frog & Princess;9 rue Princesse 75006 Paris;48.852277;2.3346836;17:30;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+La Machine du Moulin Rouge;90 bd de Clichy 75018 Paris;48.8840584;2.3322923;;;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Le Trou dans le Mur;43 rue des Abbesses 75018 Paris;48.8851093;2.3362711;;;Bar à vins;0;0;0;4
+La Fonda;173 Rue St Jacques 75005 Paris;48.8456407;2.3428114;;;Bar;0;0;0;4
+Dogstar Club;122 rue la Boétie 75008 Paris;48.8712961;2.3064077;11:30;04:00;Restaurant Italien;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à narguilé. bar à chicha;0;0;0;4
+Le Tape Bar;21 rue de la Roquette 75011 Paris;48.8547603;2.3721288;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Mad Maker Pub;22 rue Cujas 75005 Paris;48.8482426;2.341806;17:00;05:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Carillon;18 rue Alibert 75010 Paris;48.871622;2.3677764;07:00;02:00;Hôtel;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+Versant Vins;39 Rue de Bretagne 75003 Paris;48.8630224;2.3619965;12:00;20:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Nul Bar Ailleurs;18 rue de Cotte 75012 Paris;48.8498928;2.3781688;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Chope Relais Du Parnasse;36 Boulevard Pasteur 75015 Paris;48.8420795;2.3129844;;;Restaurant;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Caminito Cabaret;48-50 rue du Dessous des Berges 75013 Paris;48.8270834;2.3742291;11:00;23:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Bouquet du 9ème;24 rue Saint-Lazare 75009 Paris;48.8767845;2.3368855;;;Bar;0;0;0;4
+Café Milou;10 rue du Maine 75014 Paris;48.8406482;2.3231034;09:30;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Le Requin Chagrin;10 rue Mouffetard 75005 Paris;48.8445813;2.3489924;16:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Indiana Café;Rue du 8 Mai 1945 75010 Paris;48.8762189;2.3583046;09:00;05:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Au Père Tranquille;16 rue Pierre Lescot 75001 Paris;48.8622135;2.3483967;09:00;00:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Comptoir Moderne;26 rue de la Croix Nivert 75015 Paris;48.8468099;2.2995309;16:00;01:00;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Restaurant Pershing Hall;49 rue Pierre Charron 75008 Paris;48.869178;2.3020534;;;Restaurant Français;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Cud Night Bar;12 rue des Haudriettes 75003 Paris;48.861827;2.3571065;23:30;06:00;Bar gay;0;0;0;4
+;;;;;;;0;0;0;4
+Cubana Café;47 rue Vavin 75006 Paris;48.8426097;2.3288408;10:30;05:00;Restaurant Cubain;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Bistrot le Colimaçon;32 rue de Rochechouart 75009 Paris;48.8786248;2.345361;08:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;;0;0;0;4
+Les Foudres;4 place Martin Nadaud 75020 Paris;48.8652265;2.3947782;08:00;23:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Red Bar;13 rue Lamartine 75009 Paris;48.8765039;2.3421588;;;Brasserie;0;0;0;4
+;;;;;;Jazz & Blues;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Jolie Môme;7 square Bolivar 75019 Paris;48.8756818;2.3832782;;;Bar;0;0;0;4
+;;;;;;Restaurant Marocain;0;0;0;4
+Hide Out;10 Boulevard de Denain 75010 Paris;48.8794341;2.3548336;;;Pubs;0;0;0;4
+New York Café Mouffetard;68 rue Mouffetard 75005 Paris;48.8427596;2.3494768;18:00;02:00;Bar;0;0;0;4
+;;;;;;Karaoké;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Corcoran’s Irish Pub Lilas;Place Maquis du Vercors 75020 Paris;48.8777683;2.4090113;09:00;02:00;Pubs;0;0;0;4
+;;;;;;Restaurant Irlandais;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Le Sancerre;35 rue Abbesses 75018 Paris;48.8848753;2.3368896;07:00;02:00;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Vin en Bouche;27 rue de l'Abbé-Grégoire 75006 Paris;48.848042;2.3251929;10:00;20:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Le Cyrano;3 rue Biot 75017 Paris;48.883695;2.3267069;08:30;02:00;Jazz & Blues;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+La Javelle;Port Javel bas 75015 Paris;48.8432819;2.2736931;;;Bar;0;0;0;4
+Le Café Noir;65 rue Montmartre 75002 Paris;48.8665319;2.3442653;08:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Dax;55 bd de Vaugirard 75015 Paris;48.8405979;2.3167261;11:30;02:00;Bar;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+Le Pachyderme;2 Bis bd St Martin 75010 Paris;48.8681549;2.3621094;10:00;14:00;Restaurant;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Little Temple Bar;12 Rue Princesse 75006 Paris;48.8522075;2.334296;;;Bar des sports;0;0;0;4
+L’Ebéniste du Vin;72 rue Boursault 75017 Paris;48.8860242;2.3181274;14:00;02:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Le Bréguet;72 rue Falguière 75015 Paris;48.840429;2.3127422;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Artisan;14 rue Bochart de Saron 75009 Paris;48.8810064;2.3427349;19:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Mon Chien Stupide;1 rue Boyer 75020 Paris;48.8669753;2.3927985;15:00;02:00;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Le Bistrot du 9ème;1 rue Frochot 75009 Paris;48.8810803;2.3375821;07:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+N’importe Quoi;16 rue du Roule 75001 Paris;48.8607691;2.3439188;18:00;04:00;Pubs;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+La Vénus Noire;25 rue Hirondelle 75006 Paris;48.8535673;2.3429975;18:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Le Comptoir des Chineurs;8 rue Durantin 75018 Paris;48.8854906;2.3373666;;;Bar à vins;0;0;0;4
+La Buvette;67 rue Saint Maur 75011 Paris;48.8629024;2.3792241;17:00;22:00;Bar à vins;0;0;0;4
+;;;;;;Bistroer;0;0;0;4
+;;;;;;Barer;0;0;0;4
+;;;;;;Tapas/småretter;0;0;0;4
+La Mère Pouchet;168 bd Diderot 75012 Paris;48.8478061;2.3926123;07:00;02:00;Brasserie;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Honest Lawyer;176 rue Pompe 75016 Paris;48.8711716;2.283584;06:30;01:00;Pubs;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;Pub gastronomique;0;0;0;4
+Les Associés;50 boulevard de la Bastille 75012 Paris;48.8515588;2.3694272;07:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Backstage Café;31 bis rue Gaîté 75014 Paris;48.839501;2.3239833;10:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Demain c’est loin..;9 rue Julien Lacroix 75020 Paris;48.8685928;2.3859203;11:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Zic Zinc;95 rue Claude Decaen 75012 Paris;48.8387339;2.3959985;07:00;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le p’tit bar;7 rue Richard Lenoir 75011 Paris;48.8545908;2.3820674;11:00;00:01;Bar tabac presse et PMU;0;0;0;4
+;;;;;;;0;0;0;4
+Le Mastroquet;10 Place du Colonel Bourgoin 75012 Paris;48.844592;2.3834824;;;Pubs;0;0;0;4
+Espit Chupitos;117 rue Saint-Maur 75011 Paris;48.8655627;2.3775161;20:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Miss Ko;49/51 ave George V 75008 Paris;48.8709606;2.300343;12:00;02:00;Restaurant Asiatique;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Sushi;0;0;0;4
+Bar 8;Mandarin Oriental Paris251 rue Saint-Honoré 75001 Paris;48.8665694;2.3315027;11:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+L’Adada;15 rue du Maine 75014 Paris;48.8405221;2.3223886;;;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Quinze Vins;1 rue Dante 75005 Paris;48.8513634;2.3471114;11:00;00:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Terres de bières;85 bis boulevard Magenta 75010 Paris;48.8766447;2.3556691;10:00;13:00;Bar;0;0;0;4
+;;;;;;Personal shopper;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Métro Marcadet;67 bd Barbès 75018 Paris;48.8903494;2.3492397;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Dupont Café;198 rue de la Convention 75015 Paris;48.8371979;2.2959987;07:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Concrete;69 quai de la Rapée 75012 Paris;48.8442254;2.3697071;;;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Bistro Canaille;8 rue Lamartine 75009 Paris;48.8766303;2.3434995;00:00;14:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Basile;34 rue Grenelle 75007 Paris;48.8538503;2.3275993;07:00;23:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Scoop Café;117 rue des Dames 75017 Paris;48.8824893;2.3172067;12:00;15:00;Pubs;0;0;0;4
+;;;;;;Restaurant Américain (traditionnel);0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;;0;0;0;4
+Le Biz;18 rue Favart 75002 Paris;48.8714197;2.3383549;11:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+Maxim’s;3 rue Royale 75008 Paris;48.8673633;2.3220383;12:00;14:00;Salles et espaces événementiels;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;;0;0;0;4
+Le Millésimes;110 rue Courcelles 75017 Paris;48.8802502;2.3022223;07:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Le Flat Iron;38 rue de Sambre-et-Meuse 75010 Paris;48.8745697;2.3727716;10:00;01:30;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+The Hideout;13 rue du Pot de Fer 75005 Paris;48.8428378;2.348224;16:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Charlotte Bar;10 rue de Lappe 75011 Paris;48.8539646;2.3719244;18:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Aux Noctambules;24 bd Clichy 75018 Paris;48.8827266;2.337194;22:30;04:30;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Monsieur Bleu;Palais de Tokyo20 ave de New York 75116 Paris;48.8633534;2.2966285;12:00;00:00;Restaurant Européen moderne;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Asiatique;0;0;0;4
+L’Estaminet;116 rue Oberkampf 75011 Paris;48.8661293;2.3793865;08:00;02:00;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+L’Artiste;153 rue de la Roquette 75011 Paris;48.8596253;2.3864719;08:00;01:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Bistrot 79;79 bd Diderot 75012 Paris;48.8475809;2.3870533;;;Bistrot;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Les Petites Gouttes;12 Esplanade Nathalie Sarraute 75018 Paris;48.891305;2.3529867;11:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Petit Ney;10 ave Porte de Montmartre 75018 Paris;48.8987068;2.3369095;10:00;19:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Saint-Sauveur;11 rue des Panoyaux 75020 Paris;48.8666456;2.3849655;19:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Le Bar du Plaza Athénée;Hotel Plaza Athenee25 ave Montaigne 75008 Paris;48.8667119;2.3056902;;;Bar Lounge;0;0;0;4
+Au Chai de l’Abbaye;26 rue Buci 75006 Paris;48.853822;2.3364369;;;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+Le Cottage;1 Rue Léopold Robert 75014 Paris;48.8411091;2.331198;;;Restaurant;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Café de l’Epoque;2 rue Bouloi 75001 Paris;48.8630623;2.3398343;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Rostand;6 place Edmond Rostand 75006 Paris;48.847742;2.3403095;08:00;00:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Mizmiz;6 rue Moret 75011 Paris;48.8667299;2.3800463;;;Bar;0;0;0;4
+;;;;;;Restaurant Marocain;0;0;0;4
+Capucine cafe;39 bd des Capucines 75002 Paris;48.8699381;2.3292939;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Barrio Latino;46/48 rue du faubourg Saint Antoine 75012 Paris;48.8519815;2.3725256;12:00;02:00;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+O’Malley;6 Bis rue Quatre Septembre 75002 Paris;48.8691866;2.3390654;;;Pubs;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+La Bouteille sur la Table;2 passage Geffroy Didelot 75017 Paris;48.8816968;2.3177646;10:00;23:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Le Brebant;32 bd Poissonnière 75009 Paris;48.8716095;2.3434976;;;Bar Lounge;0;0;0;4
+;;;;;;Restaurant de fruits de mer;0;0;0;4
+Le Napoléon;73 rue du Faubourg Saint-Denis 75010 Paris;48.872931;2.3541855;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+L’Art Source;6 rue Marie Stuart 75002 Paris;48.865114;2.3482178;18:30;02:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Lou Pascalou;14 rue des Panoyaux 75020 Paris;48.8662152;2.3854954;;;Bar;0;0;0;4
+Studio 5;92 bd Saint Germain 75005 Paris;48.8512781;2.3442926;12:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Burger;0;0;0;4
+Le Vieux Chêne;69 rue Mouffetard 75005 Paris;48.8423331;2.3498132;16:00;02:00;Bar des sports;0;0;0;4
+;;;;;;;0;0;0;4
+Très Honoré;35 place du Marché Saint-honoré 75001 Paris;48.8674279;2.3320331;12:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Comptoir Zen;104 rue BlometSpa hammam manucure pédicure UV 75015 Paris;48.8421616;2.2927665;07:00;23:00;Pubs;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;Salon de beauté & Spa;0;0;0;4
+Chez Pierrot;33 rue Lappe 75011 Paris;48.8534905;2.3732582;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+11ème avenue;46 rue Parmentier 75011 Paris;48.8618732;2.377468;07:00;20:00;Bar des sports;0;0;0;4
+;;;;;;;0;0;0;4
+Urban Caffè;58 rue des Mathurins 75008 Paris;48.8735341;2.3221853;08:00;17:00;Restaurant;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Kawaii cafe;20 rue de Nemours 75011 Paris;48.8661199;2.3723943;;;Café;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+Le Syphax;26 rue Châteaudun 75009 Paris;48.8762535;2.3376255;09:00;01:30;Pubs;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Le Café de la Poste;76 rue Damremont 75018 Paris;48.8915024;2.334996;07:00;01:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Crocodile Vert;6 rue Hameau 75015 Paris;48.8355116;2.289195;;;Bar;0;0;0;4
+Le Béguin;2 rue du Cardinal Mercier 75009 Paris;48.8808508;2.3290612;09:30;02:00;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Les Animals;92 rue d'hauteville 75010 Paris;48.8769345;2.3516015;;;Bar;0;0;0;4
+Vingt Heures Vin La Suite;2 rue des Goncourt 75011 Paris;48.8688976;2.3726422;18:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+La Ville d’Argentan;4 rue d'Amsterdam 75009 Paris;48.8759461;2.3270955;06:00;00:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le P’tit Garage;63 rue Jean Pierre Timbaud 75011 Paris;48.8671685;2.3752266;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+L’Oiseau Sans Tête;3 rue Beaurepaire 75010 Paris;48.8691552;2.3630844;09:30;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Bar Italia;22 rue Moncey 75009 Paris;48.8799603;2.3292659;18:00;01:00;Bar;0;0;0;4
+;;;;;;Restaurant Italien;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Pau Brasil;32 rue de Tilsitt 75017 Paris;48.87486;2.2932329;20:30;02:00;Bar Lounge;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Les Etages;35 rue Vieille du Temple 75004 Paris;48.857729;2.3576473;17:30;02:00;Bar Lounge;0;0;0;4
+;;;;;;;0;0;0;4
+Chez Sylvain;1 rue Manuel 75009 Paris;48.8781763;2.3408436;16:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;;0;0;0;4
+Le Fetiche;53 rue Auteuil 75016 Paris;48.8435348;2.2519255;;;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Danny Hills;84 ave Secrétan 75019 Paris;48.8789713;2.3779063;08:00;02:00;Burger;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Le Bistrot de l’Echanson;20 rue de la Gaîté 75014 Paris;48.8400775;2.3233819;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Café Louise;8 rue Croix des Petits Champs 75001 Paris;48.8627119;2.3393957;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Sous Bock;49 rue Saint Honoré 75001 Paris;48.8607709;2.3450376;09:00;02:00;Bar des sports;0;0;0;4
+;;;;;;;0;0;0;4
+Touller Outillage;68 rue Jean Pierre Timbaud 75011 Paris;48.866863;2.3747427;18:00;02:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Le Canon des Gobelins;25 ave des Gobelins 75013 Paris;48.836574;2.3523074;;;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Neo Cafe;126 bd St Germain 75006 Paris;48.8524152;2.3397132;08:00;03:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+L’Eclipse;120 rue Saint Denis 75002 Paris;48.8644926;2.3506248;;;Pubs;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+W Paris - Opéra;4 rue Meyerbeer 75009 Paris;48.8721532;2.3333499;;;Hôtel;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Le Vin Dans les Voiles;8 rue Chapu 75016 Paris;48.8410042;2.2664055;11:30;14:30;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+K1ZE Café Parisien;15 rue Gaillon 75002 Paris;48.8688811;2.3343793;17:00;02:00;Restaurant Espagnol;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+L’Echappée Bulle;20 rue des Dames 75017 Paris;48.8850075;2.3247515;;;Bar à vins;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Petit Pascal;33 rue Pascal 75013 Paris;48.8367235;2.3491793;;;Restaurant Français;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+La Pomponnette;42 rue LepicM Abbesse ou Blanche 75018 Paris;48.883646;2.333144;11:30;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Au Métro;66 Rue Raymond Losserand 75014 Paris;48.8339688;2.3181388;07:00;01:00;Restaurant Français;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Zelda;6 rue Bichat 75010 Paris;48.8698489;2.3692918;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Les Ferrailleurs;18 rue de Lappe 75011 Paris;48.8536968;2.3721612;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Floquifil;17 rue de Montyon 75009 Paris;48.8730144;2.3434655;11:00;00:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Polly Maggoo;3-5 rue du Petit Pont 75005 Paris;48.8525874;2.3466817;10:30;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;;0;0;0;4
+La Divette de Montmartre;136 rue Marcadet 75018 Paris;48.8912055;2.3392612;;;Bar;0;0;0;4
+;;;;;;Tabac;0;0;0;4
+Cattleya Mademoiselle;44 rue MadameSaint Germain des Prés 75006 Paris;48.8488608;2.3315257;15:00;00:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+L’Empire du 8eme;11 rue Jean Mermoz 75008 Paris;48.8709885;2.3112069;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Corcoran’s Irish Pub;53 rue du Faubourg Saint-Antoine 75011 Paris;48.8523245;2.3731403;10:00;02:00;Restaurant Britannique;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+La Mascotte;6 ave du Président Wilson 75008 Paris;48.8651918;2.3006048;;;Café;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+Mustang Café;84 boulevard du Montparnasse 75014 Paris;48.8427853;2.3263357;;;Bar;0;0;0;4
+Le Zinc;61 avenue de la Motte-Picquet 75015 Paris;48.8494427;2.298943;;;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Le Magnifique;25 rue de Richelieu 75001 Paris;48.8648506;2.3361644;19:00;04:00;Boîte de nuit. club;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+;;;;;;Sushi;0;0;0;4
+Gossima Ping Pong Bar;4 rue Victor Gelez 75011 Paris;48.8648644;2.3826934;16:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Très Particulier;Hotel Particulier Montmartre23 ave Junot - Pavillon D 75018 Paris;48.891305;2.3529867;;;Bar à Champagne;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+La Cave Drouot;8 rue Drouot 75009 Paris;48.8726864;2.3405934;06:00;21:30;Restaurant Français;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Les Reines du Bouchon;23 rue de la Victoire 75009 Paris;48.8750539;2.3388066;18:00;00:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Chaland;163 quai de Valmy 75010 Paris;48.8787088;2.3662569;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Bar des Familles;21 Rue de Lappe 75011 75011 Paris;48.8538227;2.3726368;;;Pubs;0;0;0;4
+Ritz Bar;38 rue Cambon 75001 Paris;48.86879;2.3276449;;;Bar Lounge;0;0;0;4
+Le Faitout;23 ave Simon Bolivar 75019 Paris;48.8747937;2.3825384;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Verjus;47 rue Montpensier 75001 Paris;48.8663459;2.3375562;18:00;23:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Restaurant Américain (traditionnel);0;0;0;4
+Downtown Café;46 rue Jean-Pierre Timbaud 75011 Paris;48.8662472;2.3723353;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Auto Passion Café;197 bd Brune 75014 Paris;48.823529;2.324732;10:00;02:00;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+Les Temps Modernes;89 rue de charenton 75012 Paris;48.8487183;2.3756168;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+A La Casa Del Fox;41 rue ColiséeChamps Elysees 75008 Paris;48.8720193;2.3111289;12:00;14:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Bric à Brac Bar;108 rue Oberkampf 75011 Paris;48.8657791;2.3789278;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Paloma;74 rue Jean-Pierre Timbaud 75011 Paris;48.8672275;2.3757391;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Le Voltaire;18 bd Voltaire 75011 Paris;48.865215;2.3671284;08:00;02:00;Burger;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Le Comptoir Vouillé;13 rue de Vouillé 75015 Paris;48.8351703;2.3042774;07:00;02:00;Bar;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+Le Wagon Bleu;7 rue Boursault 75017 Paris;48.8829823;2.320648;12:00;14:30;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Corse;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Le Bistrot des Artistes;6 rue des Anglais 75005 Paris;48.8508795;2.3477295;;;Bar;0;0;0;4
+Le Rempart;15 rue St Antoine 75004 Paris;48.8533578;2.3665506;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+Hide Out Châtelet;46 rue des Lombards 75001 Paris;48.8597974;2.348424;15:00;03:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Toi;27 rue du Colisée 75008 Paris;48.8711173;2.3090968;09:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Le Barramundi;3 rue Taitbout 75009 Paris;48.8717892;2.336329;12:00;15:30;Restaurant Français;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Gavroche;19 rue Saint Marc 75002 Paris;48.8703575;2.340095;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Alchimie;20 rue de l'Ouest 75014 Paris;48.837052;2.3213582;16:00;00:00;Bar à narguilé. bar à chicha;0;0;0;4
+;;;;;;;0;0;0;4
+Le Vin Qui Danse;9 rue de Moscou 75008 Paris;48.8801307;2.3256078;12:00;14:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Le Mammouth Bar;116 rue Amelot 75014 Paris;48.8637311;2.3671884;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+L’Olympic Café;20 rue Léon 75018 Paris;48.8878547;2.3535367;11:00;02:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+Le Café du Commerce;13 rue de Clignancourt 75018 Paris;48.8847812;2.3468642;;;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+Kahina;73 rue Marcadet 75018 Paris;48.8902192;2.3475421;;;Bar;0;0;0;4
+;;;;;;Restaurant Marocain;0;0;0;4
+Pili Pili;70 rue Jean Pierre Timbaud 75011 Paris;48.8663239;2.3755038;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+La Cave du Daron;140 ave Parmentier 75011 Paris;48.8692814;2.3717975;11:00;22:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Café Caumartin;13 rue Caumartin 75009 Paris;48.8711307;2.3276762;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Grosse Caisse;160 rue Montmartre 75002 Paris;48.8701483;2.3427302;;;Bar;0;0;0;4
+La Comédie;11 rue de la Reynie 75004 Paris;48.8598869;2.3497256;08:00;23:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Rosie;3 rue Muller 75018 Paris;48.8867025;2.347066;18:00;00:15;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Café des Officiers;3 place de l'Ecole Militaire 75007 Paris;48.8543265;2.3063739;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Café;0;0;0;4
+La Pointe Saint-Eustache;1 rue Montorgueil 75001 Paris;48.8632633;2.346274;;;Brasserie;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+L’Arsouille;Montmartre22 rue des Trois Frères 75018 Paris;48.88477;2.341221;20:00;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Bistro du Charolais;95 rue Claude Decaen 75012 Paris;48.8387339;2.3959985;07:30;23:30;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Les Trois Arts;21 rue des Rigoles 75020 Paris;48.8717402;2.393888;17:00;02:00;Restaurant;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Spectacle;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Day Off Bistrot;10 Rue de l'Isly 75008 Paris;48.8749758;2.3253615;12:00;15:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Rey;132 rue de la Roquette 75011 Paris;48.8574752;2.3798141;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Au vieux Saumur;10 rue de Belleville 75020 Paris;48.8723842;2.3780931;;;Bar tabac presse et PMU;0;0;0;4
+Hypnose Bar - Grands Boulevards;25 rue de Trévise 75009 Paris;48.8742343;2.3452729;18:00;02:00;Bar Lounge;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+L’Entracte;47 rue Montpensier 75001 Paris;48.8663459;2.3375562;10:00;02:00;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Café;0;0;0;4
+La Manufacture Bar Rock;42 rue Rochechouart 75009 Paris;48.8792864;2.3458252;12:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Marie Stuart;49 Rue Montorgueil 75002 Paris;48.8653182;2.3463317;12:00;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Chez Bruno;26-28 cour St-Emilion 75012 Paris;48.8327432;2.3860483;12:00;23:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Coté Canal;5 quai de la Seine 75019 Paris;48.8844313;2.3700318;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+L’Appart;164 rue du faubourg Saint-Antoine 75012 Paris;48.8502286;2.3814486;08:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Impala Lounge;2 rue Berri 75008 Paris;48.8719354;2.3034772;09:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Africain;0;0;0;4
+Café Bar Jojo;170 rue Saint Martin 75003 Paris;48.8622894;2.3520375;;;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Raidd bar;23 rue du Temple 75004 Paris;48.8587086;2.3533441;18:00;04:00;Bar gay;0;0;0;4
+;;;;;;;0;0;0;4
+L’Imprévu;35 rue Didot 75014 Paris;48.8325167;2.3206733;08:00;01:30;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Au Train De Vie;1 rue des Deux Gares 75010 Paris;48.8783504;2.3584471;;;Bar;0;0;0;4
+;;;;;;Restaurant Italien;0;0;0;4
+L’Alliance;56 rue de la croix nivert 75015 Paris;48.8456008;2.2977401;;;Bar;0;0;0;4
+;;;;;;Tabac;0;0;0;4
+Le Café de Diane;Allée de DianeJardin des Tuileries 75001 Paris;48.864318;2.3302;;;Crêperie;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+;;;;;;Bar;0;0;0;4
+God Save The Kitchen;299 rue du faubourg Saint-Antoine 75011 Paris;48.849039;2.3915775;09:00;00:00;Bistrot;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Little;4 ave de la République 75011 Paris;48.8666651;2.3660644;;;Bar;0;0;0;4
+Café Oz;8 bd Montmartre 75009 Paris;48.8716139;2.3424509;13:00;03:00;Bar des sports;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Titty Twister;5 rue de Berri 75008 Paris;48.8719026;2.3031556;21:00;05:00;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+La Charlotte de l’Isle;24 rue Saint-Louis-en-l'Ile 75004 Paris;48.8515788;2.3578245;;;Bar;0;0;0;4
+;;;;;;Salon de thé;0;0;0;4
+Le Jardin Français;112 rue du Faubourg Saint-Honoré 75008 Paris;48.8718282;2.314999;;;Bar;0;0;0;4
+Le Repaire de Bacchus;88 rue Montorgueil 75002 Paris;48.8658763;2.3472157;;;Bar à vins;0;0;0;4
+Le Mayflower;49 Rue Descartes 75005 Paris;48.8451578;2.349307;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Café Beaubourg;100 rue Saint-Martin 75004 Paris;48.8599879;2.3509596;;;Restaurant Français;0;0;0;4
+;;;;;;Bar gay;0;0;0;4
+;;;;;;Café;0;0;0;4
+L’Écume Bar;7 Villa De L'ermitage 75020 Paris;48.8705156;2.3923601;;;Bar;0;0;0;4
+;;;;;;Spectacle;0;0;0;4
+;;;;;;Galerie d’art;0;0;0;4
+Lux Bar;12 rue Lepic 75018 Paris;48.8839268;2.3328654;07:00;14:00;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+La belette qui tête;17 bd Arago 75013 Paris;48.8359719;2.3499916;;;Bar;0;0;0;4
+Rollin’s Pub;18 rue rollinQuartier Latin 75005 Paris;48.8448707;2.3499816;17:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+Bière Academy;7 rue des Ecoles 75005 Paris;48.8476381;2.3520805;17:00;02:00;Brasserie;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Café des Banques;13 bis Avenue Père Lachaise 75020 Paris;48.8644308;2.3980355;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Couleurs de Vigne;2 rue Marmontel 75015 Paris;48.8373799;2.3008567;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+Café Fusain;50 ave Parmentier 75011 Paris;48.8621824;2.3771429;07:00;00:00;Café;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+L’Apérock Café;46 bd Voltaire 75011 Paris;48.8632908;2.3704882;17:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+A l’Heure du Vin;46 rue Saint Anne 75002 Paris;48.8673819;2.3363606;11:00;15:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Trend;37 rue du Colisée 75008 Paris;48.8716728;2.3105122;;;Restaurant;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Cello;2 rue des Moinessquare des Batignolles 75017 Paris;48.8870967;2.3176987;;;Bar à Cocktails;0;0;0;4
+Le Pont Tournant;98 Quai Jemmapes 75010 Paris;48.8733627;2.364208;;;Restaurant Français;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Le Sainte Marthe;32 rue Ste Marthe 75010 Paris;48.8741397;2.372301;18:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Rouge Saint Honoré;34 place Marché St Honoré 75001 Paris;48.8669713;2.3324558;10:30;01:00;Restaurant Français;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Moon Roof;34 quai d'Austerlitz 75013 Paris;48.8408473;2.3696501;12:00;04:00;Bar Lounge;0;0;0;4
+;;;;;;Bar à narguilé. bar à chicha;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Café d’Orléans;43 avenue du Général Leclerc 75014 Paris;48.8300352;2.3287973;;;Bar;0;0;0;4
+Café Pierre;202 rue du Faubourg Saint-Antoine 75012 Paris;48.8499292;2.3852133;07:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Bonne Nouvelle;4 rue du Faubourg Poissonniere 75010 Paris;48.8710443;2.3483152;;;Bar;0;0;0;4
+Sens Uniques;44 rue Damrémont 75018 Paris;48.8897293;2.3341436;12:00;14:00;Petit déjeuner & brunch;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Au Coin de la Rue;34 rue de Bourgogne 75007 Paris;48.8575823;2.3175041;07:30;23:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Les coulisses;1 rue de cheroy 75017 Paris;48.8819236;2.3188927;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Café d’Albert;117 rue Ordener 75018 Paris;48.8925315;2.3430279;06:00;14:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+Le Rouge et le Verre;8 rue de Maubeuge 75009 Paris;48.8764458;2.3411085;10:00;20:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Opa;9 rue Biscornet 75012 Paris;48.8503272;2.3697085;20:00;02:00;Boîte de nuit. club;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Conquistador;19 rue Feuillantines 75005 Paris;48.8418652;2.3416516;;;Nourriture;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Yellow Mad Monkey;8 rue de Lappe 75011 Paris;48.8540232;2.3717803;17:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Le Ballroom du Beefclub;58 rue Jean Jacques Rousseau 75001 Paris;48.8639666;2.3434085;19:00;05:00;Bar à Cocktails;0;0;0;4
+;;;;;;;0;0;0;4
+Piston Pelican;15 rue Bagnolet 75020 Paris;48.8569441;2.3957157;08:30;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Bouco;10 rue de Constantinople 75008 Paris;48.8801211;2.3204085;;;Restaurant;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Fish la Boissonnerie;69 rue de Seine 75006 Paris;48.8542146;2.3370337;12:00;14:30;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;;0;0;0;4
+2 Bis Café;2 bis rue Ecoles 75005 Paris;48.8474895;2.3527037;10:00;02:00;Bar;0;0;0;4
+;;;;;;Sandwich;0;0;0;4
+;;;;;;Café;0;0;0;4
+L’Abordage;2 Place Henri Bergson 75008 Paris;48.8757535;2.3211808;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+La Canaille;4 rue Crillon 75004 Paris;48.8486214;2.3654633;;;Pub gastronomique;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Paris Princesse;24 rue Navarin 75009 Paris;48.8800598;2.3379458;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+A Jean Nicot;173 rue St Honoré 75001 Paris;48.8638279;2.3336121;07:30;20:00;Café;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Diamant;56 Rue Cinq Diamants 75013 Paris;48.827848;2.3493749;;;Bar;0;0;0;4
+Le Comptoir du Sept;39 avenue de la Motte Picquet 75007 Paris;48.854601;2.3064987;07:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Les Bains Douches;7 rue Bourg l'abbé 75003 Paris;48.8639835;2.3518943;20:00;02:00;Boîte de nuit. club;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+L’Atlas;11 rue Buci 75006 Paris;48.8536382;2.3376204;;;Bar;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+Café Joly;23 ave Victoria 75001 Paris;48.8580737;2.3459449;12:00;01:30;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Burger;0;0;0;4
+Cercle Suédois;242 rue de Rivoli 75001 Paris;48.8661212;2.3256945;;;Pubs;0;0;0;4
+;;;;;;Centre culturel;0;0;0;4
+Augustin;15 place Richard Baret 75017 Paris;48.8840524;2.3218779;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bar;0;0;0;4
+L’Etage;14 rue des Capucines 75001 Paris;48.8691674;2.3291871;;;Bar;0;0;0;4
+Le Garde-Robe des Batignolles;4 rue Bridaine 75017 Paris;48.8861992;2.3203898;12:30;15:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Bistro de la Banque;15 rue Rougemont 75009 Paris;48.8720909;2.3459952;;;Bar des sports;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Café du Centre;58 rue Montorgueil 75002 Paris;48.864956;2.3470514;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+L’Inconnu;17 rue de Mazagran 75010 Paris;48.8710187;2.352105;11:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Rue de l’Annonciation;rue de l'annonciation 75016 Paris;48.8566768;2.2792895;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Mode;0;0;0;4
+Le Bedford Arms;17 rue Princesse 75006 Paris;48.8519636;2.3346342;18:00;04:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Bar Belge;75 avenue de St Ouen 75017 Paris;48.8923861;2.3270623;17:00;04:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Lush Bar;16 rue Dames 75017 Paris;48.8852513;2.3250598;;;Pubs;0;0;0;4
+Comptoir des Archives;41 rue des Archives 75004 Paris;48.8600006;2.3565253;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Café La Liberté;1 Rue Gaîté 75014 Paris;48.8411033;2.3247531;;;Bar;0;0;0;4
+Café Klein Holland;36 rue Roi de Sicile 75004 Paris;48.8564452;2.358004;;;Bar;0;0;0;4
+Le Ciré Jaune;112 rue Saint Maur 75011 Paris;48.8667905;2.3764513;18:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Café La Nouvelle Gare;49 Boulevard Vincent Auriol 75013 Paris;48.8351254;2.3699175;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+au cent kilos;71 brancionangle rue brancion et morillon 75015 Paris;48.8421616;2.2927665;;;Nourriture;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+La Ruche;75 bd Montparnasse 75006 Paris;48.843638;2.3249081;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+En attendant l’or;6 rue Faidherbe 75011 Paris;48.8507666;2.3843054;06:30;02:00;Pubs;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+A la Tête d’Or;6 rue des Lavandières Sainte Opportune 75001 Paris;48.8587509;2.3462026;;;Restaurant Français;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Les Trois Baudets;64 bd de Clichy 75018 Paris;48.8836287;2.3344124;19:00;00:00;Salle de concert;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Grains Nobles;8 rue Boutebrie 75005 Paris;48.8515423;2.3444071;15:00;23:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Le Faubourg;87 ave Ledru-Rollin 75012 Paris;48.8513107;2.3760421;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+The Cricketer Pub;41 rue Mathurins 75008 Paris;48.8732187;2.3240839;12:00;02:00;Pubs;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Marie-Suzy;26 ave de Friedland 75008 Paris;48.8744938;2.2999482;09:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+The lions;120 rue Montmartre 75002 Paris;48.8678079;2.3439836;12:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Golden Black;108 Rue Saint Lazare 75008 Paris;48.8756604;2.3252075;07:30;01:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Ex Nihilo & cie;29 rue Oberkampf 75011 Paris;48.8637656;2.370103;;;Bar;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+Cave du 38 Riv’;38 rue de Rivoli 75004 Paris;48.8564608;2.3564613;18:00;02:00;Jazz & Blues;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Le Bistrot;92 rue de Turenne 75003 Paris;48.861713;2.3648145;07:00;02:00;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Smoke & Soul;89 Rue de la Victoire 75009 Paris;48.8749004;2.3312077;;;Fast Food;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Le Saint Médard;53 rue Censier 75005 Paris;48.83928;2.3503535;07:00;02:00;Brasserie;0;0;0;4
+;;;;;;Café;0;0;0;4
+L’Eglantine;21 Rue Fabre d'Eglantine 75012 Paris;48.8470581;2.3953585;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le petit Cuba;1 rue du Dr Heulin 75017 Paris;48.8895545;2.3224644;;;Restaurant Amérique latine;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Chair de Poule;141 rue Saint Maur 75011 Paris;48.8676377;2.3753693;18:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Restaurant Européen moderne;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+La Serena;92 rue de Richelieu 75002 Paris;48.8702536;2.3397341;18:00;21:00;Pubs;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Bang;112 quai de Jemmapes 75010 Paris;48.8743992;2.3637057;19:30;23:00;Restaurant Grill;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Le Grand Comptoir d’Alésia;125 rue Alésia 75014 Paris;48.8291095;2.3226838;06:30;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Basque;0;0;0;4
+Corcoran’s;110 bd de Clichy 75018 Paris;48.8845437;2.3308573;10:00;03:30;Pub Irlandais;0;0;0;4
+;;;;;;;0;0;0;4
+Le Coeur Fou;55 rue Montmartre 75002 Paris;48.8658523;2.3441448;17:00;02:00;Bar;0;0;0;4
+;;;;;;Jazz & Blues;0;0;0;4
+Black Sheep;108 bd de Clichy 75018 Paris;48.884496;2.3310393;16:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+La Cave Lanrezac;3 rue du Gén Lanrezac 75017 Paris;48.8760491;2.2937173;12:00;13:45;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Fleurus;10 Boulevard Jourdan 75014 Paris;48.819677;2.3428099;11:00;00:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+O P’tit Paris;Cour des petites écuries 75010 Paris;48.8726202;2.3527838;14:00;01:30;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Mojito Habana;19 rue de Presbourg 75116 Paris;48.8738916;2.2924236;;;Bar Lounge;0;0;0;4
+;;;;;;Jazz & Blues;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Bar à Vin Le Pas Sage;4 passage du Grand Cerf 75002 Paris;48.8647281;2.3497944;12:00;01:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Au Rendez-vous Des Amis;114 rue Blomet 75015 Paris;48.8404371;2.298429;08:30;01:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Restaurant Vietnamien;0;0;0;4
+O’Brien’s;77 rue Saint Dominique 75007 Paris;48.8596904;2.3087368;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Café Gourmand;192 ave de France 75013 Paris;48.8359121;2.3719833;08:00;00:00;Brasserie;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Café;0;0;0;4
+Brut;22 rue Lauriston 75016 Paris;48.8714704;2.2918504;15:00;00:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Retro Bottega;12 rue Saint-Bernard 75011 Paris;48.8513212;2.3816953;12:00;15:00;Restaurant Italien;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Les Rigoles;334 Rue Des Pyrénées 75020 Paris;48.873439;2.3903001;;;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Le Café des Antiquaires;15 rue de la Grange Bateliere 75009 Paris;48.8729576;2.3415102;18:00;00:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Maison Peret;6 rue Daguerre 75014 Paris;48.8336146;2.3309245;09:00;23:30;Bière. vins et liqueurs;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Le Royal Cambronne;2 place Cambronne 75015 Paris;48.8478496;2.3014461;06:00;02:00;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Gymnase;96 avenue Jean Jaurès 75019 Paris;48.8851205;2.3797813;;;Nourriture;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+La Crémerie;38 rue Cler 75007 Paris;48.8566796;2.3062999;;;Bar;0;0;0;4
+Café Rozier;14 quai de la Loire 75019 Paris;48.8838145;2.3718472;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+35’est;15 Quai de la Seine 75019 Paris;48.8847807;2.3707242;;;Pubs;0;0;0;4
+The Bistrologist;16 Avenue de Friedland 75008 Paris;48.8747259;2.3010781;11:00;04:00;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Chope des Artistes;48 rue du Faubourg Saint-Martin 75010 Paris;48.870619;2.3569716;;;Restaurant Français;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Cannibale Café;93 rue Jean-Pierre Timbaud 75011 Paris;48.8683875;2.379087;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Carbone 14;6 rue Emile Lepeu 75011 Paris;48.8555945;2.387229;17:30;02:00;Bistrot;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+;;;;;;Burger;0;0;0;4
+La Marmite;2 bd de Clichy 75018 Paris;48.8821641;2.3396562;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Paris London;16 place Madeleinela madeleine 75008 Paris;48.8707115;2.3255299;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Café de la Paix;5 place de l'Opéra 75009 Paris;48.8710603;2.3318892;07:00;23:30;Restaurant Français;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Le Parisien;54 rue du Four 75006 Paris;48.8522458;2.3303908;06:30;23:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Zen Café;46 rue de la Victoire 75009 Paris;48.8756314;2.3360306;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Trésor;9 rue du Trésor 75004 Paris;48.8572638;2.3573574;12:00;01:00;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Blue Buoï Café;50 bd Vaugirard 75015 Paris;48.8410315;2.3154798;07:00;00:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Café Chineur;170 rue Alésia 75014 Paris;48.831989;2.314049;06:00;01:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Mélange des Genres;44 bd Voltaire 75011 Paris;48.8633284;2.370264;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Express 14;73 Rue Daguerre 75014 Paris;48.8353657;2.3253744;19:00;02:00;Bar;0;0;0;4
+;;;;;;Jazz & Blues;0;0;0;4
+Sydr;6 rue de Tilsitt 75008 Paris;48.8739789;2.2972899;;;Restaurant Français;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+Bistrot Chat Noir;68 bd de Clichy 75018 Paris;48.8836255;2.3340538;;;Bar Lounge;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Bistrot du Coin;73 ave Ledru Rollin 75012 Paris;48.8497375;2.3742644;;;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Pub Saint Michel;19 quai St Michel 75005 Paris;48.8535613;2.3453484;12:00;05:30;Pubs;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+Les Enfants Rouges;9 rue de Beauce 75003 Paris;48.8628812;2.3611051;12:00;15:00;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Chez Mezig;44bis quai de la Loire 75019 Paris;48.8853883;2.3751111;08:00;22:30;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+Le Dareau;8 Rue Dareau 75014 Paris;48.8317567;2.338705;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Caves du Paradis;52 rue de l'Arbre Sec 75001 Paris;48.8609185;2.3426596;11:00;01:00;Bar à jus de fruits & smoothies;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+;;;;;;Cours du soir & formation adulte;0;0;0;4
+La Sardine;32 place Sainte-Marthe 75010 Paris;48.8741397;2.372301;;;Assiettes et planches;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Bianco;60 rue Montorgueil 75002 Paris;48.865029;2.3470059;07:00;02:00;Restaurant Italien;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Certa;5 rue de l'Isly 75008 Paris;48.8746452;2.3258948;08:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;Café;0;0;0;4
+L’Inévitable;22 rue Linné 75005 Paris;48.8454711;2.3546926;;;Bar tabac presse et PMU;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le Festin Nu;10 rue de la Fontaine du But 75018 Paris;48.8905131;2.3392696;18:00;01:30;Bar à tapas;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+;;;;;;Bar à bières;0;0;0;4
+Les Idiots;115 bd de Ménilmontant 75011 Paris;48.8657052;2.3839464;;;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+Les Mondes Bohèmes;31 rue des Vignoles 75020 Paris;48.8539355;2.3992624;09:30;00:30;Brasserie;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Zygothèque;15 bis rue de Tolbiac 75013 Paris;48.8292514;2.3748467;12:00;14:30;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Le Cavalier Bleu;143 rue St Martin 75004 Paris;48.8615981;2.3513416;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Le vieux comptoire du Cap Horn;8 rue Birague 75004 Paris;48.8542789;2.3651031;12:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Sof’s Bar;43 rue Saint-Sauveur 75002 Paris;48.8660041;2.3479524;;;Bar;0;0;0;4
+114;114 rue Oberkampf 75011 Paris;48.8659225;2.3791596;;;Bar Lounge;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+The Harp;118 Boulevard de Clichy 75018 Paris;48.8845353;2.3303672;;;Bar des sports;0;0;0;4
+Bistro des deux théâtres;18 rue Blanche 75009 Paris;48.8780716;2.3319455;12:00;00:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Bière & Malt;4 rue Poissonnière 75002 Paris;48.8686836;2.347776;17:00;00:00;Bar;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+Le Ziem Café;1 rue Félix Ziem 75018 Paris;48.889445;2.3333429;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Maldoror;10 rue Grand PrieuréPlace de la République - Oberkampf - Bataclan - 75011 Paris;48.8640236;2.3693823;20:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+La Comète;19 rue du Faubourg Montmartre 75009 Paris;48.8728108;2.3430337;07:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Fontaine d’Henri IV;42 rue des Cascades 75020 Paris;48.8711804;2.3914196;;;Bar tabac presse et PMU;0;0;0;4
+Purple Bar;51-57 rue de Courcelles 75008 Paris;48.8769752;2.3069383;10:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+La Cavetiere;41 Boulevard Bourdon 75004 Paris;48.8525086;2.3678268;;;Restaurant;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Next;17 rue Tiquetonne 75002 Paris;48.864591;2.3485099;19:00;05:00;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Le Coffee Link;66 rue Pierre Charron 75008 Paris;48.8697185;2.3043389;;;Bar à Cocktails;0;0;0;4
+Le Saint Malo;24 Avenue Secretan 75019 Paris;48.8816069;2.3719997;;;Bar;0;0;0;4
+La Miroiterie;88 rue de Ménimontant 75020 Paris;48.8691113;2.3914534;09:00;18:00;Salle de concert;0;0;0;4
+;;;;;;Galerie d’art;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Centre culturel;0;0;0;4
+L’Eau Peine Bar;26 Rue de Lappe 75011 Paris;48.8533763;2.3733237;;;Bar;0;0;0;4
+Le Lolabar;20 rue LafayetteGrands Magasins-Opéra 75009 Paris;48.870643;2.332355;;;Bar;0;0;0;4
+Le Turgot;5 rue Turgot 75009 Paris;48.8797473;2.3455716;07:00;02:00;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Omnibus Café;13 place Pigalle 75009 Paris;48.8823788;2.3369762;08:30;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Twenty One Sound Bar;20 Rue De La Forge Royale 75011 Paris;48.8515923;2.3807515;;;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+L’Echevin;24 rue Trévisequartier 75009 Paris;48.87422;2.3454394;08:00;21:30;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Bistro du Monde;85 Avenue Bosquet 75007 Paris;48.8549604;2.3058027;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+L’Ecluse;34 place du Marché Saint Honoré 75001 Paris;48.8669713;2.3324558;08:30;13:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Le 49;49 Rue Laugier 75017 Paris;48.8825722;2.2938396;;;Nourriture;0;0;0;4
+;;;;;;Bar gay;0;0;0;4
+;;;;;;Restaurant;0;0;0;4
+Les Caractères;25 rue des Grands Augustins 75006 Paris;48.8537568;2.3405294;18:00;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+La Bonne Franquette;151 rue de la Roquette 75011 Paris;48.8595;2.3861947;;;Restaurant Marocain;0;0;0;4
+;;;;;;Bar Lounge;0;0;0;4
+Student Bar;38 rue Mouffetard 75005 Paris;48.8437833;2.3492659;;;Pubs;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+La Montagne Sans Geneviève;13 rue Pot de Fer 75005 Paris;48.8428378;2.348224;;;Restaurant Belge;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Au Général Lafayette;52 rue Lafayette 75009 Paris;48.8750213;2.3413186;09:00;04:00;Brasserie;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Schmuck;1 rue de Condé 75006 Paris;48.8517419;2.3384311;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Le Bô Bar;47 bd Saint-Germain 75005 Paris;48.8498259;2.3484976;;;Bar;0;0;0;4
+L’oustal du col St martin;333 Rue St Martin 75003 Paris;48.8679318;2.3549982;;;Restaurant;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+La Godinette;10 rue Vandamme 75014 Paris;48.8396161;2.3228683;17:00;01:00;Restaurant Français;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+Le Globe;118 bd Diderot 75012 Paris;48.8472753;2.3871866;08:00;01:00;Brasserie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Julyann;36 Faubourg Montmartre1 rue Cadet 75009 Paris;48.8741453;2.342271;07:30;00:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Tabac;0;0;0;4
+Vivant Cave;43 rue des Petites Ecuries 75010 Paris;48.8738319;2.3496603;17:00;00:00;Restaurant Français;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Jackets;20 rue de Picardie 75003 Paris;48.8636941;2.3627141;18:00;02:00;Bar à Cocktails;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+Zumo;30 avenue d'ItalieCentre commercial Italie 2 75013 Paris;48.830759;2.359204;;;Pubs;0;0;0;4
+;;;;;;Bar à jus de fruits & smoothies;0;0;0;4
+Le Cercle Luxembourg;1 rue Gay-Lussac 75005 Paris;48.8466293;2.3408382;06:30;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+24 x 36;39 rue de Montreuil 75011 Paris;48.8508301;2.3874929;08:00;00:00;Bar à vins;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Café Charbon;109 Rue Oberkampf 75011 Paris;48.865786;2.3776218;09:00;02:00;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Hideout Beaubourg;173 Rue Saint-Martin 75003 Paris;48.8626188;2.3518435;;;Pubs;0;0;0;4
+Chez Raspoutine;58 rue Bassano 75008 Paris;48.8714002;2.2999947;;;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Dôme de Villiers;4 ave Villiers 75017 Paris;48.8816423;2.3157203;;;Restaurant Français;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Ti Jos;30 rue Delambre 75014 Paris;48.8416161;2.3259866;;;Crêperie;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Le Balto;15 rue Guénégaud 75006 Paris;48.8558073;2.3391235;;;Bar;0;0;0;4
+;;;;;;Bistrot;0;0;0;4
+Brassac Costes;37 avenue Kléber 75116 Paris;48.8690085;2.2919789;;;Bar;0;0;0;4
+L’Appart;9-11 Rue du Colisée 75008 Paris;48.8706724;2.3076708;12:00;23:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+The Collin’s Pub;153 rue de Grenelle 75007 Paris;48.8577926;2.3071464;17:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+L’Absolu;30 rue Vauvenargues 75018 Paris;48.8938417;2.3331318;09:00;14:00;Pubs;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Au Métro;18 Boulevard Pasteur 75015 Paris;48.8428529;2.3123763;;;Bar des sports;0;0;0;4
+Le Haut Paris;1 rue des Envierges 75020 Paris;48.8714715;2.386009;;;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Café;0;0;0;4
+Bibovino;35 rue Charlot 75003 Paris;48.8626612;2.3623006;11:00;14:30;Bar à vins;0;0;0;4
+;;;;;;Bière. vins et liqueurs;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+La Dégustation - Champagnes & Delicatessen;93 rue Lepic 75018 Paris;48.8870605;2.3382075;12:00;00:00;Bar à vins;0;0;0;4
+;;;;;;Épicerie fine;0;0;0;4
+;;;;;;Bar à Champagne;0;0;0;4
+;;;;;;French Restaurants;0;0;0;4
+;;;;;;French Restaurants;0;0;0;4
+;;;;;;Bistros;0;0;0;4
+;;;;;;Bistros;0;0;0;4
+;;;;;;French Restaurants;0;0;0;4
+Le Popincourt;42 Popincourt 75011 Paris;48.8594397;2.3759052;07:00;01:00;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+Crazytroc;1 rue Plat d'Etain 75001 Paris;48.8593285;2.3467088;14:00;21:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Le 20 - 9;9 rue Ordener 75018 Paris;48.8902132;2.3585408;10:30;14:00;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+La Chance;6 bd Pasteur 75015 Paris;48.8446608;2.3107544;12:30;02:00;Café;0;0;0;4
+;;;;;;Bar à narguilé. bar à chicha;0;0;0;4
+Sous Les Pavés La Vigne;119 bd de Magenta 75010 Paris;48.8799724;2.3528063;10:30;13:30;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+;;;;;;;0;0;0;4
+Ne Nous Fâchons Pas;7 rue de Douai 75009 Paris;48.8812309;2.3354103;;;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Fontaine Sully;67 rue Saint Antoine 75004 Paris;48.8541761;2.363447;06:00;02:00;Pubs;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Las Ramblas;14 rue Miollis 75015 Paris;48.8462424;2.3049125;;;Bar des sports;0;0;0;4
+La Cave du 222;222 rue du Faubourg St Honoré 75017 Paris;48.8757861;2.3036863;;;Bar;0;0;0;4
+Le Sanseveria;248 rue de Rivoli 75001 Paris;48.8663545;2.3249115;07:30;23:00;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+Nun’s;112 rue Saint Maur 75011 Paris;48.8667905;2.3764513;18:30;02:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Le Connétable;55 rue des Archives 75003 Paris;48.8615751;2.3582934;18:00;02:00;Bar;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+Kaskad Cafe;2 place Armand Carrel 75019 Paris;48.8823771;2.3818134;09:00;02:00;Bar;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+Les Heures;Bar du prince de Galles33 ave Georges V 75008 Paris;48.8718722;2.3176432;;;Bar;0;0;0;4
+L’Epoque;38 boulevard de Clichy 75018 Paris;48.8828514;2.3361828;10:00;05:00;Bar Lounge;0;0;0;4
+;;;;;;Brasserie;0;0;0;4
+;;;;;;Karaoké;0;0;0;4
+Le Hide Out;46 rue des Lombards 75001 Paris;48.8597974;2.348424;;;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+Club 18;18 rue de Beaujolais 75001 Paris;48.8662634;2.3382184;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Bar gay;0;0;0;4
+Toro;74 rue Jean-Jacques Rousseau 75001 Paris;48.8645588;2.3445547;12:00;02:00;Restaurant Espagnol;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Bar à tapas;0;0;0;4
+;;;;;;Assiettes et planches;0;0;0;4
+La Panfoulia;7 rue Sainte-Croix de la Bretonnerie 75004 Paris;48.8578243;2.3568328;12:00;14:00;Pubs;0;0;0;4
+;;;;;;Restaurant Français;0;0;0;4
+La Taverne;25 rue de Caumartin 75009 Paris;48.8715968;2.3277514;09:00;02:00;Bar;0;0;0;4
+;;;;;;Café;0;0;0;4
+;;;;;;Café et thé;0;0;0;4
+Cache ta joie;92 rue de Charonne 75011 Paris;48.8537627;2.3819893;;;Bar;0;0;0;4
+Le Carbet;115 rue St Maur 75011 Paris;48.8660728;2.3766186;;;Nourriture;0;0;0;4
+;;;;;;Bar;0;0;0;4
+;;;;;;Restaurant Créole;0;0;0;4
+Lavoir Moderne Parisien;20 rue Léon 75018 Paris;48.8878547;2.3535367;16:00;01:00;Bar;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+;;;;;;Spectacle;0;0;0;4
+Iguana Café;15 rue de la Roquette 75011 Paris;48.8543006;2.3712371;;;Bar Lounge;0;0;0;4
+;;;;;;Bar à Cocktails;0;0;0;4
+L’Abreuvoir - FauveParis;49 rue Saint-Sabin 75011 Paris;48.8584272;2.3688348;13:00;22:30;Bar à vins;0;0;0;4
+;;;;;;;0;0;0;4
+Nero Enoteca;3 rue Bachaumontrue piétonne 75002 Paris;48.8675641;2.34399;;;Restaurant Italien;0;0;0;4
+;;;;;;Bar à vins;0;0;0;4
+Mad Boat & Mad Garden;9 port de la GareQuai François Mauriac 75013 Paris;48.834873;2.376331;17:00;02:00;Bar;0;0;0;4
+;;;;;;Boîte de nuit. club;0;0;0;4
+;;;;;;Salle de concert;0;0;0;4
+Bataclan Café;50 bd Voltaire 75011 Paris;48.863063;2.370815;09:00;02:00;Bar;0;0;0;4
+;;;;;;Pub gastronomique;0;0;0;4
+Le Primerose;64 avenue de la Motte-Picquet 75015 Paris;48.8498399;2.2984027;;;Brasserie;0;0;0;4
+;;;;;;Bar tabac presse et PMU;0;0;0;4
+Ouest Bar;64 boulevard Ornano 75018 Paris;48.8960295;2.3460605;07:00;23:00;Bar;0;0;0;4
+;;;;;;;0;0;0;4
+Aux Trois Obus;120 Rue Michel-Ange 75016 Paris;48.838688;2.257189;;;Brasserie;0;0;0;4
+;;;;;;Bar des sports;0;0;0;4
+;;;;;;Pubs;0;0;0;4
+;;;;;;Nourriture;0;0;0;4
+The Glove;34 rue Charlot 75003 Paris;48.8625055;2.3622447;;;Bar;0;0;0;4
+La Tactique;19 rue Pascal 75005 Paris;48.8379287;2.3495371;12:00;02:00;Pubs;0;0;0;4
+;;;;;;;0;0;0;4
+Le Bistrot Lescot;21 rue Pierre Lescot 75001 Paris;48.8635151;2.3487675;10:00;02:00;Bar à vins;0;0;0;4
+Le Progres;62 rue Legendre17 arr 75017 Paris;48.8854176;2.3166387;09:00;02:00;Bar;0;0;0;4
+Le Mauzac;7 rue de L'abbé de L'épée 75005 Paris;48.8430255;2.3419239;12:00;14:30;Restaurant Français;0;0;0;4
+L’Oiseau Blanc;19 rue de Rome 75008 Paris;48.8760924;2.3235747;06:00;00:00;Brasserie;0;0;0;4

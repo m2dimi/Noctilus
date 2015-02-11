@@ -1,9 +1,11 @@
+﻿{
+  "data":
 [
   {
     "Nom":"Urfa D�r�m",
     "Adresse":"56 rue du Faubourg Saint-Denis 75010 Paris",
-    "lat":48.8722541,
-    "lon":2.3544749,
+    "lat":"48.8722541",
+    "lon":"2.3544749",
     "Heure d'ouverture":"12:00",
     "heure fermeture":"23:00",
     "Categorie":"Fast Food",
@@ -15,8 +17,8 @@
   {
     "Nom":"Au P�tit Grec",
     "Adresse":"68 rue Mouffetard 75005 Paris",
-    "lat":48.8427596,
-    "lon":2.3494768,
+    "lat":"48.8427596",
+    "lon":"2.3494768",
     "Heure d'ouverture":"11:00",
     "heure fermeture":"23:30",
     "Categorie":"Cr�perie",
@@ -31148,3 +31150,5 @@
     "Bar":4
   }
 ]
+
+}

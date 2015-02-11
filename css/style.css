@@ -397,3 +397,19 @@ top: 20%;
     bottom: 40px;
   }
 }
+
+
+
+
+
+svg{
+  background: lightgrey
+}
+circle:not(.special){
+  fill: crimson;
+  opacity: .3;
+}
+circle.special{
+	fill:brown;
+  opacity: .6;
+}
