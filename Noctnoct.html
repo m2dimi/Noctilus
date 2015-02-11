@@ -6,6 +6,7 @@
 		
 		<link rel='stylesheet' href='http://codepen.io/assets/libs/fullpage/jquery-ui.css'>
   		<link rel="stylesheet" href="css/noctnoct.css"> 
+  		<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two' rel='stylesheet' type='text/css'>
     </head>
 	
 	<body>
@@ -50,35 +51,57 @@
 			<source src="http://demosthenes.info/assets/videos/polina.mp4" type="video/mp4">
 		</video>
 
+		
+
 		<script>
     	var video = document.getElementsByTagName('video')[0];
-
     	video.onended = function(e) {
     	   window.location = "#section2";
     	};
 		</script>
-
-		
 	</section><!-- cd-section -->
+
 
 
 	<!-- Section 2 -->
 	<section id="section2" class="cd-section">
-		<div id="Food" class="choix">
-			<img src="C:\wamp\www\Noctilus\img\food-gris.png"/>
+		
+		<div id="Food" class="choix" style="text-align: center;">
+			<a href="#section3">
+			<img class="choiximg" src='C:\wamp\www\Noctilus\img\food-gris.png'
+			onmouseover="this.src='C:/wamp/www/Noctilus/img/food-color.png'"
+			onmouseout="this.src='C:/wamp/www/Noctilus/img/food-gris.png'"/>
+			<div id="dalle" class="accroche"><p class="texteaccroche">J'ai la dalle !</p></div>
+			</a>
 		</div>
 
 		<div id="Tabac" class="choix">
-			<img src="C:\wamp\www\Noctilus\img\tabac-gris.png"/>
+			<a href="#section3">
+			<img class="choiximg" src="C:\wamp\www\Noctilus\img\tabac-gris.png"
+			onmouseover="this.src='C:/wamp/www/Noctilus/img/tabac-color.png'"
+			onmouseout="this.src='C:/wamp/www/Noctilus/img/tabac-gris.png'"/>
+			<div id="clope" class="accroche"><p class="texteaccroche">Putain ! C'était ma </br> dernière clope</p></div>
+			</a>
 		</div>
 
 		<div id="Bar" class="choix">
-			<img src="C:\wamp\www\Noctilus\img\bar-gris.png"/>
+			<a href="#section3">
+			<img class="choiximg" src="C:\wamp\www\Noctilus\img\bar-gris.png"
+			onmouseover="this.src='C:/wamp/www/Noctilus/img/bar-color.png'"
+			onmouseout="this.src='C:/wamp/www/Noctilus/img/bar-gris.png'"/>
+			<div id="biere" class="accroche"><p class="texteaccroche">J'ai encore envie </br> d'me la coller !</p></div>
+			</a>
 		</div>
 
 		<div id="Epicerie" class="choix">
-			<img src="C:\wamp\www\Noctilus\img\epicerie-gris.png"/>
+			<a href="#section3">
+			<img class="choiximg" src="C:\wamp\www\Noctilus\img\epicerie-gris.png"
+			onmouseover="this.src='C:/wamp/www/Noctilus/img/epicerie-color.png'"
+			onmouseout="this.src='C:/wamp/www/Noctilus/img/epicerie-gris.png'"/>
+			<div id="achat" class="accroche"><p class="texteaccroche">Y a un rebeu </br> dans l'coin ?</p></div>
+			</a>
 		</div>	
+
 	</section><!-- cd-section -->
 
 
