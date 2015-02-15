@@ -126,8 +126,7 @@
 				<input type="button" id="button" value="Je suis là !" onclick="location = '#section4';" /> 
 				</FORM> 
 	            
-					<script src="js/index.js"></script>
-					<script src="js/script.js"></script>
+					
 
 				</div>
 
@@ -143,6 +142,20 @@
 	
 	<!-- Section 4 -->
 	<section id="section4" class="cd-section radar">
+		<FORM id="champRecherche2"> 
+				<input type="text" id="adresse2" value="" placeholder="Indiquer l'adresse ici"/> 
+				<input type="button" id="button2" value="Je suis là !" onclick="location = '#section4';" /> 
+				</FORM> 
+	            
+	            <script>
+	            	$('#button').click(function(){
+    				$('#adresse2').attr('placeholder', $('#adresse').val());
+					});
+	            </script>
+					
+				<script src="js/index.js"></script>
+				<script src="js/script.js"></script>
+
 		<br/>
 	            <br/>
 					<div id="resultat1"></div>
