@@ -9,6 +9,14 @@
   		<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two' rel='stylesheet' type='text/css'>
   		<script type="text/javascript" src="js/jquery-2.1.1.js"></script>
   		<script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+  		<link href="http://fonts.googleapis.com/css?family=Cabin+Sketch:bold" rel="stylesheet" type="text/css" />
+		
+		<script src="js/d3.js" charset="utf-8"></script>
+        <script src="js/d3.min.js" charset="utf-8"></script>
+		<script src="js/d3.v3.min.js" charset="utf-8"></script>
+		<script src='http://codepen.io/assets/libs/fullpage/jquery_and_jqueryui.js'></script>
+		<script src="js/script.js"></script>
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
 
     </head>
 	
@@ -108,11 +116,26 @@
 
 	<!-- Section 3 -->
 	<section id="section3" class="cd-section radar">
-		<a href="#section4" class="cd-scroll-down cd-img-replace">scroll down</a>
 		<div class="fade-container">
-        <span class="fade">Mhff, j'suis ou déjà ?</span>
-      	</div>
+        	<span class="fade">Mhff, j'suis ou déjà ?</span>
+
+        	
+
+				<FORM id="champRecherche"> 
+				<input type="text" id="adresse" value="50 rue de Montreuil paris 75011" /> 
+				<input type="button" id="button" value="GO !" onclick="location = '#section4';" /> 
+				</FORM> 
+	            
+					<script src="js/index.js"></script>
+					<script src="js/script.js"></script>
+
+				</div>
+
+
+	      	
       	<img class="backgroundsection3" src="img/photorue.png"/>
+
+
 
       	<script src="js/indexfade.js"></script>
 	</section><!-- cd-section -->
@@ -120,7 +143,18 @@
 	
 	<!-- Section 4 -->
 	<section id="section4" class="cd-section radar">
-		
+		<br/>
+	            <br/>
+					<div id="resultat1"></div>
+					<div id="resultat2"></div>
+					<br />
+					<div id="info" >distance (m) <br/> </div>
+					<div id="info0" ><br/> </div>
+	                <div id="info1" ><br/> </div>
+	                <div id="info2" ><br/> </div>
+	                <div id="info3" ><br/> </div>
+	                <div id="info4" ><br/> </div>
+
 	</section><!-- cd-section -->
 
 

@@ -1,3 +1,7 @@
+@charset "utf-8";
+#info0 {
+
+}
 /* -------------------------------- 
 
 Primary style
@@ -482,14 +486,15 @@ p.texteaccroche{
 /*------------------Adresse-------------------*/
 
 #section3{
-  height: auto;
+  height: 100%;
   width: 100%;
+  
   
 }
 
 .backgroundsection3{
-  height: auto;
-  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
   margin:0;
   padding: 0;
   
@@ -497,22 +502,26 @@ p.texteaccroche{
 
 
 .fade-container{
-  width: 800px;
-  height: 300px;
+  width: 300px;
+  height: 150px;
   position: absolute;
+  padding: 10px;
+  text-align: center;
+  margin-top: 20%;
+  margin-left: 40%;
   transition: background 0.15s ease-in-out;
 }
 
 
 .fade{
-  top: 20%;
-  left: 10%;
-  /*transform: translate(-50%,-50%); */
-  position: absolute;
   font-family: 'Shadows Into Light Two', cursive;
   font-size: 1.8em;
   color: rgb(255, 255, 255);
-  text-align: left;
+  z-index: 100;
+}
+
+#champRecherche{
+  font-size: 1.8em;
   z-index: 100;
 }
 
@@ -587,4 +596,15 @@ p.texteaccroche{
     -webkit-transform: none;
             transform: none;
   }
+}
+
+
+
+/*------------------Résultat-------------------*/
+
+#info0{
+  width:200px;
+  height:200px;
+  background:#066;
+  border-radius:100px;
 }

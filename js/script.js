@@ -1,77 +1,9 @@
-function myFunction(){
-setTimeout(function () {
-		$('p.you').fadeOut(4000);
-	},2000); 
-};
 
-  
-  
-function myFunction2(){
-setTimeout(function () {
-		$('p.slide').fadeOut(4000);
-	},2000); 
-};    
-
-
-
-$(document).ready(function(){
-   $("#item").click(function()  {
-     $('.circle1').show();
-	  $('.circle2').show();
-	   $('.circle3').show();
-	    $('.circle4').hide();
-	  $('.circle5').hide();
-	   $('.circle6').hide();
-	   $('.circle7').hide();
-	  $('.circle8').hide();
-	   $('.circle9').hide();
-	   
-   });
- });
- 
- $(document).ready(function(){
-   $("#item2").click(function(){
-	    $('.circle1').hide();
-	  $('.circle2').hide();
-	   $('.circle3').hide();
-     $('.circle4').show();
-	  $('.circle5').show();
-	   $('.circle6').show();
-	   $('.circle7').hide();
-	  $('.circle8').hide();
-	   $('.circle9').hide();
-   });
- });
- 
-  $(document).ready(function(){
-   $("#item3").click(function(){
-	    $('.circle1').hide();
-	  $('.circle2').hide();
-	   $('.circle3').hide();
-     $('.circle4').hide();
-	  $('.circle5').hide();
-	   $('.circle6').hide();
-	   $('.circle7').show();
-	  $('.circle8').show();
-	   $('.circle9').show();
-   });
- });
- 
- 
- function start(data){
-  console.log('voila vos data', data);
-}
-d3.json('bddlatlng.json',start);
-	
-
-
- 
-
-$(document).ready(function(){
-
-	
 	
 	$('#button').click(function() {
+		
+		function start(data){
+  console.log('voila vos data', data);
 			
 		
     	var recup_adress = $('#adresse').val();
@@ -85,76 +17,55 @@ $(document).ready(function(){
 			$('#resultat1').text('La latitude est : ' + maLat);
 			$('#resultat2').text('La longitude est : ' + maLong);
 			
-			
-var points=(data=('bddlatlng.json'));
+			var distances = [];
+for( var i in data) {
+   distances.push({
+   dist: d3.geo.distance([maLat,maLong], [data[i].lat, data[i].lon]),
+   place: data[i].Nom  
+   
+   });
+
+  distances.sort(function (a, b) {
+    if (a.dist > b.dist)
+      return 1;
+    if (a.dist < b.dist)
+      return -1;
+    // a doit être égale à b
+    return 0;
+});
+
+var lesplusproches = distances.slice(0,5);
+
+}
+
+
+
+console.log('les distances',distances)
+console.log('les 5 plus proches',lesplusproches)
+
+
+$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ (lesplusproches[0].dist*6371009 + ' m ')+ "</li>"));
+$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ (lesplusproches[1].dist*6371009 + ' m ')+ "</li>"));
+$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ (lesplusproches[2].dist*6371009 + ' m ')+ "</li>"));
+$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ (lesplusproches[3].dist*6371009 + ' m ')+ "</li>"));
+$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ (lesplusproches[4].dist*6371009 + ' m ')+ "</li>"));
+
+
+
+
+      });
+
+}
+d3.json('bddfood.json', start)
+ 
+});
+
+
+
+  
 
 
 	
-			
-
-
-
-
-var radial_distance = d3.geo.distance([maLat,maLong], [points[1].lat, points[1].lon]);
-
-// multiply radians to the mean radius
-// Cfr. http://en.wikipedia.org/wiki/Earth_radius#Mean_radius
-d3.select("#info").text( radial_distance * 6371009 + 'm');
-
-
-/*
-// draw svg
-var svg = d3.select("#playground").append('svg').attr({
-  width: 400,
-  height: 400
-});
-
-
-svg.append('circle').attr({
-  r: 20,
-  cy: 200,
-  cx: 200
-})
-
-// place the first point
-svg.selectAll('circle.point').data(points).enter()
-  .append('circle')
-    .attr({
-      class: 'point',
-      r: 20,
-      cy: 200,
-      cx: 200
-    })
-
-		
-			
-			var monJSON = 'bddlatlng.json';
-			$.getJSON(monJSON, function(donnee){
-				$.each(donnee, function(i, bar){
-					
-						
-						var mesBars = '<span class="lat">';
-						mesBars += bar.Nom + '</span>';
-						$('#resultat3').append(mesBars);
-														
-				});
-			});
-			*/
-        	});
-    	});
-
-});
-
-
-
-
-
-
-
-
-
-
-
 
 
 
