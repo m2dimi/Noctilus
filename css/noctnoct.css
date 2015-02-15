@@ -502,13 +502,13 @@ p.texteaccroche{
 
 
 .fade-container{
-  width: 300px;
+  width: 400px;
   height: 150px;
   position: absolute;
   padding: 10px;
   text-align: center;
   margin-top: 20%;
-  margin-left: 40%;
+  margin-left: 37%;
   transition: background 0.15s ease-in-out;
 }
 
@@ -523,6 +523,35 @@ p.texteaccroche{
 #champRecherche{
   font-size: 1.8em;
   z-index: 100;
+  margin-top: 10px;
+}
+
+
+#adresse  {
+  padding: 10px;
+  border: none;
+  border-bottom: solid 3px #c9c9c9;
+  transition: border 0.3s;
+  width: 200px;
+}
+#adresse:focus {
+  border-bottom: solid 3px #39a85a;
+}
+
+
+#button{
+  padding: 10px;
+  background-color: #39a85a;
+  color: white;
+  border: none;
+  border-bottom: solid 3px #2c8746;
+}
+
+#button:hover {
+  border-bottom: solid 3px #1c562d;
+  background-color: #2c8746;
+  cursor: pointer; 
+  cursor: hand;
 }
 
 .fadeInDown{
@@ -608,3 +637,4 @@ p.texteaccroche{
   background:#066;
   border-radius:100px;
 }
+
