@@ -684,10 +684,26 @@ p.texteaccroche{
   border-radius:100px;
 }
 
+#resultatGraphique{
+  position: absolute;
+  width: 350px;
+  left:0;
+  right:0;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 10%;
+  
+  
+  
+}
+
 #champRecherche2{
   font-size: 1.8em;
   z-index: 100;
-  margin-top: 10px;
+  margin-top: 50px;
+  margin-left: 20px;
+  position: absolute;
+
 }
 
 
