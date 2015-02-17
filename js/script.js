@@ -1,8 +1,11 @@
 /* FONCTION 1 BAR*/
 
+
 var myFunction1 = function (){
 	
-$('#button').click(function() {
+	$('#button').click(function() {
+		
+		
 		
 		function start(data){
   console.log('voila vos data', data);
@@ -37,14 +40,13 @@ for( var i in data.bar) {
 
   var lesplusproches = distances.slice(0,5);
 }
-console.log('les distances',distances)
-console.log('les 5 plus proches',lesplusproches)
 
-$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
+
+$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
+$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
+$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
+$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
+$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
 
       });
@@ -56,8 +58,9 @@ d3.json('bddlatlng.json', start)
 
 
 
-  $('#button2').click(function() {
-    
+$('#button2').click(function() {
+	
+	
     function start(data){
   console.log('voila vos data', data);
       
@@ -70,8 +73,8 @@ d3.json('bddlatlng.json', start)
       var maLat = res.results[0].geometry.location.lat;
       var maLong = res.results[0].geometry.location.lng;
       
-      $('#resultat1').text('La latitude est : ' + maLat);
-      $('#resultat2').text('La longitude est : ' + maLong);
+      $('#resultat3').text('La latitude est : ' + maLat);
+      $('#resultat4').text('La longitude est : ' + maLong);
       
       var distances = [];
 for( var i in data.bar) {
@@ -95,15 +98,14 @@ for( var i in data.bar) {
 }
 
 
-console.log('les distances',distances)
-console.log('les 5 plus proches',lesplusproches)
+$("#resultatGraphique").remove();
 
 
-$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
+$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
+$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
+$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
+$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
+$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
 
 
@@ -118,8 +120,9 @@ d3.json('bddlatlng.json', start)
 });
 
 
-
 };
+
+
 
 
 /* FONCTION 2 TABAC */
@@ -165,12 +168,12 @@ for( var i in data.tabac) {
 console.log('les distances',distances)
 console.log('les 5 plus proches',lesplusproches)
 
-$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
 
+$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
+$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
+$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
+$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
+$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
       });
 	
@@ -195,8 +198,8 @@ $('#button2').click(function() {
       var maLat = res.results[0].geometry.location.lat;
       var maLong = res.results[0].geometry.location.lng;
       
-      $('#resultat1').text('La latitude est : ' + maLat);
-      $('#resultat2').text('La longitude est : ' + maLong);
+      $('#resultat3').text('La latitude est : ' + maLat);
+      $('#resultat4').text('La longitude est : ' + maLong);
       
       var distances = [];
 for( var i in data.tabac) {
@@ -218,17 +221,15 @@ for( var i in data.tabac) {
   var lesplusproches = distances.slice(0,5);
 
 }
+$("#resultatGraphique").remove();
 
 
-console.log('les distances',distances)
-console.log('les 5 plus proches',lesplusproches)
+$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
+$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
+$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
+$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
+$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
-
-$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
 
 
 
@@ -290,14 +291,13 @@ for( var i in data.food) {
 
   var lesplusproches = distances.slice(0,5);
 }
-console.log('les distances',distances)
-console.log('les 5 plus proches',lesplusproches)
 
-$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
+
+$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
+$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
+$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
+$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
+$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
 
       });
@@ -323,8 +323,8 @@ $('#button2').click(function() {
       var maLat = res.results[0].geometry.location.lat;
       var maLong = res.results[0].geometry.location.lng;
       
-      $('#resultat1').text('La latitude est : ' + maLat);
-      $('#resultat2').text('La longitude est : ' + maLong);
+      $('#resultat3').text('La latitude est : ' + maLat);
+      $('#resultat4').text('La longitude est : ' + maLong);
       
       var distances = [];
 for( var i in data.food) {
@@ -348,21 +348,17 @@ for( var i in data.food) {
 }
 
 
-console.log('les distances',distances)
-console.log('les 5 plus proches',lesplusproches)
+$("#resultatGraphique").remove();
 
 
-$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
+$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
+$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
+$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
+$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
+$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
 
-
-
-
-      });
+  });
 
 }
 
@@ -416,14 +412,13 @@ for( var i in data.epicerie) {
 
   var lesplusproches = distances.slice(0,5);
 }
-console.log('les distances',distances)
-console.log('les 5 plus proches',lesplusproches)
 
-$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
+
+$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
+$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
+$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
+$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
+$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
 
       });
@@ -449,8 +444,8 @@ $('#button2').click(function() {
       var maLat = res.results[0].geometry.location.lat;
       var maLong = res.results[0].geometry.location.lng;
       
-      $('#resultat1').text('La latitude est : ' + maLat);
-      $('#resultat2').text('La longitude est : ' + maLong);
+      $('#resultat3').text('La latitude est : ' + maLat);
+      $('#resultat4').text('La longitude est : ' + maLong);
       
       var distances = [];
 for( var i in data.epicerie) {
@@ -474,16 +469,14 @@ for( var i in data.epicerie) {
 }
 
 
-console.log('les distances',distances)
-console.log('les 5 plus proches',lesplusproches)
+$("#resultatGraphique").remove();
 
 
-
-$('#info0').append(jQuery("<li>"+lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info1').append(jQuery("<li>"+lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info2').append(jQuery("<li>"+lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info3').append(jQuery("<li>"+lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
-$('#info4').append(jQuery("<li>"+lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m ')+ "</li>"));
+$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
+$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
+$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
+$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
+$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
 
 

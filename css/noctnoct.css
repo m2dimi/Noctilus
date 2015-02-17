@@ -679,12 +679,7 @@ p.texteaccroche{
 
 /*------------------Résultat-------------------*/
 
-#info0{
-  width:200px;
-  height:200px;
-  background:#066;
-  border-radius:100px;
-}
+
 
 
 
@@ -806,13 +801,24 @@ p.texteaccroche{
 }
 
 #resultatGraphique{
-background-image: url("../img/smartphoneDetour.png");
-    background-position: left bottom;
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    height: 100%;
-    padding-left: 58%;
-    padding-top: 22%;
+  background-image: url("../img/smartphoneDetour.png");
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 100%;
+  padding-left: 58%;
+  padding-top: 22%;
+
+}
+
+#resultatGraphique2{
+  background-image: url("../img/smartphoneDetour.png");
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 100%;
+  padding-left: 58%;
+  padding-top: 22%;
 
 }
 
@@ -822,4 +828,11 @@ background-image: url("../img/smartphoneDetour.png");
   background-image:url("../img/photoSol.jpg");
   background-repeat:no-repeat;
   z-index: 50;
+}
+
+#info0{
+  width:200px;
+  height:200px;
+  background:#066;
+  border-radius:100px;
 }
