@@ -732,3 +732,8 @@ p.texteaccroche{
   cursor: pointer; 
   cursor: hand;
 }
+
+#foodPicto {
+  height: 5em;
+  width: 5em;
+}

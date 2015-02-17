@@ -84,8 +84,8 @@
 
 
 		<video autoplay  poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/polina.jpg" id="bgvid" >
-			<source src="http://demosthenes.info/assets/videos/polina.webm" type="video/webm">
-			<source src="http://demosthenes.info/assets/videos/polina.mp4" type="video/mp4">
+			<source src="img/videoBar.webm" type="video/webm">
+			<source src="img/videoBar.mp4" type="video/mp4">
 		</video>
 
 		
@@ -169,9 +169,23 @@
 	<!-- Section 4 -->
 	<section id="section4" class="cd-section radar">
 		<FORM id="champRecherche2"> 
+			<div style="z-index:100;" id="foodPicto" >		
+				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+				 width="179.26px" height="140px" viewBox="0 0 179.26 140" enable-background="new 0 0 179.26 140" xml:space="preserve">
+				<g>
+				<polygon fill="#E30613" points="141.76,34 145.01,25.5 179.26,5 176.76,0 133.26,15 125.51,34 66.01,34 66.01,49 73.969,48.938 
+				86.136,140 145.053,140 156.938,48.958 165.969,48.958 165.938,33.958 	"/>
+				<path fill="#E30613" d="M68.927,87.041l-2.917-24H27.969c-18.417,3.083-17.042,24-17.042,24H68.927z"/>
+				<path fill="#E30613" d="M10.802,116c0,0-1.375,20.916,17.042,24h49.042l-3.875-24H10.802z"/>
+				<path fill="#E30613" d="M69.969,94.041h-62c-10.625,1.563-10.625,12.5,0,14c5.688,0,63.875,0,63.875,0L69.969,94.041z"/>
+				</g>
+				</svg>
+			</div>
+
+
 				<input type="text" id="adresse2" value="" placeholder="Indiquer l'adresse ici"/> 
 				<input type="button" id="button2" value="Je suis là !" onclick="location = '#section4';" /> 
-				</FORM> 
+		</FORM> 
 	            
 	            <script>
 	            	$('#button').click(function(){
