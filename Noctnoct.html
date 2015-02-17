@@ -27,7 +27,7 @@
 			<h1 id="titreProjet">NoctNoct</h1>
 
 			<ul id="listeMenu">
-				<li class="menu"><a onclick="highlite(this)" href="#section1" value="Immersion">Immersion</a></li>
+				<li class="menu" onclick="video.play();"><a onclick="highlite(this)" href="#section1" value="Immersion">Immersion</a></li>
 				<li class="menu"><a onclick="highlite(this)" href="#section4" value="Prototype">Prototype</a></li>
 				<li class="menu"><a onclick="highlite(this)" href="#section5" value="Concept">Concept</a></li>
 				<li class="menu"><a onclick="highlite(this)" href="#section7" value="A propos">A propos</a></li>
@@ -102,7 +102,7 @@
 	<!-- Section 2 -->
 	<section id="section2" class="cd-section">
 		
-		<div id="Food" class="choix" style="text-align: center;">
+		<div id="Food" class="choix" style="text-align: center;" onclick="myFunction3();">
 			<a href="#section3" onclick="stepAnimateText('.fade','fadeInDown', 0.1);">
 			<img class="choiximg" src='img\food-gris.png'
 			onmouseover="this.src='img/food-color.png'"
@@ -111,7 +111,7 @@
 			</a>
 		</div>
 
-		<div id="Tabac" class="choix">
+		<div id="Tabac" class="choix" onclick="myFunction2();">
 			<a href="#section3" onclick="stepAnimateText('.fade','fadeInDown', 0.1);">
 			<img class="choiximg" src="img\tabac-gris.png"
 			onmouseover="this.src='img/tabac-color.png'"
@@ -120,7 +120,7 @@
 			</a>
 		</div>
 
-		<div id="Bar" class="choix">
+		<div id="Bar" class="choix" onclick="myFunction1();">
 			<a href="#section3" onclick="stepAnimateText('.fade','fadeInDown', 0.1);">
 			<img class="choiximg" src="img\bar-gris.png"
 			onmouseover="this.src='img/bar-color.png'"
@@ -129,7 +129,7 @@
 			</a>
 		</div>
 
-		<div id="Epicerie" class="choix">
+		<div id="Epicerie" class="choix" onclick="myFunction4();">
 			<a href="#section3" onclick="stepAnimateText('.fade','fadeInDown', 0.1);">
 			<img class="choiximg" src="img\epicerie-gris.png"
 			onmouseover="this.src='img/epicerie-color.png'"
