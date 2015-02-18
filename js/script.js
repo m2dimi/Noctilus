@@ -1,14 +1,10 @@
 /* FONCTION 1 BAR*/
 
-
 var myFunction1 = function (){
 	
-	$('#button').click(function() {
-		
-		
-		
+	$('#button,#fondBar').click(function() {
 		function start(data){
-  console.log('voila vos data', data);
+  		console.log('voila vos data', data);
 			
 		
     	var recup_adress = $('#adresse').val();
@@ -27,7 +23,9 @@ var distances = [];
 for( var i in data.bar) {
 	distances.push({
    dist: d3.geo.distance([maLat,maLong], [data.bar[i].lat, data.bar[i].lon]),
-   place: data.bar[i].Nom
+   place: data.bar[i].Nom,
+   ouverture: data.bar[i].Heureo,
+   fermeture: data.bar[i].Heuref
    });
   distances.sort(function (a, b) {
     if (a.dist > b.dist)
@@ -42,11 +40,15 @@ for( var i in data.bar) {
 }
 
 
-$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
-$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
-$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
-$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
-$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
+$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[0].ouverture+"-"+ lesplusproches[0].fermeture);
+
+$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[1].ouverture+"-"+ lesplusproches[1].fermeture);
+
+$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[2].ouverture+"-"+ lesplusproches[2].fermeture);
+
+$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[3].ouverture+"-"+ lesplusproches[3].fermeture);
+
+$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[4].ouverture+"-"+ lesplusproches[4].fermeture);
 
 
       });
@@ -58,7 +60,7 @@ d3.json('bddlatlng.json', start)
 
 
 
-$('#button2').click(function() {
+$('#button2,#fondBar').click(function() {
 	
 	
     function start(data){
@@ -80,8 +82,9 @@ $('#button2').click(function() {
 for( var i in data.bar) {
    distances.push({
    dist: d3.geo.distance([maLat,maLong], [data.bar[i].lat, data.bar[i].lon]),
-   place: data.bar[i].Nom  
-   
+   place: data.bar[i].Nom,
+   ouverture: data.bar[i].Heureo,
+   fermeture: data.bar[i].Heuref
    });
 
   distances.sort(function (a, b) {
@@ -101,11 +104,15 @@ for( var i in data.bar) {
 $("#resultatGraphique").remove();
 
 
-$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
-$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
-$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
-$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
-$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
+$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[0].ouverture+"-"+ lesplusproches[0].fermeture);
+
+$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[1].ouverture+"-"+ lesplusproches[1].fermeture);
+
+$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[2].ouverture+"-"+ lesplusproches[2].fermeture);
+
+$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[3].ouverture+"-"+ lesplusproches[3].fermeture);
+
+$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[4].ouverture+"-"+ lesplusproches[4].fermeture);
 
 
 
@@ -130,7 +137,7 @@ d3.json('bddlatlng.json', start)
 
 var myFunction2 = function (){
 	
-	$('#button').click(function() {
+	$('#button,#fondTabac').click(function() {
 		
 		function start(data){
   console.log('voila vos data', data);
@@ -152,7 +159,9 @@ var distances = [];
 for( var i in data.tabac) {
 	distances.push({
    dist: d3.geo.distance([maLat,maLong], [data.tabac[i].lat, data.tabac[i].lon]),
-   place: data.tabac[i].Nom
+   place: data.tabac[i].Nom,
+   ouverture: data.tabac[i].Heureo,
+   fermeture: data.tabac[i].Heuref
    });
   distances.sort(function (a, b) {
     if (a.dist > b.dist)
@@ -169,11 +178,17 @@ console.log('les distances',distances)
 console.log('les 5 plus proches',lesplusproches)
 
 
-$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
-$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
-$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
-$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
-$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
+$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[0].ouverture+"-"+ lesplusproches[0].fermeture);
+
+$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[1].ouverture+"-"+ lesplusproches[1].fermeture);
+
+$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[2].ouverture+"-"+ lesplusproches[2].fermeture);
+
+$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[3].ouverture+"-"+ lesplusproches[3].fermeture);
+
+$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[4].ouverture+"-"+ lesplusproches[4].fermeture);
+
+
 
       });
 	
@@ -184,7 +199,7 @@ d3.json('bddlatlng.json', start)
 
 
 
-$('#button2').click(function() {
+$('#button2,#fondTabac').click(function() {
     
     function start(data){
   console.log('voila vos data', data);
@@ -205,7 +220,9 @@ $('#button2').click(function() {
 for( var i in data.tabac) {
    distances.push({
    dist: d3.geo.distance([maLat,maLong], [data.tabac[i].lat, data.tabac[i].lon]),
-   place: data.tabac[i].Nom  
+   place: data.tabac[i].Nom ,
+   ouverture: data.tabac[i].Heureo,
+   fermeture: data.tabac[i].Heuref 
    
    });
 
@@ -224,12 +241,16 @@ for( var i in data.tabac) {
 $("#resultatGraphique").remove();
 
 
-$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
-$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
-$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
-$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
-$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
 
+$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[0].ouverture+"-"+ lesplusproches[0].fermeture);
+
+$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[1].ouverture+"-"+ lesplusproches[1].fermeture);
+
+$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[2].ouverture+"-"+ lesplusproches[2].fermeture);
+
+$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[3].ouverture+"-"+ lesplusproches[3].fermeture);
+
+$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[4].ouverture+"-"+ lesplusproches[4].fermeture);
 
 
 
@@ -255,7 +276,7 @@ d3.json('bddlatlng.json', start)
 
 var myFunction3 = function (){
 	
-	$('#button').click(function() {
+	$('#button,#fondFood').click(function() {
 		
 		function start(data){
   console.log('voila vos data', data);
@@ -277,7 +298,9 @@ var distances = [];
 for( var i in data.food) {
 	distances.push({
    dist: d3.geo.distance([maLat,maLong], [data.food[i].lat, data.food[i].lon]),
-   place: data.food[i].Nom
+   place: data.food[i].Nom,
+   ouverture: data.food[i].Heureo,
+   fermeture: data.food[i].Heuref
 
    });
   distances.sort(function (a, b) {
@@ -293,11 +316,18 @@ for( var i in data.food) {
 }
 
 
-$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
-$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
-$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
-$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
-$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
+
+$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[0].ouverture+"-"+ lesplusproches[0].fermeture);
+
+$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[1].ouverture+"-"+ lesplusproches[1].fermeture);
+
+$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[2].ouverture+"-"+ lesplusproches[2].fermeture);
+
+$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[3].ouverture+"-"+ lesplusproches[3].fermeture);
+
+$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[4].ouverture+"-"+ lesplusproches[4].fermeture);
+
+
 
 
       });
@@ -309,7 +339,7 @@ d3.json('bddlatlng.json', start)
 
 
 
-$('#button2').click(function() {
+$('#button2,#fondFood').click(function() {
     
     function start(data){
   console.log('voila vos data', data);
@@ -330,7 +360,9 @@ $('#button2').click(function() {
 for( var i in data.food) {
    distances.push({
    dist: d3.geo.distance([maLat,maLong], [data.food[i].lat, data.food[i].lon]),
-   place: data.food[i].Nom  
+   place: data.food[i].Nom,
+   ouverture: data.food[i].Heureo,
+   fermeture: data.food[i].Heuref
    
    });
 
@@ -351,11 +383,17 @@ for( var i in data.food) {
 $("#resultatGraphique").remove();
 
 
-$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
-$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
-$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
-$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
-$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
+
+$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[0].ouverture+"-"+ lesplusproches[0].fermeture);
+
+$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[1].ouverture+"-"+ lesplusproches[1].fermeture);
+
+$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[2].ouverture+"-"+ lesplusproches[2].fermeture);
+
+$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[3].ouverture+"-"+ lesplusproches[3].fermeture);
+
+$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[4].ouverture+"-"+ lesplusproches[4].fermeture);
+
 
 
   });
@@ -377,7 +415,7 @@ d3.json('bddlatlng.json', start)
 
 var myFunction4 = function (){
 	
-	$('#button').click(function() {
+	$('#button, #fondEpicerie').click(function() {
 		
 		function start(data){
   console.log('voila vos data', data);
@@ -399,7 +437,9 @@ var distances = [];
 for( var i in data.epicerie) {
 	distances.push({
    dist: d3.geo.distance([maLat,maLong], [data.epicerie[i].lat, data.epicerie[i].lon]),
-   place: data.epicerie[i].Nom
+   place: data.epicerie[i].Nom,
+   ouverture: data.epicerie[i].Heureo,
+   fermeture: data.epicerie[i].Heuref
    });
   distances.sort(function (a, b) {
     if (a.dist > b.dist)
@@ -414,11 +454,18 @@ for( var i in data.epicerie) {
 }
 
 
-$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
-$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
-$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
-$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
-$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
+
+$('#info0').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[0].ouverture+"-"+ lesplusproches[0].fermeture);
+
+$('#info1').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[1].ouverture+"-"+ lesplusproches[1].fermeture);
+
+$('#info2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[2].ouverture+"-"+ lesplusproches[2].fermeture);
+
+$('#info3').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[3].ouverture+"-"+ lesplusproches[3].fermeture);
+
+$('#info4').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[4].ouverture+"-"+ lesplusproches[4].fermeture);
+
+
 
 
       });
@@ -430,7 +477,7 @@ d3.json('bddlatlng.json', start)
 
 
 
-$('#button2').click(function() {
+$('#button2,#fondEpicerie').click(function() {
     
     function start(data){
   console.log('voila vos data', data);
@@ -451,7 +498,9 @@ $('#button2').click(function() {
 for( var i in data.epicerie) {
    distances.push({
    dist: d3.geo.distance([maLat,maLong], [data.epicerie[i].lat, data.epicerie[i].lon]),
-   place: data.epicerie[i].Nom  
+   place: data.epicerie[i].Nom,
+   ouverture: data.epicerie[i].Heureo,
+   fermeture: data.epicerie[i].Heuref  
    
    });
 
@@ -472,11 +521,17 @@ for( var i in data.epicerie) {
 $("#resultatGraphique").remove();
 
 
-$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + ' m '));
-$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + ' m '));
-$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + ' m '));
-$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + ' m '));
-$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + ' m '));
+$('#info0_2').text(lesplusproches[0].place+' à '+ ((lesplusproches[0].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[0].ouverture+"-"+ lesplusproches[0].fermeture);
+
+$('#info1_2').text(lesplusproches[1].place+' à '+ ((lesplusproches[1].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[1].ouverture+"-"+ lesplusproches[1].fermeture);
+
+$('#info2_2').text(lesplusproches[2].place+' à '+ ((lesplusproches[2].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[2].ouverture+"-"+ lesplusproches[2].fermeture);
+
+$('#info3_2').text(lesplusproches[3].place+' à '+ ((lesplusproches[3].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[3].ouverture+"-"+ lesplusproches[3].fermeture);
+
+$('#info4_2').text(lesplusproches[4].place+' à '+ ((lesplusproches[4].dist*6371009).toFixed(0) + "m")+"\n   " +lesplusproches[4].ouverture+"-"+ lesplusproches[4].fermeture);
+
+
 
 
 
@@ -491,3 +546,7 @@ d3.json('bddlatlng.json', start)
 
 
 };
+
+
+
+

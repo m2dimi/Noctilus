@@ -24,7 +24,7 @@
 
 	<div id="header">
 
-		<h1 id="titreProjet">NoctNoct</h1>
+		<h1 id="titreProjet" onclick="video.play();"><a href="#section1" value="Immersion">NoctNoct</a></h1>
 
 		<ul id="listeMenu">
 			<li class="menu" onclick="video.play();"><a onclick="highlite(this)" href="#section1" value="Immersion">Immersion</a></li>
@@ -175,7 +175,7 @@
 		<section id="section4" class="cd-section radar">
 
 			<div id="choixService">
-				<div style="z-index:100;" class="pictos" id="fondFood" onclick="highliteService(this)">		
+				<div style="z-index:100;" class="pictos" id="fondFood" onclick="highliteService(this),myFunction1(),myFunction2(),myFunction4();">		
 					<svg version="1.1" id="foodPicto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 					width="179.26px" height="140px" viewBox="0 0 179.26 140" enable-background="new 0 0 179.26 140" xml:space="preserve">
 					<g>
@@ -188,7 +188,7 @@
 				</svg>
 			</div>
 
-			<div style="z-index:100;" class="pictos" id="fondTabac"onclick="highliteService(this)">		
+			<div style="z-index:100;" class="pictos" id="fondTabac" onclick="highliteService(this),myFunction1(),myFunction3(),myFunction4();">		
 				<svg version="1.1" id="tabacPicto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 				width="164.283px" height="157.521px" viewBox="0 0 164.283 157.521" enable-background="new 0 0 164.283 157.521"
 				xml:space="preserve">
@@ -210,7 +210,7 @@
 			</svg>
 		</div>
 
-		<div style="z-index:100;" class="pictos" id="fondBar" onclick="highliteService(this)">	
+		<div style="z-index:100;" class="pictos" id="fondBar" onclick="highliteService(this),myFunction3(),myFunction2(),myFunction4();">	
 			<svg version="1.1" id="barPicto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 			width="147.563px" height="160.058px" viewBox="0 0 147.563 160.058" enable-background="new 0 0 147.563 160.058"
 			xml:space="preserve">
@@ -251,7 +251,7 @@
 		</svg>
 	</div>
 
-	<div style="z-index:100;" class="pictos" id="fondEpicerie" onclick="highliteService(this)">	
+	<div style="z-index:100;" class="pictos" id="fondEpicerie" onclick="highliteService(this),myFunction1(),myFunction2(),myFunction3();">		
 		<svg version="1.1" id="epiceriePicto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 		width="156.875px" height="139.082px" viewBox="0 0 156.875 139.082" enable-background="new 0 0 156.875 139.082"
 		xml:space="preserve">
