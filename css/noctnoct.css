@@ -812,14 +812,30 @@ p.texteaccroche{
 
 }
 
+.item {
+width: 100px;
+height: 100px;
+background: #D5392A;
+border: 3px solid #c9c9c9;
+border-radius: 50%;
+float: left;
+margin-right: 10px;
+margin-top: 7px;
+padding-top: 20px;
+text-align: center;
+color: white;
+padding-right: 7px;
+padding-left: 7px;
+}
+
 #resultatGraphique{
   background-image: url("../img/smartphoneDetour.png");
   background-position: left bottom;
   background-repeat: no-repeat;
   background-size: 100% auto;
   height: 100%;
-  padding-left: 58%;
-  padding-top: 22%;
+  padding-left: 57%;
+  padding-top: 21%;
 
 }
 
